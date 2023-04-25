@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<?IS10744 arch
+  name="SLlink-Oxygen"
+  public-id="-//STEP//NOTATION SigmaLink link architecture//EN"
+  dtd-public-id="-//STEP//DTD SigmaLink link architecture//EN"
+  renamer-att="SLNames"
+?><?ATTLINK table-block id "SLT"?><?ATTLINK table-block-simple id "SLT"?><?ATTLINK chronology id "SLT"?><?ATTLINK res-institutes id "SLT"?><?ATTLINK political-profile-group id "SLT"?><?ATTLINK commodities id "SLT"?><?ATTLINK endnote id "SLT"?><?ATTLINK endnoteref slid "SLA"?><?ATTLINK footnote id "SLT"?><?ATTLINK p id "SLT"?><?ATTLINK p-group id "SLT"?><?ATTLINK xr slid "SLA"?><?ATTLINK anchor id "SLT"?><?ATTLINK intro-survey id "SLT"?><?ATTLINK territory-group id "SLT"?><?ATTLINK territory-group-content id "SLT"?><?ATTLINK territory id "SLT"?><?ATTLINK is-section id "SLT"?><?ATTLINK territory-simple id "SLT"?><?ATTLINK territory-section id "SLT"?><?ATTLINK stats-survey id "SLT"?><?ATTLINK ss-section id "SLT"?><?ATTLINK ss-entry-table id "SLT"?><?ATTLINK ss-entry-simple id "SLT"?><?ATTLINK directory id "SLT"?><?ATTLINK dir-section id "SLT"?><?ATTLINK dir-entry id "SLT"?><?ATTLINK dir-entry-simple id "SLT"?><?ATTLINK article id "SLT"?><?ATTLINK org-entry id "SLT"?><?ATTLINK org-entry-expanded id "SLT"?><?ATTLINK org-entry-simple id "SLT"?><?ATTLINK bibl-section id "SLT"?><?ATTLINK bibl-entry id "SLT"?><?ATTLINK bibl-entry-expanded id "SLT"?><?ATTLINK country-overview id "SLT"?><?ATTLINK country-survey id "SLT"?><?ATTLINK gen-section id "SLT"?><?ATTLINK essay id "SLT"?><?ATTLINK weights-and-measures id "SLT"?><?ATTLINK periodicals id "SLT"?><?ATTLINK int-org-group id "SLT"?><?ATTLINK int-org-entry id "SLT"?><?ATTLINK int-org-entry-simple id "SLT"?><?ATTLINK int-org-section id "SLT"?><?ATTLINK stats-table id "SLT"?><?Pub EntList AElig Aacute Abreve Acirc Agrave Amacr Aogon Aring Atilde Auml
+ Cacute Ccaron Ccedil Ccirc Cdot Dagger Dstrok ETH Dcaron Eacute Ecaron Ecirc
+ Egrave Emacr Eogon Euml Edot Gbreve Gcedil Gcirc Gdot Hcirc Iacute Icirc
+ Idot Igrave Imacr Iogon Itilde Iuml Jcirc Lacute Lcaron Lstrok Nacute Ncaron
+ Ntilde OElig Oacute Ocirc Ograve Omacr Oslash Otilde Ouml Racute Rcaron Sacute
+ Scaron Scedil Scirc THORN Uacute Ubreve Ucirc Udblac Ugrave Umacr Uogon Uring
+ Utilde Uuml Yacute Yuml Zacute Zcaron Zdot aacute abreve acirc aelig agrave
+ amacr amp aogon aring atilde auml cacute ccaron ccedil ccirc cdot copy dagger
+ deg dcaron dstrok eacute ecaron ecirc edot egrave emacr emsp ensp eogon eth
+ euml euro frac12 frac13 frac14 frac34 frac23 gbreve gcirc gdot iacgr iacute
+ icirc iexcl igrave imacr inodot itilde iuml lcaron ldquo lsquo lstrok mdash
+ minus nacute nbsp ncaron ndash ntilde oacute ocirc odblac oelig ograve omacr
+ oslash otilde ouml para racute rcaron rdquo rsquo sacute scaron scedil scirc
+ sect tcedil thinsp thorn uacute ubreve?><COUNTRY-OVERVIEW
+ID="AG.CO"
+ISO="ag"
+MEDIA="ONLINE"
+><?Pub Tag atict:info tracking="off"
+ref="1"?><?Pub Tag atict:user user="ansarik" fullname="Ansari, Md. Khalid"?><?Pub Tag atict:user user="WestJ" fullname="West, Jackie"?><?Pub Tag atict:user
+user="reynoldsa" fullname="Reynolds, Adrian"?><?Pub Tag atict:user user="gruard"
+fullname="Gruar, David"?><?Pub Tag atict:user user="GusainA" fullname="adm-SangheraH"?><?Pub Tag atict:user user="aroram" fullname="Arora, Meghal"?><?Pub Tag atict:user
+user="maherj" fullname="Joanne Maher"?><?Pub Tag atict:user user="McIntyreP"
+fullname="McIntyre, Philip"?><?Pub Tag atict:user user="grayerm" fullname="Michael Grayer"?><?Pub Tag atict:user user="chopras" fullname="Chopra, Swati"?><?Pub Tag atict:user
+user="gambhirs" fullname="Gambhir, Swati"?><?Pub Tag atict:user user="westj"
+fullname="Jackie West"?><?Pub Tag atict:user user="sarkarni" fullname="Sarkar, Nirbachita"?><?Pub Tag atict:user user="sharmaak" fullname="Sharma, Akshay"?><?Pub Tag atict:user
+user="pmcintyre" fullname="Philip McIntyre"?><?Pub Tag atict:user user="chamberlaink"
+fullname="Chamberlain, Kim"?><?Pub Tag atict:user user="wadhawanv" fullname="Wadhawan, Varun"?><?Pub Tag atict:user user="KaurM" fullname="Kaur, Manmeet"?><?Pub Tag atict:user
+user="mehdis" fullname="Mehdi, Syed Zaki"?><?Pub Tag atict:user user="RathorD"
+fullname="Divya Rathor"?><?Pub Tag atict:user user="Kumariak" fullname="Kumaria, Kawal"?><?Pub Tag atict:user user="dward" fullname="Dan Ward"?><?Pub Tag atict:user
+user="mcintyrep" fullname="Philip McIntyre"?><P
+>Comprising three islands (Antigua, Barbuda and Redonda) lying along the
+outer edge of the Leeward Islands chain in the Caribbean Sea, <XR
+REF="AG.IS.1"
+PAGEREF="N"
+>Antigua and Barbuda</XR> is a constitutional monarchy whose head
+of state is the British sovereign. The territory became independent in 1981.
+The Antigua and Barbuda Labour Party (ABLP) dominated politics almost interruptedly
+from 1946 to 2004, when the United Progressive Party won power. The ABLP regained
+power in 2014 and secured further terms in 2018 and 2023. St John&amp;rsquo;s
+is the capital. English is the official language.</P><GEN-SECTION
+SECT-TYPE="gov-pol"
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+><XR
+REF="AG.DIR.23"
+PAGEREF="N"
+>Government</XR></HEADING><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Head of State</HEADING><P
+>HM King Charles III</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Head of Government</HEADING><P
+>Prime Minister Gaston Browne</P></GEN-SECTION></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+><XR
+REF="AG.DIR.63"
+PAGEREF="N"
+>Legislative Election</XR></HEADING><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Last election</HEADING><P
+>1<?Pub Caret1?>8 January 2023</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Next election</HEADING><P
+>due 2028</P></GEN-SECTION></GEN-SECTION><GEN-SECTION
+SECT-TYPE="area-pop"
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+><XR
+REF="AG.SS.3"
+PAGEREF="N"
+>Area and Population</XR></HEADING><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Area</HEADING><P
+>442 sq km</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Population</HEADING><HEADING-NOTE
+>UN projection, mid-2023</HEADING-NOTE><P
+>94,298</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Population density</HEADING><HEADING-NOTE
+>at mid-2023</HEADING-NOTE><P
+>213.5 per sq km</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Life expectancy</HEADING><HEADING-NOTE
+>years at birth, 2022</HEADING-NOTE><P
+>79.2 (males 76.5; females 81.6)</P></GEN-SECTION></GEN-SECTION><GEN-SECTION
+SECT-TYPE="finance"
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+><XR
+REF="AG.SS.30"
+PAGEREF="N"
+>Finance</XR></HEADING><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>GDP in current prices</HEADING><HEADING-NOTE
+>World Bank estimates, 2021</HEADING-NOTE><P
+>US $1,471m. ($14,901 per head)</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Real GDP growth</HEADING><HEADING-NOTE
+>preliminary, 2021</HEADING-NOTE><P
+>5.3%</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Inflation</HEADING><HEADING-NOTE
+>average change in consumer prices, 2021</HEADING-NOTE><P
+>1.7%</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Currency</HEADING><P
+>Eastern Caribbean dollar</P></GEN-SECTION></GEN-SECTION></COUNTRY-OVERVIEW><?Pub *0000005143 0?>
