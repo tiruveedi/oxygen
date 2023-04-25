@@ -1,0 +1,5220 @@
+<?xml version="1.0"?>
+<?IS10744 arch
+  name="SLlink"
+  public-id="-//STEP//NOTATION SigmaLink link architecture//EN"
+  dtd-public-id="-//STEP//DTD SigmaLink link architecture//EN"
+  renamer-att="SLNames"
+?><CHAPTER
+ID="AE"
+><TITLE
+>United Arab Emirates</TITLE><INTRO
+><TITLE
+>The Higher Education System</TITLE><PARA
+>The United Arab Emirates (UAE) universities include the United Arab Emirates University (founded in 1976), the Ajman University (founded in 1988), the University of Sharjah (founded in 1997), Zayed University (founded in 1998, with campuses in Abu Dhabi and Dubai) and Abu Dhabi University (founded in 2003). A branch of the Sorbonne University, based in Paris, France, opened in Abu Dhabi in 2006, and a branch of New York University opened in 2009. American universities are in operation in Dubai, Ras al-Khaimah and Sharjah. A British university and a Canadian university operate in Dubai, which also hosts branches of universities from Australia, others from the United Kingdom, and the USA. In 2021 there were 29,168 students enrolled at universities and other higher education institutions in the country. Many students also receive a higher education abroad.  </PARA><PARA
+>The Ministry of Education is responsible for all post-secondary education. It is also responsible for the regulation of private institutions in higher education; the number of private institutions offering post-secondary education in the UAE is growing rapidly. The Commission for Academic Accreditation (CAA), a department within the Ministry, licenses institutions and accredits degree programmes. The Commission introduced new, more stringent accreditation standards at the beginning of the 2011/12 academic year in a bid to improve the quality of higher education in the UAE; the standards also require institutions to make their facilities and expertise available to the community at large. In 2006 the Knowledge and Human Development Authority (KHDA) was set up by the Government in Dubai to regulate private education in Dubai Free Zones. The KHDA in turn established the University Quality Assurance International Board to assess and license private universities operating in the free zones, where 60% of higher education institutions in Dubai are based, such as the Manchester Business School operating in the Dubai Knowledge Village. The CAA remains the federal body responsible for tertiary programmes throughout the UAE. The UAE currently does not have a formalized national qualifications framework. </PARA><PARA
+>Admission to higher education is on the basis of an average score of at least 70% in the Tawjihiyya examinations (although, as entrance is so competitive, an average of at least 80% is typically required); many institutions also require a score in excess of 150 in the Common Educational Proficiency Assessment (CEPA) English examination. Foreign and private institutions operating in the UAE have different admission requirements depending on which education system they follow. Degrees are awarded on a credit basis. The undergraduate Bachelors degree is a four-year programme of study (medicine lasts for seven years). Some higher colleges of technology also offer Bachelors degree programmes in conjunction with other higher education institutions; such programmes require a minimum period of four weeks&amp;rsquo; work placement. The Masters degree is a one- or two-year course following the Bachelors degree; some programmes follow the US model and include both coursework and a thesis, while others are based on the British, research-based model and include only a small number of taught modules. Doctoral programmes were introduced at the United Arab Emirates University from the beginning of the 2009/10 academic year and have subsequently become available at a number of the country&amp;rsquo;s other higher education institutions; such programmes, which typically last between three and four years, follow the US model, comprising one year of coursework and between two and three years of research, culminating in the submission of a thesis. PhD programmes have also recently become available from private and foreign higher education institutions in the UAE.</PARA></INTRO><RRB-GRP
+ID="AE.0.0"
+><TITLE
+>Regulatory and Representative Bodies</TITLE><SUB-LS-RI
+ID="AE.0.0.1"
+><SUB-LS-RI-TITLE
+>Government</SUB-LS-RI-TITLE><SECONDARY
+ID="AE.200805081515.0001"
+TOWN="Abu Dhabi"
+INDEX="Y"
+PREVUPDATES="08.05.2008; 28.06.2012, 08.08.2012, 17.01.2014, 03.05.2016, 17.05.2017, 17.04.2018, 13.06.2018, 21.06.2019, 21.05.2020, 02.06.2021"
+UPDATED="15.06.2022"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Ministry of Culture and Youth</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 17, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 4452504</NUMBER></TEL><EMAIL
+>info@mcy.gov.ae</EMAIL><WWW
+>mcy.gov.ae</WWW><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Minister</JOB><NAME
+><VERBATIM-NAME
+>Noura bint Mohammed al-Kaabi</VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.200805081520.0001"
+TOWN="Abu Dhabi"
+INDEX="Y"
+PREVUPDATES="08.05.2008; 28.06.2012, 08.08.2012, 17.01.2014, 03.05.2016, 17.05.2017, 17.04.2018, 13.06.2018, 21.06.2019, 21.05.2020, 02.06.2021"
+UPDATED="15.06.2022"
+RETURNED="19.03.2019"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Ministry of Education</TITLE></TIBLOCK><BLOCK
+><CONTACT
+INSTITUTE="N"
+><EMAIL
+>emc@moe.gov.ae</EMAIL></CONTACT><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>al-Karama St, POB 45253, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 4089999</NUMBER></TEL><EMAIL
+>ccc.moe@moe.gov.ae</EMAIL><WWW
+>www.moe.gov.ae</WWW><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Minister</JOB><NAME
+><VERBATIM-NAME
+>Hussain bin Ibrahim al-Hammadi</VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></SECONDARY></SUB-LS-RI><SUB-LS-RI
+ID="AE.0.0.2"
+><SUB-LS-RI-TITLE
+>Accreditation</SUB-LS-RI-TITLE><SECONDARY
+ID="AE.200905281547.0001"
+TOWN="Abu Dhabi"
+INDEX="Y"
+PREVUPDATES="28.05.2009, 17.04.2018"
+UPDATED="10.06.2020"
+RETURNED="24.02.2016"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Commission for Academic Accreditation (CAA)</TITLE></TIBLOCK><BLOCK
+><CONTACT
+INSTITUTE="N"
+>Prof. Dr Abdulsalam Ghaith, <EMAIL
+>ghaith@moe.gov.ae</EMAIL></CONTACT><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 295, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 4089717</NUMBER></TEL><EMAIL
+>caa.office@moe.gov.ae</EMAIL><WWW
+>www.caa.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2000"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>ensures quality and acad. standards of HEIs</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir</JOB><NAME
+><ACAD-TITLE
+>Prof. Dr</ACAD-TITLE><VERBATIM-NAME
+>Mohamed Yousif Baniyas </VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201808291127.0001"
+TOWN="Dubai"
+INDEX="Y"
+UPDATED="29.08.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>University Quality Assurance International Board</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Block 8, Academic City, POB 500008, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3640000 </NUMBER></TEL><EMAIL
+>info@khda.gov.ae</EMAIL><WWW
+>www.khda.gov.ae/en/FZQA</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2008"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ATTACHED-TO
+>Knowledge and Human Devt Authority</ATTACHED-TO><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>assures quality of education at HEIs in Free Zones of Dubai</GEN-INFO></BLOCK></SECONDARY></SUB-LS-RI><SUB-LS-RI
+ID="AE.0.0.3"
+><SUB-LS-RI-TITLE
+>National Bodies</SUB-LS-RI-TITLE><SECONDARY
+ID="AE.201808291130.0001"
+TOWN="Dubai"
+INDEX="Y"
+PREVUPDATES="29.08.2018"
+UPDATED="21.06.2021"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Knowledge and Human Development Authority (KHDA)</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Block 8, Academic City, POB 500008, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3640000 </NUMBER></TEL><EMAIL
+>info@khda.gov.ae</EMAIL><WWW
+>www.khda.gov.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2006"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>assures quality of education, improves accessibility to education </GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir-Gen.</JOB><NAME
+><FORENAME
+>Abdulla</FORENAME><SURNAME
+>al-Karam</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY></SUB-LS-RI></RRB-GRP><LS-GRP
+ID="AE.0"
+><TITLE
+>Learned Societies</TITLE><SUB-LS-RI
+ID="AE.0.2"
+><SUB-LS-RI-TITLE
+TITLE="ECONOMICSLAWANDPOLITICS"
+></SUB-LS-RI-TITLE><SECONDARY
+ID="AE.201804301232.0001"
+TOWN="Sharjah"
+INDEX="Y"
+UPDATED="30.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Accountants and Auditors Association</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>al-Qasba, POB 38881, <CITY
+>Sharjah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 5565555</NUMBER></TEL><EMAIL
+>aaauae@emirates.net.ae</EMAIL><WWW
+>www.aaa4uae.com</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1997"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>proposes and suggests regulatory standards</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Exec. Sec.-Gen.</JOB><NAME
+><FORENAME
+>Salem</FORENAME><SURNAME
+>Aleisayi</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Man. Dir</JOB><NAME
+><VERBATIM-NAME
+>Abdullah Ali Mubarak Samra</VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></SECONDARY></SUB-LS-RI><SUB-LS-RI
+ID="AE.0.3"
+><SUB-LS-RI-TITLE
+TITLE="FINEANDPERFORMINGARTS"
+></SUB-LS-RI-TITLE><SECONDARY
+ID="AE.201804301146.0001"
+INDEX="Y"
+UPDATED="30.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Emirates Fine Arts Society</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+> al-Shuwaheen Area, Cournich Rd, <CITY
+>Sharjah</CITY></VERBATIM-ADDRESS></ADDRESS><EMAIL
+>artsuae@eim.ae</EMAIL><WWW
+>www.artsuae.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1980"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>br. in Ras al-Khaimah; organizes training courses in fine arts and photography</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chair.</JOB><NAME
+><FORENAME
+>Ali</FORENAME><SURNAME
+>al-Abdan</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Sec.-Gen.</JOB><NAME
+><FORENAME
+>Khaled</FORENAME><SURNAME
+>al-Banna</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY></SUB-LS-RI><SUB-LS-RI
+ID="AE.0.1"
+><SUB-LS-RI-TITLE
+TITLE="LANGUAGEANDLITERATURE"
+></SUB-LS-RI-TITLE><SECONDARY
+ID="AE.TW.12"
+TOWN="Abu Dhabi"
+INDEX="Y"
+APPID="000000B"
+PREVUPDATES="04.04.2008, 05.05.2009"
+UPDATED="17.04.2018"
+RETURNED="14.05.2013"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Alliance Fran&amp;ccedil;aise</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Villa No 75, St 32, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 6122900</NUMBER></TEL><EMAIL
+>info@afabudhabi.org</EMAIL><WWW
+>www.afabudhabi.org</WWW><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>offers courses and exams in French language and culture and promotes cultural exchange with France; attached teaching centre in Dubai</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir</JOB><NAME
+><FORENAME
+>Mohamed</FORENAME><SURNAME
+>Beldjoudi</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="UNITEDAE.TW.13"
+TOWN="Abu Dhabi"
+INDEX="Y"
+APPID="0000000A"
+PREVUPDATES="23.05.2006"
+UPDATED="17.04.2018"
+PREVRETURNS="05.03.2014, 27.04.2016"
+RETURNED="07.01.2017"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>British Council</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Villa No 16, al-Qasbah St, al-Bateen, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 6659300</NUMBER></TEL><EMAIL
+>information@ae.britishcouncil.org</EMAIL><WWW
+>www.britishcouncil.ae</WWW><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>offers courses and exams in English language and British culture; promotes cultural exchange with the UK; attached teaching centres in Dubai and Sharjah</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir</JOB><NAME
+><FORENAME
+>Gavin</FORENAME><SURNAME
+>Anderson</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY></SUB-LS-RI><SUB-LS-RI
+ID="AE.0.4"
+><SUB-LS-RI-TITLE
+TITLE="MEDICINE"
+></SUB-LS-RI-TITLE><SECONDARY
+ID="AE.201804301204.0001"
+INDEX="Y"
+PREVUPDATES="30.04.2018, 10.06.2020"
+UPDATED="21.06.2021"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Emirates Medical Association (EMA)</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Mamzar Area, al-Wahaida Rd, St 46, POB 6600, <CITY
+>Dubai </CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 2556655</NUMBER></TEL><EMAIL
+>info@ema.ae</EMAIL><WWW
+>www.ema.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1981"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>br. in Abu Dhabi</GEN-INFO><MEMBERS
+><MEM-PTEXT
+><MEM
+TOTAL="46"
+></MEM> mem. socs</MEM-PTEXT></MEMBERS><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Mouza Abdulla</FORENAME><SURNAME
+> al-Sharhan</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Gen. Sec.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Amal al-Shamlan</VERBATIM-NAME></NAME></ADMINSTAFF><PUB-GRP
+><PUBLICATION
+><JOURNAL
+>New Emirates Medical Journal</JOURNAL></PUBLICATION></PUB-GRP></BLOCK></SECONDARY></SUB-LS-RI><SUB-LS-RI
+ID="AE.0.5"
+><SUB-LS-RI-TITLE
+TITLE="NATURALSCIENCES"
+></SUB-LS-RI-TITLE><SUB-SUB-LS-RI
+ID="AE.0.5.1"
+><TITLE
+>Physical Sciences</TITLE><SECONDARY
+ID="AE.201804301507.0001"
+INDEX="Y"
+UPDATED="30.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Emirates Society of Geoscience</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>4th Fl., ADMA OPCO, Najda St, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><WWW
+>www.esguae.org</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1986"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>provides forum for geoscientists in Emirates; promotes knowledge in geology, geophysics and related technologies</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><FORENAME
+>Abdulla</FORENAME><SURNAME
+>al-Shemsi</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Pres.</JOB><NAME
+><FORENAME
+>Volker</FORENAME><SURNAME
+>Vahrenkamp</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY></SUB-SUB-LS-RI></SUB-LS-RI><SUB-LS-RI
+ID="AE.0.6"
+><SUB-LS-RI-TITLE
+TITLE="TECHNOLOGY"
+></SUB-LS-RI-TITLE><SECONDARY
+ID="AE.201804301052.0001"
+INDEX="Y"
+PREVUPDATES="30.04.2018"
+UPDATED="07.06.2018"
+RETURNED="06.01.2023"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Society of Engineers&amp;mdash;UAE</TITLE></TIBLOCK><BLOCK
+><CONTACT
+INSTITUTE="N"
+>Mohamed Korym <EMAIL
+> </EMAIL></CONTACT><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>al-Mamzar Area, St 46, Deira, POB 4484, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 2399555</NUMBER></TEL><EMAIL
+>dxbsoe@emirates.net.ae</EMAIL><WWW
+>www.soeuae.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1979"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>brs in Abu Dhabi and Sharjah</GEN-INFO><MEMBERS
+><MEM-PTEXT
+><MEM
+TOTAL="67000"
+></MEM> mems</MEM-PTEXT></MEMBERS><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Eng.</ACAD-TITLE><VERBATIM-NAME
+>Abdulla Yousef Al Ali</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Gen. Sec.</JOB><NAME
+><ACAD-TITLE
+>Eng.</ACAD-TITLE><FORENAME
+>Rashad</FORENAME><SURNAME
+>Bukhash </SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY></SUB-LS-RI></LS-GRP><RI-GRP
+ID="AE.1"
+><TITLE
+>Research Institutes</TITLE><SUB-LS-RI
+ID="AE.1.1"
+><SUB-LS-RI-TITLE
+TITLE="GENERAL"
+></SUB-LS-RI-TITLE><SECONDARY
+ID="AE.201804301749.0001"
+INDEX="Y"
+UPDATED="30.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Ras al-Khaimah Research and Innovation Centre</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>American Univ. of Ras al-Khaimah Rd, POB 10021, <CITY
+>Ras al-Khaimah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(7) 2210900</NUMBER></TEL><EMAIL
+>info@aurak.ac.ae</EMAIL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2007"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>research into concentrated solar power; incl. high precision solar tracking platform, photovoltaic centre, polygeneration, solar calorimeter and green buildings, solar cooling, solar mini grid, solar outdoor facility, solar water desalination plant, weather station</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Mousa</FORENAME><SURNAME
+>Mohsen </SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY></SUB-LS-RI><SUB-LS-RI
+ID="AE.1.2"
+><SUB-LS-RI-TITLE
+TITLE="AGRICULTUREFISHERIESANDVETERINARYSCIENCE"
+></SUB-LS-RI-TITLE><SECONDARY
+ID="AE.1.2.1"
+TOWN="Ras al-Khaimah"
+INDEX="Y"
+APPID="0000002"
+UPDATED="05.05.2009"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Agricultural Information Centre</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 176, <CITY
+>Ras al-Khaimah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(7) 4495100</NUMBER></TEL><EMAIL
+>info@moew.gov.ae</EMAIL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1975"
+></FOUND-DATE>, current name adopted 1984</FOUND-PTEXT></FOUNDED><ATTACHED-TO
+>Min. of Climate Change and Environment</ATTACHED-TO><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>conducts research into irrigation, plant protection, vegetable varieties, vegetables under plastic houses, soil fertility</GEN-INFO><LIB-VOL
+LIBRARY="0"
+><LIB-PTEXT
+><VOL
+TOTAL="500"
+></VOL> vols</LIB-PTEXT></LIB-VOL><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Research Dir</JOB><NAME
+><FORENAME
+>Muhammad Hassan</FORENAME><SURNAME
+>al-Shamsi</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201805011745.0001"
+TOWN="Dubai"
+INDEX="Y"
+UPDATED="01.05.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Central Veterinary Research Laboratory</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 597, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3375165</NUMBER></TEL><EMAIL
+>cvrl@cvrl.ae</EMAIL><WWW
+>www.cvrl.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1985"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>diagnostic testing for diseases occurring in camels, horses, falcons, cattle, small ruminants, birds, fish, bees, zoo and pet animals; depts of analytical chemistry, biosafety, cell biology, molecular biology and genetics, animal husbandry, biochemistry and haematology, pathology and cytology, serology, bacteriology, parasitology, virology, taxidermy; incl. Houbara Breeding Centre, Wildlife Protection Office, Camelid Antibody Facility Unit</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir-Gen.</JOB><NAME
+><FORENAME
+>Ali</FORENAME><SURNAME
+>Ridha</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Sec.</JOB><NAME
+><FORENAME
+>Abdul</FORENAME><SURNAME
+>Latheef</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804301517.0001"
+TOWN="Dubai"
+INDEX="Y"
+PREVUPDATES="30.04.2018"
+UPDATED="12.12.2022"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>International Centre for Biosaline Agriculture</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Academic City, Al-Ain Rd, al-Ruwayyah 2, POB 14660, <CITY
+> Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3361100</NUMBER></TEL><EMAIL
+>icba@biosaline.org.ae</EMAIL><WWW
+>www.biosaline.org</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1999"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>research areas incl. natural resources assessment, climate change impact, crop productivity and diversification, aquaculture and bio-energy policies</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir-Gen.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Tarifa</FORENAME><SURNAME
+>Al Zaabi </SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY></SUB-LS-RI><SUB-LS-RI
+ID="AE.1.3"
+><SUB-LS-RI-TITLE
+TITLE="ECONOMICSLAWANDPOLITICS"
+></SUB-LS-RI-TITLE><SECONDARY
+ID="AE.201804301639.0001"
+INDEX="Y"
+UPDATED="30.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Emirates Center for Strategic Studies and Research</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 4567, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 4044444</NUMBER></TEL><WWW
+>www.ecssr.com</WWW><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>depts of strategic studies, economics and social studies, information </GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><VERBATIM-NAME
+>Mohammed bin Zayed al-Nahyan</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir-Gen.</JOB><NAME
+><VERBATIM-NAME
+>Jamal Sanad al-Suwaidi</VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></SECONDARY></SUB-LS-RI><SUB-LS-RI
+ID="AE.1.4"
+><SUB-LS-RI-TITLE
+TITLE="MEDICINE"
+></SUB-LS-RI-TITLE><SECONDARY
+ID="AE.201804301541.0001"
+INDEX="Y"
+UPDATED="30.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Al-Jalila Foundation Research Centre</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>1st Fl., Block C, Bldg 27, Dubai Healthcare City, POB 300100, <CITY
+> Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3838000</NUMBER></TEL><WWW
+>www.aljalilafoundation.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2018"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>promotes medical education and research</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chair.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Raja Easa Saleh al-Gurg</VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804301657.0001"
+INDEX="Y"
+UPDATED="30.04.2018"
+RETURNED="15.02.2020"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Khalifa Centre for Genetic Engineering and Biotechnology</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>United Arab Emirates Univ., Al-Ain, POB 15551, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 7135620</NUMBER></TEL><EMAIL
+>kcgeb@uaeu.ac.ae</EMAIL><WWW
+>www.uaeu.ac.ae/en/kcgeb</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2014"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>develops desert plants, stress tolerant plants, supports sustainable desert agro-ecosystem</GEN-INFO></BLOCK></SECONDARY></SUB-LS-RI><SUB-LS-RI
+ID="AE.1.5"
+><SUB-LS-RI-TITLE
+TITLE="TECHNOLOGY"
+></SUB-LS-RI-TITLE><SECONDARY
+ID="AE.201804301732.0001"
+TOWN="Abu Dhabi"
+INDEX="Y"
+UPDATED="30.04.2018"
+RETURNED="16.02.2020"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>National Space Science and Technology Centre</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Al-Ain Rd, POB 15551, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 7134482</NUMBER></TEL><EMAIL
+>nsstc@uaeu.ac.ae</EMAIL><WWW
+>www.uaeu.ac.ae/en/dvcrgs/research/centers/nsstc</WWW></BLOCK></SECONDARY></SUB-LS-RI></RI-GRP><LA-GRP
+ID="AE.2"
+><TITLE
+>Libraries and Archives</TITLE><REGION
+ID="AE.2.1"
+STATUS="TOWN"
+><TITLE
+>Abu Dhabi</TITLE><SECONDARY
+ID="AE.201805011404.0001"
+INDEX="Y"
+UPDATED="01.05.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Abu Dhabi Public Library</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+><CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2009"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ATTACHED-TO
+> Min. of Culture and Youth</ATTACHED-TO><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+><VOL
+TOTAL="12020"
+></VOL> vols</LIB-PTEXT></LIB-VOL></BLOCK></SECONDARY><SECONDARY
+ID="AE.201805011226.0001"
+INDEX="Y"
+UPDATED="01.05.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Dalma Public Library</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Dalma Island, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2008"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ATTACHED-TO
+> Min. of Culture and Youth</ATTACHED-TO><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+><VOL
+TOTAL="14620"
+></VOL> vols</LIB-PTEXT></LIB-VOL></BLOCK></SECONDARY><SECONDARY
+ID="AE.201805011350.0001"
+INDEX="Y"
+UPDATED="01.05.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Madinat Zayed Public Library</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+><CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2006"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ATTACHED-TO
+> Min. of Culture and Youth</ATTACHED-TO><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+><VOL
+TOTAL="29590"
+></VOL> vols</LIB-PTEXT></LIB-VOL></BLOCK></SECONDARY><SECONDARY
+ID="AE.2.1.1"
+TOWN="Abu Dhabi"
+INDEX="Y"
+APPID="0000003"
+PREVUPDATES="17.04.2018, 10.06.2020"
+UPDATED="16.02.2023"
+RETURNED="23.06.2006"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>National Archives</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 5884, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 4183333</NUMBER></TEL><EMAIL
+>cs@na.ae</EMAIL><WWW
+>www.na.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1968"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ATTACHED-TO
+> Ministry of Presidential Affairs</ATTACHED-TO><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>holds records from all UAE governmental entities; photos, videos and historical documents of the Late Sheikh Zayed bin Sultan and activities of H. H. Sheikh Khalifa bin Zayed al-Nahyan, Pres. of the UAE</GEN-INFO><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+>150 periodicals</LIB-PTEXT></LIB-VOL><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir-Gen.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Abdulla al-Raisi</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chair.</JOB><NAME
+><ACAD-TITLE
+>HE</ACAD-TITLE><VERBATIM-NAME
+>Hamad bin Abdulrahman al-Midfa </VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.2.1.2"
+TOWN="Abu Dhabi"
+INDEX="Y"
+APPID="0000004"
+PREVUPDATES="20.09.2001, 24.04.2018"
+UPDATED="02.07.2019"
+PREVRETURNS="18.04.2012, 08.01.2013"
+RETURNED="07.01.2014"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>National Library</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 94000, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 4440444</NUMBER></TEL><EMAIL
+>national-library@tcaabudhabi.ae</EMAIL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1981"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ATTACHED-TO
+> Dept of Culture and Tourism</ATTACHED-TO><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>collects, preserves and displays ancient Arab and Islamic MSS</GEN-INFO><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+>2m. vols incl. books, periodicals, MSS, electronic materials</LIB-PTEXT></LIB-VOL><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Exec. Dir</JOB><NAME
+><FORENAME
+>Jumaa</FORENAME><SURNAME
+>al-Qubaisi</SURNAME></NAME></ADMINSTAFF></BLOCK><ATTACHED-GRP
+ID="AE.201804241004.0001"
+><ATTACHED-GRP-TITLE
+>Attached Libraries</ATTACHED-GRP-TITLE><ATTACH-LIST
+ID="AE.201804241004.0002"
+><SECONDARY
+ID="AE.201804241004.0003"
+INDEX="Y"
+UPDATED="24.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Al-Bahia Library</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>al-Bahia Area</VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 6576074</NUMBER></TEL><EMAIL
+>national-library@tcaabudhabi.ae</EMAIL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2012"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+><VOL
+TOTAL="18380"
+></VOL> vols</LIB-PTEXT></LIB-VOL></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804241004.0004"
+INDEX="Y"
+UPDATED="24.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>al-Marfa Library</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>al-Marfa City</VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 6576015</NUMBER></TEL><EMAIL
+>national-library@tcaabudhabi.ae</EMAIL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2013"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+><VOL
+TOTAL="20220"
+></VOL> vols</LIB-PTEXT></LIB-VOL></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804241004.0005"
+INDEX="Y"
+UPDATED="24.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>al-Wathba Library</TITLE></TIBLOCK><BLOCK
+><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 6976425</NUMBER></TEL><EMAIL
+>national-library@tcaabudhabi.ae</EMAIL><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+><VOL
+TOTAL="35000"
+></VOL> vols</LIB-PTEXT></LIB-VOL></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804241004.0006"
+INDEX="Y"
+UPDATED="24.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Khalifa Park Library</TITLE></TIBLOCK><BLOCK
+><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 6515480</NUMBER></TEL><EMAIL
+>national-library@tcaabudhabi.ae</EMAIL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2013"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+><VOL
+TOTAL="50000"
+></VOL> vols</LIB-PTEXT></LIB-VOL></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804241004.0007"
+INDEX="Y"
+UPDATED="24.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Mazyad Mall Library</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Mohammed bin Zayed City</VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 6976422</NUMBER></TEL><EMAIL
+>mbinzayed-library@tcaabudhabi.ae</EMAIL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2012"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+><VOL
+TOTAL="30000"
+></VOL> vols</LIB-PTEXT></LIB-VOL></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804241004.0008"
+INDEX="Y"
+UPDATED="24.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Zayed Central Library</TITLE></TIBLOCK><BLOCK
+><TEL
+AND-FAX="NO"
+><NUMBER
+>(3) 7118266</NUMBER></TEL><EMAIL
+>alain-library@tcaabudhabi.ae</EMAIL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2016"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+><VOL
+TOTAL="136000"
+></VOL> vols</LIB-PTEXT></LIB-VOL></BLOCK></SECONDARY></ATTACH-LIST></ATTACHED-GRP></SECONDARY></REGION><REGION
+ID="AE.2.3"
+STATUS="TOWN"
+><TITLE
+>Ajman</TITLE><SECONDARY
+ID="AE.201805011239.0001"
+INDEX="Y"
+UPDATED="01.05.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Ajman Public Library</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+><CITY
+>Ajman</CITY></VERBATIM-ADDRESS></ADDRESS><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2011"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ATTACHED-TO
+> Min. of Culture and Youth</ATTACHED-TO><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+><VOL
+TOTAL="21900"
+></VOL> vols</LIB-PTEXT></LIB-VOL></BLOCK></SECONDARY></REGION><REGION
+ID="AE.2.2"
+STATUS="TOWN"
+><TITLE
+>Dubai</TITLE><SECONDARY
+ID="AE.2.2.1"
+INDEX="Y"
+APPID="0000005"
+PREVUPDATES="06.05.2003"
+UPDATED="02.05.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Dubai Public Libraries</TITLE></TIBLOCK><BLOCK
+><CONTACT
+INSTITUTE="N"
+><EMAIL
+>info@dm.gov.ae</EMAIL></CONTACT><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+COUNTRYGIVEN="N"
+><VERBATIM-ADDRESS
+><CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>libraries in al-Ras, al-Rashidiya, al-Safa, al-Twar, Hatta, Hor al-Anz, Umm Suqeim</GEN-INFO></BLOCK></SECONDARY></REGION><REGION
+ID="AE.2.4"
+STATUS="TOWN"
+><TITLE
+>Fujairah</TITLE><SECONDARY
+ID="AE.201805011221.0001"
+INDEX="Y"
+UPDATED="01.05.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Dibba al-Fujairah Public Library</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Dibba al-Fujairah, <CITY
+>Fujairah</CITY></VERBATIM-ADDRESS></ADDRESS><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2006"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ATTACHED-TO
+> Min. of Culture and Youth</ATTACHED-TO><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+><VOL
+TOTAL="22610"
+></VOL> vols</LIB-PTEXT></LIB-VOL></BLOCK></SECONDARY><SECONDARY
+ID="AE.201805011354.0001"
+INDEX="Y"
+UPDATED="01.05.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Masafi Public Library</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Masafi City, <CITY
+>Fujairah</CITY></VERBATIM-ADDRESS></ADDRESS><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2008"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ATTACHED-TO
+> Min. of Culture and Youth</ATTACHED-TO><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+><VOL
+TOTAL="31430"
+></VOL> vols</LIB-PTEXT></LIB-VOL></BLOCK></SECONDARY></REGION><REGION
+ID="ASE.2.5"
+STATUS="TOWN"
+><TITLE
+>Ras al-Khaimah</TITLE><SECONDARY
+ID="AE.201805011232.0001"
+INDEX="Y"
+UPDATED="01.05.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Ras al-Khaimah Public Library</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+><CITY
+>Ras al-Khaimah</CITY></VERBATIM-ADDRESS></ADDRESS><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2004"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ATTACHED-TO
+> Min. of Culture and Youth</ATTACHED-TO><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+><VOL
+TOTAL="14620"
+></VOL> vols</LIB-PTEXT></LIB-VOL></BLOCK></SECONDARY></REGION><REGION
+ID="AE.2.6"
+STATUS="TOWN"
+><TITLE
+>Sharjah</TITLE><SECONDARY
+ID="AE.201805011059.0001"
+INDEX="Y"
+UPDATED="02.05.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Dhaid Public Library</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Dhaid, <CITY
+>Sharjah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 8826500</NUMBER></TEL><EMAIL
+>dhlibrary@dhaid-lib.ae</EMAIL><WWW
+>www.shjlibrary.ae/aldhaid</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2010"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ATTACHED-TO
+> Sharjah Book Authority</ATTACHED-TO></BLOCK></SECONDARY></REGION><REGION
+ID="AE.2.7"
+STATUS="TOWN"
+><TITLE
+>Umm al-Quwain</TITLE><SECONDARY
+ID="AE.201805011158.0001"
+INDEX="Y"
+UPDATED="01.05.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Umm al-Quwain Public Library</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+> Umm al-Quwain Cultural Centre, POB 414, <CITY
+>Umm al-Quwain </CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 7672100</NUMBER></TEL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2010"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ATTACHED-TO
+> Min. of Culture and Youth</ATTACHED-TO><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+><VOL
+TOTAL="33200"
+></VOL> vols</LIB-PTEXT></LIB-VOL></BLOCK></SECONDARY></REGION></LA-GRP><MG-GRP
+ID="AE.3"
+><TITLE
+>Museums and Art Galleries</TITLE><REGION
+ID="AE.3.1"
+STATUS="TOWN"
+><TITLE
+>Abu Dhabi</TITLE><SECONDARY
+ID="AE.201804271420.0001"
+TOWN="Abu Dhabi"
+INDEX="Y"
+PREVUPDATES="27.04.2018"
+UPDATED="07.06.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Al-Ain Palace Museum</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>al-Jahili Area, Hessa bint Mohamed St, <CITY
+> Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(3) 7118388</NUMBER></TEL><EMAIL
+>aapm@tcaabudhabi.ae</EMAIL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1998"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>family tree of al-Nahyan family, gifts from local community</GEN-INFO></BLOCK></SECONDARY><SECONDARY
+ID="AE.3.1.1"
+INDEX="Y"
+APPID="0000006"
+PREVUPDATES="20/09/01"
+UPDATED="17.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Al-Ain National Museum</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Zayed bin Sultan St, <CITY
+>Al-Ain</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(3) 7118331</NUMBER></TEL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1969"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>collns incl. copper and bronze weapons, iron age pottery vessels, Mesopotamian pots, moon-rock</GEN-INFO></BLOCK></SECONDARY><SECONDARY
+ID="AE.201808271155.0001"
+INDEX="Y"
+PREVUPDATES="27.08.2018"
+UPDATED="10.06.2020"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Louvre Abu Dhabi</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Saadiyat Cultural Dist., <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><EMAIL
+>contact@louvreabudhabi.ae</EMAIL><WWW
+>www.louvreabudhabi.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2007"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>colln of 35,000 items incl. artwork from French museums; colln of 600 paintings incl. works by Jordaens, Caillebotte, Manet, Gauguin, Magritte; Salvator Mundi painting</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir</JOB><NAME
+><FORENAME
+>Manuel</FORENAME><SURNAME
+>Rabat&amp;eacute;</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY></REGION><REGION
+ID="AE.3.2"
+STATUS="TOWN"
+><TITLE
+>Ajman</TITLE><SECONDARY
+ID="AE.201804271431.0001"
+INDEX="Y"
+UPDATED="27.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Ajman Museum</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>al-Bustan area, <CITY
+>Ajman</CITY></VERBATIM-ADDRESS></ADDRESS><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1980"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>restored fort; funeral jewellery from 3000 BC, MSS, models of wooden dhows, pottery, weaponry; pearl trade colln</GEN-INFO></BLOCK></SECONDARY></REGION><REGION
+ID="AE.3.3"
+STATUS="TOWN"
+><TITLE
+>Dubai</TITLE><SECONDARY
+ID="AE.201804271539.0001"
+INDEX="Y"
+UPDATED="27.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Dubai Museum</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>al-Fahidi area, Bur Dubai, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3531862</NUMBER></TEL><EMAIL
+>dubai.museum@dubaiculture.ae</EMAIL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1995"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>incl. wings astronomy and natural phenomena, folklore, masjid, monuments, oasis, Old Dubai fortification</GEN-INFO></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804271600.0001"
+INDEX="Y"
+UPDATED="27.04.2018"
+RETURNED="21.01.2021"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Etihad Museum</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Jumeira St, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 5155771</NUMBER></TEL><EMAIL
+>etihad.museum@dubaiculture.ae</EMAIL><WWW
+>etihadmuseum.dubaiculture.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2017"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804271508.0001"
+INDEX="Y"
+UPDATED="27.04.2018"
+RETURNED="06.05.2021"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Saruq al-Hadid Archaeology Museum</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>al-Shindagha area, Bur Dubai, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3595612</NUMBER></TEL><EMAIL
+>saruqalhadid@dm.gov.ae</EMAIL><WWW
+>www.saruqalhadid.ae</WWW><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>displays of bronze, iron tools, weapons, gold jewellery, beads, pottery, stoneware, seals, measuring scales from Saruq al-Hadid archaeological site</GEN-INFO></BLOCK></SECONDARY></REGION><REGION
+ID="AE.3.4"
+STATUS="TOWN"
+><TITLE
+>Fujairah</TITLE><SECONDARY
+ID="AE.201804271440.0001"
+INDEX="Y"
+UPDATED="27.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Fujairah Museum</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+><CITY
+>Fujairah</CITY></VERBATIM-ADDRESS></ADDRESS><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1991"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>artefacts incl. ancient weapons, brass findings, steatite and chlorite pots</GEN-INFO></BLOCK></SECONDARY></REGION><REGION
+ID="AE.3.5"
+STATUS="TOWN"
+><TITLE
+>Ras al-Khaimah</TITLE><SECONDARY
+ID="AE.201804271454.0001"
+TOWN="Ras al-Khaimah"
+INDEX="Y"
+UPDATED="27.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>National Museum</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>al-Hisn Rd, Sidroh, <CITY
+>Ras al-Khaimah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(7) 2333411</NUMBER></TEL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1987"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>archaeological, historical and ethnographical objects; Qawasim room of MSS, traditional weapons; galleries on architecture, pearl diving, date agriculture, farming, fishing</GEN-INFO></BLOCK></SECONDARY></REGION><REGION
+ID="MGS.160903.0003"
+STATUS="TOWN"
+><TITLE
+>Sharjah</TITLE><SECONDARY
+ID="AE.160903.0002"
+INDEX="Y"
+APPID="0000006A"
+PREVUPDATES="05.05.2009, 11.09.2017"
+UPDATED="23.04.2018"
+RETURNED="04.04.2013"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Sharjah Museums Authority</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+><CITY
+>Sharjah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 5566002</NUMBER></TEL><EMAIL
+>info@smd.gov.ae</EMAIL><WWW
+>www.sharjahmuseums.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2006"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>br. museums incl. al-Eslah School, al-Mahatta, Bait al-Naboodah, Majlis al-Midfa, Sharjah Aquarium, Sharjah Calligraphy, Sharjah Classic Cars, Sharjah Discovery Centre, Sharjah Fort, Sharjah Heritage, Sharjah Maritime, Sharjah Science</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir-Gen.</JOB><NAME
+><FORENAME
+>Manal</FORENAME><SURNAME
+>Ataya</SURNAME></NAME></ADMINSTAFF></BLOCK><ATTACHED-GRP
+ID="AE.201804231519.0001"
+><ATTACHED-GRP-TITLE
+>Attached Museums</ATTACHED-GRP-TITLE><ATTACH-LIST
+ID="AE.201804231519.0002"
+><SECONDARY
+ID="AE.201804231519.0006"
+INDEX="Y"
+UPDATED="23.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Bait Sheikh Saeed bin Hamad al-Qasimi</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Kalba, <CITY
+>Sharjah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 2774442</NUMBER></TEL><EMAIL
+>info@smd.gov.ae</EMAIL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1999"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>collns incl. al-Yazrah, 700-year-old Koran MSS</GEN-INFO></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804231519.0004"
+INDEX="Y"
+UPDATED="23.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Sharjah Archaeology Museum</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Helwan Area, <CITY
+>Sharjah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 5665466</NUMBER></TEL><EMAIL
+>info@smd.gov.ae</EMAIL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1993"
+></FOUND-DATE>; current location 1997</FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>archaeological artefacts discovered in Sharjah, ceramic dome, golden bridle, camel statue</GEN-INFO></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804231519.0005"
+INDEX="Y"
+UPDATED="23.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Sharjah Art Museum</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Arts Area, al-Shuwaihiyeen, <CITY
+>Sharjah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 5688222</NUMBER></TEL><EMAIL
+>info@smd.gov.ae</EMAIL><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>modern and contemporary Arab art, paintings and sculptures; works by Palestinian, Iraqi, Kuwaiti, UAE artists</GEN-INFO></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804231519.0003"
+INDEX="Y"
+PREVUPDATES="23.04.2018"
+UPDATED="26.12.2022"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Sharjah Museum of Islamic Civilization</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>al-Majjarah area, <CITY
+>Sharjah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 5655455</NUMBER></TEL><EMAIL
+>info.islamicmuseum@sma.gov.ae</EMAIL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2008"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>colln of 5,000 objects incl. Islamic artefacts, coins, Sitara curtain for Kaaba in Makkah; incl. Abu Bakr Gallery of Islamic Faith; Ibn al-Haytham Gallery of Science and Technology; Islamic Art Galleries; Islamic Coins Display </GEN-INFO></BLOCK></SECONDARY></ATTACH-LIST></ATTACHED-GRP></SECONDARY></REGION><REGION
+ID="AE.3.6"
+STATUS="TOWN"
+><TITLE
+>Umm al-Quwain</TITLE><SECONDARY
+ID="AE.201804271655.0001"
+INDEX="Y"
+UPDATED="27.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Umm al-Quwain Museum</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+><CITY
+>Umm al-Quwain</CITY></VERBATIM-ADDRESS></ADDRESS><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2000"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>colln incl. golden swords, hand written Korans, matchlocks, memorial coins</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Gen. Man.</JOB><NAME
+><VERBATIM-NAME
+>Sheikh Khalid bin Humaid al-Mualla</VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></SECONDARY></REGION></MG-GRP><UC-GRP
+ID="AE.4"
+><SUB-UC
+ID="ED7.200901.1544"
+><TITLE
+>Universities</TITLE><PRIMARY
+ID="AE.20052009.0001"
+INDEX="Y"
+APPID="0000000"
+PREVUPDATES="20.05.2009, 19.04.2018, 22.05.2018, 19.06.2018, 01.08.2019, 24.04.2020,27.08.2020, 10.09.2020"
+UPDATED="07.02.2023"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Abu Dhabi University</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 59911, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 5015555</NUMBER></TEL><EMAIL
+>admissions@adu.ac.ae</EMAIL><WWW
+>www.adu.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2003"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>campuses in Al-Ain and Dubai</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Ghassan</FORENAME><SURNAME
+> Aouad</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor for Admin. and Financial Affairs</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Hamad</FORENAME><SURNAME
+>Odhabi </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Provost</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Thomas J.</FORENAME><SURNAME
+> Hochstettler</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir of Al-Ain and Dubai Campuses</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Mohammad</FORENAME><SURNAME
+>Fteiha </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Library Man.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Omar</FORENAME><SURNAME
+>Abbas</SURNAME></NAME></ADMINSTAFF><STUDENT
+><STUDENT-PTEXT
+><STUDENT-TOTAL
+TOTAL="7000"
+></STUDENT-TOTAL></STUDENT-PTEXT></STUDENT></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Arts and Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Sreethi</FORENAME><SURNAME
+>Nair </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Business</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Barry</FORENAME><SURNAME
+>O&amp;rsquo;Mahony </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Engineering</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Hamdi</FORENAME><SURNAME
+>Sheibani </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Health Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Hamdi</FORENAME><SURNAME
+>Sheibani </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Law</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Ahmed</FORENAME><SURNAME
+>Shaaban </SURNAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="AE.200901.1543"
+INDEX="Y"
+APPID="0000006A"
+PREVUPDATES="08.03.04; 20/09/01, 05.05.2009, 19.04.2018, 24.08.2021"
+UPDATED="07.01.2022"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Ajman University</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 346, <CITY
+>Ajman</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 7482222</NUMBER></TEL><EMAIL
+>inquiry@ajman.ac.ae</EMAIL><WWW
+>www.ajman.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1988"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>also colleges of law; mass communication; campus in Fujairah</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><FORENAME
+>Karim</FORENAME><SURNAME
+>Seghir</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor for Advancement and Communication</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Abdulhaq</FORENAME><SURNAME
+>al-Nuaimi </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor for Acad. Affairs</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Khaled</FORENAME><SURNAME
+>Assaleh </SURNAME></NAME></ADMINSTAFF></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+> College of Architecture, Art and Design</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Riad</FORENAME><SURNAME
+>Saraiji </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Business Administration</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Akinola O.</FORENAME><SURNAME
+> Fadahunsi</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Dentistry</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Salem Hassan Abu Fanas </VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Humanities and Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Shaher Momani</VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Engineering and Information Technology </SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Mohamed Nasor</VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Medicine</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Solomon S.</FORENAME><SURNAME
+> Senok</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Pharmacy and Health Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Nageeb Abdul Galil Mohamed Hassan</VERBATIM-NAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="UNITEDAE-XP20052009.0002"
+INDEX="Y"
+APPID="0000000"
+PREVUPDATES="20.05.2009, 19.04.2018"
+UPDATED="15.05.2020"
+PREVRETURNS="11.03.2014, 27.01.2016"
+RETURNED="19.03.2017"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Al-Ain University</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 64141, <CITY
+>Al-Ain</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(3) 7024888</NUMBER></TEL><EMAIL
+>president@aau.ac.ae</EMAIL><WWW
+>www.aau.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2004"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><LANGUAGE
+><SPOKEN
+LANG="Arabic"
+></SPOKEN><SPOKEN
+LANG="English"
+></SPOKEN></LANGUAGE><ACAD-YEAR
+><FROM-MONTH
+MONTH="SEPTEMBER"
+></FROM-MONTH><TO-MONTH
+MONTH="JUNE"
+></TO-MONTH></ACAD-YEAR><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>campus in Abu Dhabi</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Ghaleb Awad al-Refae</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice Pres. for Abu Dhabi Campus</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Amer</FORENAME><SURNAME
+>Qasem</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Gen. Registrar</JOB><NAME
+><VERBATIM-NAME
+>Muath Hamzeh Abu al-Rub</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Library Dir</JOB><NAME
+><FORENAME
+>Abdelouay</FORENAME><SURNAME
+>Kaba</SURNAME></NAME></ADMINSTAFF><STUDENT
+><STUDENT-PTEXT
+><STUDENT-TOTAL
+TOTAL="1450"
+></STUDENT-TOTAL></STUDENT-PTEXT></STUDENT></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Business</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Adel al-Saeed Ahmed</VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Education, Humanities and Social Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Majed Zaki al-Jallad</VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Engineering</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Qutaibah Althebyan</VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Law</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Moustafa al-Metwali Kandeel </VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Mass Communication and Media</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Abdulrahman Thyab Abdullah </VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Pharmacy</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Khairi Mustafa Salem</VERBATIM-NAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="AE.201804241558.0001"
+TOWN="Dubai"
+INDEX="Y"
+PREVUPDATES="24.04.2018, 07.06.2018"
+UPDATED="26.07.2022"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Al-Falah University</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 128821, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 2338000</NUMBER></TEL><EMAIL
+>info@afu.ac.ae</EMAIL><WWW
+>www.afu.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2013"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Noor</FORENAME><SURNAME
+>Aldeen Atatreh</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Abdel Hafid</FORENAME><SURNAME
+> Belarbi</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Pres. for Acad. Affairs</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Sameer Ibrahim</FORENAME><SURNAME
+> al-Barghouthi</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dean for Student Affairs</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Samer</FORENAME><SURNAME
+>Abdel Hadi</SURNAME></NAME></ADMINSTAFF></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>Faculty of Business Administration</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Khalifa</FORENAME><SURNAME
+> Hmood Jaber</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>Faculty of Law</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Mohamed</FORENAME><SURNAME
+>al-Sayed Desouki</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>Faculty of Mass Communication</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Khaled Ahmed Abd el-Jawad Heneidi</VERBATIM-NAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="AE.20052009.0003"
+INDEX="Y"
+APPID="0000000"
+PREVUPDATES="20.05.2009"
+UPDATED="19.04.2018"
+RETURNED="05.01.2022"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Al-Ghurair University</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Dubai Int. Acad. City, POB 37374, <CITY
+>Dubai </CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 4200223</NUMBER></TEL><EMAIL
+>apply@agu.ac.ae</EMAIL><WWW
+>www.agu.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1999"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>colleges of architecture and design; business studies; education; engineering and computing; law; mass communication</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Basem</FORENAME><SURNAME
+>al-Zahabi </SURNAME></NAME></ADMINSTAFF></BLOCK></PRIMARY><PRIMARY
+ID="AE.201804241635.0001"
+INDEX="Y"
+PREVUPDATES="24.04.2018, 07.06.2018, 05.01.2021"
+UPDATED="23.12.2022"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Al-Qasimia University</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 63000, <CITY
+>Sharjah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 5181141</NUMBER></TEL><EMAIL
+>ard@alqasimia.ac.ae</EMAIL><WWW
+>www.alqasimia.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2013"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>colleges of arts and humanities, communication, economics and management, Holy Quran, Shari&amp;rsquo;a and Islamic sciences</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Jamal Salim al-Turaifi</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Awwad</FORENAME><SURNAME
+>al-Khalaf </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="ACTING"
+>Dir</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Awad Hussain</FORENAME><SURNAME
+> al-Khalaf</SURNAME></NAME></ADMINSTAFF></BLOCK></PRIMARY><PRIMARY
+ID="UNITEDAE-XP20052009.0005"
+INDEX="Y"
+APPID="0000000"
+PREVUPDATES="20.05.2009, 20.04.2018, 07.06.2018"
+UPDATED="02.07.2019"
+PREVRETURNS="30.03.2017, 23.04.2018, 16.01.2020"
+RETURNED="14.01.2021"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>American University in Dubai</TITLE></TIBLOCK><BLOCK
+><CONTACT
+INSTITUTE="N"
+>Nada Karam, Man., Office of the Pres. <EMAIL
+>nkaram@aud.edu </EMAIL></CONTACT><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Dubai Media City, POB 28282, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3999000</NUMBER></TEL><EMAIL
+>info@aud.edu</EMAIL><WWW
+>www.aud.edu</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1995"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><LANGUAGE
+><SPOKEN
+LANG="English"
+></SPOKEN></LANGUAGE><ACAD-YEAR
+><FROM-MONTH
+MONTH="SEPTEMBER"
+></FROM-MONTH><TO-MONTH
+MONTH="MAY"
+></TO-MONTH></ACAD-YEAR><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>David A.</FORENAME><SURNAME
+>Schmidt </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Exec. Vice-Pres.</JOB><NAME
+><FORENAME
+>Elias Bou</FORENAME><SURNAME
+>Saab</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Provost and Chief Acad. Officer</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Sabrina Joseph</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Registrar</JOB><NAME
+><FORENAME
+>Matilda</FORENAME><SURNAME
+>Jabbour</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Library Dir</JOB><NAME
+><FORENAME
+>Chrisa</FORENAME><SURNAME
+>Karakasidou</SURNAME></NAME></ADMINSTAFF><LIB-VOL
+LIBRARY="1"
+><LIB-PTEXT
+><VOL
+TOTAL="300000"
+></VOL> vols, 100 periodicals and eperiodicals</LIB-PTEXT></LIB-VOL><TEACHER
+><TEACH-PTEXT
+><TEACH-TOTAL
+TOTAL="140"
+></TEACH-TOTAL></TEACH-PTEXT></TEACHER><STUDENT
+><STUDENT-PTEXT
+><STUDENT-TOTAL
+TOTAL="2000"
+></STUDENT-TOTAL></STUDENT-PTEXT></STUDENT><PUB-GRP
+><PUBLICATION
+><JOURNAL
+>Indelible &amp;mdash;AUD Literary Journal</JOURNAL></PUBLICATION></PUB-GRP></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>Muhammad Bin Rashid School for Communication</SUBJECT><NAME
+><FORENAME
+>Ali</FORENAME><SURNAME
+>Jaber</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>School of Architecture, Art and Design</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Nabyl</FORENAME><SURNAME
+>Chenaf </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>School of Arts and Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Elham</FORENAME><SURNAME
+>Seyedsayamdost </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>School of Business and Administration</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Assaad</FORENAME><SURNAME
+>Farah </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>School of Education</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Catherine</FORENAME><SURNAME
+>Hill </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>School of Engineering</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Wael</FORENAME><SURNAME
+>Bazzi</SURNAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="UNITEDAE-XP20052009.0001"
+INDEX="Y"
+APPID="0000000"
+PREVUPDATES="20.05.2009"
+UPDATED="20.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>American University in the Emirates</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Dubai Int. Acad. City, POB 503000, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 4499000</NUMBER></TEL><EMAIL
+>info@aue.ae</EMAIL><WWW
+>www.aue.ae</WWW><CONTROL
+>institutional control: private</CONTROL><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres. and CEO</JOB><NAME
+><VERBATIM-NAME
+>Prof. Muthanna G. Abdul Razzaq</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Registrar</JOB><NAME
+><FORENAME
+>Nisreen</FORENAME><SURNAME
+>Rannak</SURNAME></NAME></ADMINSTAFF></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Business Administration</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Assem</FORENAME><SURNAME
+>Tharwat </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Computer Information Technology</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Adel</FORENAME><SURNAME
+>Khelifi </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Design</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Arafat al-Naim</VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Education</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Daniel</FORENAME><SURNAME
+>Alemu </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Law</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Tarek</FORENAME><SURNAME
+>Mohamed </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Media and Mass Communication</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Nabeel </FORENAME><SURNAME
+> Urdi</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Security and Global Studies</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Panteleimon</FORENAME><SURNAME
+> Sklias</SURNAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="AE.201804241709.0001"
+INDEX="Y"
+PREVUPDATES="24.04.2018, 07.01.2022, 03.03.2022"
+UPDATED="26.07.2022"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>American University of Ras al-Khaimah</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Ras al-Khaimah Rd, POB 10021, <CITY
+>Ras al-Khaimah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(7) 2210900</NUMBER></TEL><EMAIL
+>info@aurak.ac.ae</EMAIL><WWW
+>www.aurak.ac.ae</WWW><CONTROL
+>institutional control: public</CONTROL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2005"
+></FOUND-DATE> as George Mason Univ.&amp;mdash;Ras al-Khaimah, present name and status 2009</FOUND-PTEXT></FOUNDED><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Hassan Hamdan al-Alkim </VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Pres. for Acad. Affairs and Students, and Provost</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Stephen</FORENAME><SURNAME
+> Wilhite</SURNAME></NAME></ADMINSTAFF></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>School of Arts and Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Jyoti</FORENAME><SURNAME
+>Grewal </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>School of Business</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Joseph</FORENAME><SURNAME
+>Wallis </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>School of Engineering</SUBJECT><NAME
+><ACAD-TITLE
+>Assoc. Prof.</ACAD-TITLE><FORENAME
+>Hamed</FORENAME><SURNAME
+> Assaf</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>School of Graduate Studies and Research</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Bilal</FORENAME><SURNAME
+>Akash </SURNAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="UNITEDAE-XP20052009.0006"
+INDEX="Y"
+APPID="0000000"
+PREVUPDATES="20.05.2009, 19.12.2014, 02.08.2017, 20.04.2018, 24.12.2018, 21.06.2021, 27.08.2021, 30.11.2021"
+UPDATED="07.02.2022"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>American University of Sharjah</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 26666, <CITY
+>Sharjah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 5155555</NUMBER></TEL><EMAIL
+>infodesk@aus.edu</EMAIL><WWW
+>www.aus.edu</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1997"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Susan</FORENAME><SURNAME
+>Mumm</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Provost and Chief Acad. Officer</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Juan</FORENAME><SURNAME
+>Sanchez </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Sheikha Bodour al-Qasimi</VERBATIM-NAME></NAME></ADMINSTAFF><TEACHER
+><TEACH-PTEXT
+><TEACH-TOTAL
+TOTAL="330"
+></TEACH-TOTAL></TEACH-PTEXT></TEACHER><STUDENT
+><STUDENT-PTEXT
+><STUDENT-TOTAL
+TOTAL="5200"
+></STUDENT-TOTAL></STUDENT-PTEXT></STUDENT></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Architecture, Art and Design</SUBJECT><NAME
+><FORENAME
+>Varkki </FORENAME><SURNAME
+>Pallathucheril</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Arts and Sciences</SUBJECT><NAME
+><FORENAME
+>Mahmoud</FORENAME><SURNAME
+>Anabtawi</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Engineering</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Fadi</FORENAME><SURNAME
+> Aloul</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>School of Business and Management</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Narjess</FORENAME><SURNAME
+>Boubakri </SURNAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="AE.20052009.0007"
+INDEX="Y"
+APPID="0000000"
+PREVUPDATES="20.05.2009"
+UPDATED="20.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>British University in Dubai</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>1st and 2nd Fl., Dubai Int. Acad. City, POB 345015, <CITY
+> Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 2791400</NUMBER></TEL><EMAIL
+>info@buid.ac.ae</EMAIL><WWW
+>www.buid.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1997"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><VERBATIM-NAME
+> Sheikh Ahmed al-Maktoum</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Abdullah</FORENAME><SURNAME
+>Alshamsi </SURNAME></NAME></ADMINSTAFF></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>Faculty of Business and Law</SUBJECT><NAME
+><FORENAME
+>Ashly</FORENAME><SURNAME
+>Pinnington</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>Faculty of Education</SUBJECT><NAME
+><FORENAME
+>Eman</FORENAME><SURNAME
+>Gaad</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>Faculty of Engineering and IT</SUBJECT><NAME
+><VERBATIM-NAME
+>Bassam Abu-Hijleh</VERBATIM-NAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="AE.20052009.0008"
+INDEX="Y"
+APPID="0000000"
+PREVUPDATES="20.05.2009, 20.04.2018, 13.01.2018"
+UPDATED="24.11.2020"
+PREVRETURNS="12.01.2016"
+RETURNED="07.01.2022"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Canadian University of Dubai</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>1st Interchange Sheikh Zayed Rd, POB 117781, <CITY
+>Dubai </CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3219090</NUMBER></TEL><EMAIL
+>info@cud.ac.ae</EMAIL><WWW
+>www.cud.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2006"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>also faculty of communication, arts and sciences</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><FORENAME
+>Karim</FORENAME><SURNAME
+>Chelli</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Pres. for Acad. Affairs</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Mohammed</FORENAME><SURNAME
+>Djeddi </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Registrar</JOB><NAME
+><FORENAME
+>Mohammad</FORENAME><SURNAME
+>Elmoshnib</SURNAME></NAME></ADMINSTAFF></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="ACTING"
+>Faculty of Architecture and Interior Design </SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Hamoud</FORENAME><SURNAME
+>Dekkiche </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>Faculty of Engineering, Applied Science and Technology</SUBJECT><NAME
+><FORENAME
+>Sherif</FORENAME><SURNAME
+>Moussa</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>Faculty of Management</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Mohammed</FORENAME><SURNAME
+>Djeddi </SURNAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="AE.201804241724.0001"
+INDEX="Y"
+UPDATED="24.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Emirates Aviation University</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Dubai Int. Acad. City, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 6050100</NUMBER></TEL><EMAIL
+>eau.info@emirates.com</EMAIL><WWW
+>www.eau.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1991"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>schools of business, engineering, mathematics, statistics and computing </GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><ACAD-TITLE
+> Sheikh</ACAD-TITLE><VERBATIM-NAME
+>Ahmad bin Saeed al-Maktoum </VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Ahmad al-Ali</VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></PRIMARY><PRIMARY
+ID="AE.27052009.0020"
+INDEX="Y"
+APPID="0000000"
+PREVUPDATES="02.06.2009, 20.04.2018"
+UPDATED="24.09.2019"
+PREVRETURNS="11.05.2017"
+RETURNED="21.01.2021"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Gulf Medical University</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 4184, <CITY
+>Ajman</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 7431333</NUMBER></TEL><EMAIL
+>admissions@gmu.ac.ae</EMAIL><WWW
+>www.gmu.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1998"
+></FOUND-DATE> as Gulf Medical College, present status 2008</FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Thumbay Moideen</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Hossam</FORENAME><SURNAME
+>Hamdy </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor for Acad.</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Manda</FORENAME><SURNAME
+>Venkatramana </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor for Research</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Salem</FORENAME><SURNAME
+>Chouaib </SURNAME></NAME></ADMINSTAFF></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Dentistry</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Hesham</FORENAME><SURNAME
+>Marei </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Health Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Praveen Kumar K.</VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Healthcare Management and Economics</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>A. Bakr</FORENAME><SURNAME
+> Ibrahim</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Medicine</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Manda</FORENAME><SURNAME
+>Venkatramana </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Nursing</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Reetha</FORENAME><SURNAME
+>Ismail </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Pharmacy</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Sherief</FORENAME><SURNAME
+>Khalifa </SURNAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="UNITEDAE-XP27052009.0017"
+INDEX="Y"
+APPID="0000000"
+PREVUPDATES="02.06.2009, 20.04.2018, 07.06.2018"
+UPDATED="07.01.2022"
+PREVRETURNS="15.04.2010"
+RETURNED="05.02.2014"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Hamdan bin Mohammed Smart University (HBMSU)</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Dubai Int. Acad. City, POB 71400, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 4241111</NUMBER></TEL><EMAIL
+>hbmsu@hbmsu.ac.ae</EMAIL><WWW
+>www.hbmsu.ac.ae</WWW><CONTROL
+>institutional control: private</CONTROL><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><VERBATIM-NAME
+> Sheikh Hamdan bin Mohammed bin Rashid al-Maktoum</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Mansoor</FORENAME><SURNAME
+>al-Awar </SURNAME></NAME></ADMINSTAFF></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="ACTING"
+>School of Business and Quality Management </SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Ahmed Ankit</VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>School of Health and Environmental Studies </SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Samir</FORENAME><SURNAME
+>Hamidi </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>School of e-Education</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Hamdy Ahmed</FORENAME><SURNAME
+> Abdelaziz</SURNAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="AE.201804250957.0001"
+INDEX="Y"
+UPDATED="25.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Jumeira University</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Latifa bint Hamdan St W, POB 555532, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 5154555</NUMBER></TEL><EMAIL
+>info@ju.ac.ae</EMAIL><WWW
+>www.ju.ac.ae</WWW><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>colleges of business studies, education, health sciences, Islamic sciences</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><FORENAME
+>Abdulla</FORENAME><SURNAME
+>al-Muhairi</SURNAME></NAME></ADMINSTAFF></BLOCK></PRIMARY><PRIMARY
+ID="UNITEDAE-XP20052009.0009"
+INDEX="Y"
+APPID="0000000"
+PREVUPDATES="20.05.2009, 14.03.2017, 20.04.2018, 26.07.2019, 10.06.2021"
+UPDATED="11.01.2023"
+RETURNED="10.01.2020"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Khalifa University</TITLE><SUPP
+INDEX="1"
+>Khalifa University of Science and Technology</SUPP></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 127788, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 4018000</NUMBER></TEL><EMAIL
+>info@ku.ac.ae</EMAIL><WWW
+>www.ku.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2007"
+></FOUND-DATE> by merger of Khalifa Univ. of Science, Technology and Research; Masdar Institute of Science and Technology; Petroleum Institute</FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Prof. Sir</ACAD-TITLE><FORENAME
+>John</FORENAME><SURNAME
+> O&amp;rsquo;Reilly</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Provost</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Bayan</FORENAME><SURNAME
+>Sharif </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Exec. Vice-Pres.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Arif Sultan</FORENAME><SURNAME
+> al-Hammadi</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Sr Vice-Pres. for Acad. and Student Services</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Ahmed</FORENAME><SURNAME
+>al-Shoaibi </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Sr Vice-Pres. for Research and Devt</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Steven Wesley</FORENAME><SURNAME
+> Griffiths</SURNAME></NAME></ADMINSTAFF></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Arts and Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>David</FORENAME><SURNAME
+>Sheehan </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Engineering</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Hassan</FORENAME><SURNAME
+>Barada </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Medicine and Health Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>John</FORENAME><SURNAME
+>Rock</SURNAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="AE.201804251019.0001"
+INDEX="Y"
+PREVUPDATES="25.04.2018"
+UPDATED="07.06.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Mohammed bin Rashid University of Medicine and Healthcare Sciences </TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Bldg 14, Dubai Healthcare City, POB 505055, <CITY
+>Dubai </CITY></VERBATIM-ADDRESS></ADDRESS><EMAIL
+>info@mbruniversity.ac.ae</EMAIL><WWW
+>www.mbruniversity.ac.ae</WWW><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><ACAD-TITLE
+> Sheikh</ACAD-TITLE><VERBATIM-NAME
+>Ahmad bin Saeed al-Maktoum </VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Amer Ahmad Sharif</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Provost</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Mutairu</FORENAME><SURNAME
+> Ezimokhai</SURNAME></NAME></ADMINSTAFF></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Dental Medicine</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Athanasios E.</FORENAME><SURNAME
+> Athanasiou</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Medicine</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Alawi Alsheikh-Ali</VERBATIM-NAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="AE.201804251131.0001"
+INDEX="Y"
+PREVUPDATES="25.04.2018"
+UPDATED="07.06.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Mohammed V University Abu Dhabi</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Fatema bint Mubarak St, POB 106621, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 4999200</NUMBER></TEL><EMAIL
+>info@um5a.ac.ae</EMAIL><WWW
+>www.um5a.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2009"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: public</CONTROL><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>br. in Ajman</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Farouk</FORENAME><SURNAME
+>Hamada </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chair. and Exec. Dir</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Mohammad Bani Yas</VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></PRIMARY><PRIMARY
+ID="UNITEDAE-XP20052009.0005.1"
+INDEX="Y"
+APPID="0000000"
+PREVUPDATES="20.05.2009, 20.04.2018, 01.08.2019, 08.09.2020"
+UPDATED="03.03.2022"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>New York University Abu Dhabi</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Saadiyat Island, POB 129188, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 6284000</NUMBER></TEL><EMAIL
+>nyuad@nyu.edu</EMAIL><WWW
+>nyuad.nyu.edu</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2009"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Provost</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Arlie O.</FORENAME><SURNAME
+>Petters </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor</JOB><NAME
+><FORENAME
+>Mari&amp;euml;t</FORENAME><SURNAME
+>Westermann</SURNAME></NAME></ADMINSTAFF></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>Division of Arts and Humanities</SUBJECT><NAME
+><FORENAME
+>Awam</FORENAME><SURNAME
+>Amkpa</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>Division of Engineering</SUBJECT><NAME
+><FORENAME
+>Samer</FORENAME><SURNAME
+>Madanat</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>Division of Science</SUBJECT><NAME
+><FORENAME
+>Marta</FORENAME><SURNAME
+>Losada</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>Division of Social Science</SUBJECT><NAME
+><VERBATIM-NAME
+>Herv&amp;eacute; Cr&amp;egrave;s</VERBATIM-NAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="UNITEDAE-XP20052009.0006.2"
+INDEX="Y"
+APPID="0000000"
+PREVUPDATES="20.05.2009"
+UPDATED="20.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Paris Sorbonne University&amp;mdash;Abu Dhabi</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 38044, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 6569555</NUMBER></TEL><EMAIL
+>info@psuad.ac.ae</EMAIL><WWW
+>www.sorbonne.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2006"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><FORENAME
+>Jean</FORENAME><SURNAME
+>Chambaz</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Eric</FORENAME><SURNAME
+>Fouache </SURNAME></NAME></ADMINSTAFF></BLOCK></PRIMARY><PRIMARY
+ID="AE.27052009.0023"
+INDEX="Y"
+APPID="0000000"
+PREVUPDATES="02.06.2009, 23.04.2018"
+UPDATED="07.06.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Ras al-Khaimah Medical and Health Sciences University</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 11172, <CITY
+>Ras al-Khaimah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(7) 2269000</NUMBER></TEL><EMAIL
+>admissions@rakmhsu.ac.ae</EMAIL><WWW
+>www.rakmhsu.com</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2006"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>S. Gurumadhva</FORENAME><SURNAME
+> Rao</SURNAME></NAME></ADMINSTAFF><TEACHER
+><TEACH-PTEXT
+><TEACH-TOTAL
+TOTAL="110"
+></TEACH-TOTAL></TEACH-PTEXT></TEACHER><STUDENT
+><STUDENT-PTEXT
+><STUDENT-TOTAL
+TOTAL="1300"
+></STUDENT-TOTAL></STUDENT-PTEXT></STUDENT></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Dental Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Muhammed Mustahsen Rahman </VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Medical Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Azan Saleh al-Saadi</VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Nursing</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Vijaya</FORENAME><SURNAME
+>Kumardhas </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Pharmaceutical Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Padma G. M. Rao</VERBATIM-NAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="AE.201804251150.0001"
+INDEX="Y"
+UPDATED="25.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Saint Joseph University Dubai</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Block 11, Dubai Int. Acad. City, POB 345008, <CITY
+>Dubai </CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 4380630</NUMBER></TEL><EMAIL
+>usj.dubai@usj.edu.lb</EMAIL><WWW
+>www.usj.edu.lb/dubai</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1875"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>schools of law, translation</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Rector</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Salim Daccache</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Rector for Admin.</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Wajdi</FORENAME><SURNAME
+>Najem </SURNAME></NAME></ADMINSTAFF></BLOCK></PRIMARY><PRIMARY
+ID="ED7.200901.1546"
+INDEX="Y"
+APPID="0000007"
+PREVUPDATES="08.03.04; 18.06.2002; 20.09.2001; 06.05.2003, 06.05.2009, 23.04.2018, 10.06.2020, 07.01.2022, 22.06.2022"
+UPDATED="09.12.2022"
+RETURNED="14.02.2020"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>United Arab Emirates University</TITLE></TIBLOCK><BLOCK
+><CONTACT
+INSTITUTE="N"
+>Vice-Chancellor&amp;rsquo;s Office <EMAIL
+>vice_chancellor@uaeu.ac.ae </EMAIL></CONTACT><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+COUNTRYGIVEN="N"
+><VERBATIM-ADDRESS
+>POB 15551, <CITY
+>Al-Ain</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(3) 7673333</NUMBER></TEL><EMAIL
+>servicedesk@uaeu.ac.ae</EMAIL><WWW
+>www.uaeu.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1976"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: public</CONTROL><LANGUAGE
+><SPOKEN
+LANG="Arabic"
+></SPOKEN><SPOKEN
+LANG="English"
+></SPOKEN></LANGUAGE><ACAD-YEAR
+><FROM-MONTH
+MONTH="SEPTEMBER"
+></FROM-MONTH><TO-MONTH
+MONTH="JUNE"
+></TO-MONTH></ACAD-YEAR><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>incl. Nat. Medical Library</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><ACAD-TITLE
+>HE</ACAD-TITLE><FORENAME
+>Zaki</FORENAME><SURNAME
+>Nusseibeh </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="ACTING"
+>Vice-Chancellor</JOB><NAME
+><ACAD-TITLE
+>HE Prof.</ACAD-TITLE><FORENAME
+>Ghaleb Ali al-Hadrami</FORENAME><SURNAME
+>al-Breiki</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="ACTING"
+>Deputy Vice-Chancellor for Acad. Affairs and Provost </JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Matthew Evans</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="ACTING"
+>Deputy Vice-Chancellor for Finance and Admin. Affairs and Secretary General</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Khalfan Saleh</FORENAME><SURNAME
+> Al Dhaheri</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dean for Libraries</JOB><NAME
+><FORENAME
+>Janette D.</FORENAME><SURNAME
+>Wright</SURNAME></NAME></ADMINSTAFF><LIB-VOL
+LIBRARY="0"
+><LIB-PTEXT
+><VOL
+TOTAL="439650"
+></VOL> vols, 120,000 ebooks</LIB-PTEXT></LIB-VOL><TEACHER
+><TEACH-PTEXT
+><TEACH-TOTAL
+TOTAL="660"
+></TEACH-TOTAL></TEACH-PTEXT></TEACHER><STUDENT
+><STUDENT-PTEXT
+><STUDENT-TOTAL
+TOTAL="14390"
+></STUDENT-TOTAL></STUDENT-PTEXT></STUDENT></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Business and Economics</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Frank</FORENAME><SURNAME
+>Bostyn </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Education</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Najwa</FORENAME><SURNAME
+>al-Hosani </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Engineering</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Sabah</FORENAME><SURNAME
+>Alkass </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Food and Agriculture</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Bhanu</FORENAME><SURNAME
+>Chowdhary </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Graduate Studies</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Ali Hassan</FORENAME><SURNAME
+> al-Marzouqi</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Humanities and Social Sciences </SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Hassan</FORENAME><SURNAME
+>al-Naboodah </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Information Technology</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Taieb</FORENAME><SURNAME
+>Znati </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Law</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Mohammed Hassan Ali Mohammed </VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Medicine and Health Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Juma</FORENAME><SURNAME
+>al-kaabi </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Science</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Maamar ben</FORENAME><SURNAME
+> Kraouda</SURNAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="AE.201804251220.0001"
+INDEX="Y"
+UPDATED="25.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>University of Balamand Dubai</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Dubai Investments House, Park 1, POB 116458, <CITY
+>Dubai </CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 8122500</NUMBER></TEL><EMAIL
+>admissions@uobd.ac.ae</EMAIL><WWW
+>www.balamand.edu.lb/uobd</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1988"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>faculties of arts and sciences, engineering</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor</JOB><NAME
+><VERBATIM-NAME
+>Moubayed Walid</VERBATIM-NAME></NAME></ADMINSTAFF><TEACHER
+><TEACH-PTEXT
+><TEACH-TOTAL
+TOTAL="1270"
+></TEACH-TOTAL></TEACH-PTEXT></TEACHER><STUDENT
+><STUDENT-PTEXT
+><STUDENT-TOTAL
+TOTAL="5670"
+></STUDENT-TOTAL></STUDENT-PTEXT></STUDENT></BLOCK></PRIMARY><PRIMARY
+ID="DF.05012005.0001"
+INDEX="Y"
+APPID="0000006C"
+PREVUPDATES="05.05.2009, 23.04.2018, 08.06.2018, 07.01.2022"
+UPDATED="25.07.2022"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>University of Dubai</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Dubai Int. Acad. City, Emirates Rd, POB 14143, <CITY
+>Dubai </CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 5566800</NUMBER></TEL><EMAIL
+>info@ud.ac.ae</EMAIL><WWW
+>www.ud.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1997"
+></FOUND-DATE> as Dubai Univ. College; present status 2006</FOUND-PTEXT></FOUNDED><LANGUAGE
+><SPOKEN
+LANG="Arabic"
+></SPOKEN><SPOKEN
+LANG="English"
+></SPOKEN></LANGUAGE><CONTROL
+>institutional control: private</CONTROL><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>also college of law</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><VERBATIM-NAME
+>Eesa Mohammed Bastaki</VERBATIM-NAME></NAME></ADMINSTAFF><TEACHER
+><TEACH-PTEXT
+><TEACH-TOTAL
+TOTAL="50"
+></TEACH-TOTAL></TEACH-PTEXT></TEACHER><STUDENT
+><STUDENT-PTEXT
+><STUDENT-TOTAL
+TOTAL="630"
+></STUDENT-TOTAL></STUDENT-PTEXT></STUDENT></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Engineering and IT</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Wathiq Mansoor</VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>Dubai Business School</SUBJECT><NAME
+><ACAD-TITLE
+>Prof. Dr</ACAD-TITLE><FORENAME
+>Udo</FORENAME><SURNAME
+>Braendle </SURNAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="AE.201804251448.0001"
+INDEX="Y"
+PREVUPDATES="25.04.2018, 08.07.2018"
+UPDATED="07.01.2022"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>University of Fujairah</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>E89, POB 1207, <CITY
+>Fujairah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(9) 2244499</NUMBER></TEL><EMAIL
+>info@uof.ac.ae</EMAIL><WWW
+>www.uof.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2006"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>M. Gharseldin</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Head of Library</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Prasanna</FORENAME><SURNAME
+>Raj </SURNAME></NAME></ADMINSTAFF></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Arts, Social Sciences and Humanities </SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Mahmoud Hussein Al-Azazma </VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Business Administration</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Muhammad Turki al-Shuridah </VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Communication</SUBJECT><NAME
+><ACAD-TITLE
+>Asst Prof. Dr</ACAD-TITLE><VERBATIM-NAME
+>Abdu Mohamed Dawood </VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Health Sciences</SUBJECT><NAME
+><VERBATIM-NAME
+>Corrien Van Belkum</VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Information Technology College </SUBJECT><NAME
+><ACAD-TITLE
+>Prof. Dr</ACAD-TITLE><VERBATIM-NAME
+>Mulhim Al Doori</VERBATIM-NAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="ED7.200901.1648"
+INDEX="Y"
+APPID="0000006D"
+PREVUPDATES="08.03.04; 20/09/01, 05.05.2009, 11.09.2017, 23.04.2018, 08.06.2018, 05.04.2019, 24.11.2020, 04.06.2021, 20.08.2021"
+UPDATED="06.02.2023"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>University of Sharjah</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 27272, <CITY
+>Sharjah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 5585000</NUMBER></TEL><EMAIL
+>info@sharjah.ac.ae</EMAIL><WWW
+>www.sharjah.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1997"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><LANGUAGE
+><SPOKEN
+LANG="Arabic"
+></SPOKEN><SPOKEN
+LANG="English"
+></SPOKEN></LANGUAGE><ACAD-YEAR
+><FROM-MONTH
+MONTH="SEPTEMBER"
+></FROM-MONTH><TO-MONTH
+MONTH="AUGUST"
+></TO-MONTH></ACAD-YEAR><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>also college of pharmacy; campuses in al-Dhaid, Kalba, Khorfakan </GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Sheikh Dr</ACAD-TITLE><VERBATIM-NAME
+>Sultan bin Mohammed al-Qasimi</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Hamid M. K.</FORENAME><SURNAME
+> al-Naimiy</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor for Acad. Affairs</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Sherif Sedky</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor for Admin. and Financial Affairs</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Gordon</FORENAME><SURNAME
+>Handke </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor for Research and Graduate Studies</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Maamar</FORENAME><SURNAME
+>Bettayeb </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor for Medical Colleges</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Qutayba Hamid al-Heialy </VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir of Libraries</JOB><NAME
+><FORENAME
+>Nadia</FORENAME><SURNAME
+>Masoud</SURNAME></NAME></ADMINSTAFF><TEACHER
+><TEACH-PTEXT
+><TEACH-TOTAL
+TOTAL="630"
+></TEACH-TOTAL></TEACH-PTEXT></TEACHER><STUDENT
+><STUDENT-PTEXT
+><STUDENT-TOTAL
+TOTAL="15000"
+></STUDENT-TOTAL></STUDENT-PTEXT></STUDENT></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Arts, Humanities and Social Sciences </SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Hussein Mohammad</FORENAME><SURNAME
+> al-Othman</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Business Administration</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Dima Rachid</FORENAME><SURNAME
+> Jamali</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Communication</SUBJECT><NAME
+><FORENAME
+>Essam Naser</FORENAME><SURNAME
+>Selim</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Computing and Informatics</SUBJECT><NAME
+><FORENAME
+>Mohammad S.</FORENAME><SURNAME
+>Obaidat</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Dental Medicine</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Qutayba Hamid</FORENAME><SURNAME
+> al-Heialy</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Engineering</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Ahmed</FORENAME><SURNAME
+>al-Shama'a </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Graduate Studies</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Raafat</FORENAME><SURNAME
+>el-Awady </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Fine Arts and Design</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Nadia M.</FORENAME><SURNAME
+> al-Hasni</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Health Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Amina Mohammed Almarzouqi  </VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Law</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Imad Eldin Abdul Hay</VERBATIM-NAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Medicine</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Qutayba Hamid</FORENAME><SURNAME
+> al-Heialy</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Pharmacy</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Raafat</FORENAME><SURNAME
+>el-Awady </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Nouar</FORENAME><SURNAME
+>Tabet </SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Shari'a and Islamic Studies</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Awad</FORENAME><SURNAME
+>Alkhalaf </SURNAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="AE.27052009.0022"
+INDEX="Y"
+APPID="0000000"
+PREVUPDATES="02.06.2009, 30.03.2016, 23.04.2018, 08.06.2018, 10.12.2018"
+UPDATED="21.08.2020"
+RETURNED=""
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>University of Wollongong in Dubai</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>UOWD Bldg, Dubai Knowledge Park, POB 20183, <CITY
+>Dubai </CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 2781800</NUMBER></TEL><EMAIL
+>info@uowdubai.ac.ae</EMAIL><WWW
+>www.uowdubai.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1993"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: private</CONTROL><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>also school of humanities, social sciences and health</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Mohamed</FORENAME><SURNAME
+> Salem</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir for Student Services and Acad. Registrar</JOB><NAME
+><FORENAME
+>Sheelagh</FORENAME><SURNAME
+>Wallace</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Library Man.</JOB><NAME
+><FORENAME
+>Saba</FORENAME><SURNAME
+>Gaffar</SURNAME></NAME></ADMINSTAFF><LIB-VOL
+LIBRARY="0"
+><LIB-PTEXT
+><VOL
+TOTAL="40000"
+></VOL> vols incl. books, journals, newspapers, kits, cassettes, videos and DVDs; 156,800 ejournals</LIB-PTEXT></LIB-VOL><TEACHER
+><TEACH-PTEXT
+><TEACH-TOTAL
+TOTAL="380"
+></TEACH-TOTAL></TEACH-PTEXT></TEACHER><STUDENT
+><STUDENT-PTEXT
+><STUDENT-TOTAL
+TOTAL="3520"
+></STUDENT-TOTAL></STUDENT-PTEXT></STUDENT></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>Faculty of Business</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Payyazhi</FORENAME><SURNAME
+> Jayashree</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>Faculty of Engineering and Information Sciences</SUBJECT><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Khalid</FORENAME><SURNAME
+>Hussain </SURNAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY><PRIMARY
+ID="AE.210901.0839"
+INDEX="Y"
+APPID="0000008"
+PREVUPDATES="21/09/01, 06/05/2009, 25.07.2017, 23.04.2018, 28.01.2021"
+UPDATED="01.03.2021"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="pref"
+><TIBLOCK
+><TITLE
+>Zayed University</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 144534, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 5993111</NUMBER></TEL><EMAIL
+>info@zu.ac.ae</EMAIL><WWW
+>www.zu.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1998"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><CONTROL
+>institutional control: public</CONTROL><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>campus in Dubai</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>HE</ACAD-TITLE><FORENAME
+>Naura bint Mohammed</FORENAME><SURNAME
+>al-Kaabi</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Pres.</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Reyadh</FORENAME><SURNAME
+>al-Mehaideb </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Provost and Chief Acad. Officer</JOB><NAME
+><FORENAME
+>Clayton</FORENAME><SURNAME
+>MacKenzie</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dean for Student Affairs</JOB><NAME
+><FORENAME
+>Hind</FORENAME><SURNAME
+>Alrustamani</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="ACTING"
+>Registrar</JOB><NAME
+><FORENAME
+>Ruba</FORENAME><SURNAME
+>Ramahi</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Library Dir</JOB><NAME
+><VERBATIM-NAME
+>Mary Zengati-Simba</VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK><ADDONLIST
+><ROLELIST
+><ROLELIST-TITLE
+TITLE="DEANS"
+></ROLELIST-TITLE><STAFFLIST
+><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Arts and Creative Enterprises</SUBJECT><NAME
+><FORENAME
+>Kevin</FORENAME><SURNAME
+>Badni</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Business</SUBJECT><NAME
+><FORENAME
+>John</FORENAME><SURNAME
+>Rice</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Communication and Media Sciences </SUBJECT><NAME
+><FORENAME
+>Dwight</FORENAME><SURNAME
+>Brooks</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Education </SUBJECT><NAME
+><FORENAME
+>Rana</FORENAME><SURNAME
+>Tamim</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Graduate Studies</SUBJECT><NAME
+><FORENAME
+>Gaelle</FORENAME><SURNAME
+>Picherit-Duthler</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="ACTING"
+>College of Humanities and Social Sciences </SUBJECT><NAME
+><FORENAME
+>Fares</FORENAME><SURNAME
+>Howari</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Natural and Health Sciences</SUBJECT><NAME
+><FORENAME
+>Fares</FORENAME><SURNAME
+>Howari</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>College of Technological Innovation</SUBJECT><NAME
+><FORENAME
+>Hany</FORENAME><SURNAME
+>Elkadi</SURNAME></NAME></STAFF><STAFF
+><SUBJECT
+STATUS="FILLED"
+>University College</SUBJECT><NAME
+><FORENAME
+>Belkeis</FORENAME><SURNAME
+>Altareb</SURNAME></NAME></STAFF></STAFFLIST></ROLELIST></ADDONLIST></PRIMARY></SUB-UC><SUB-UC
+ID="AE.4.2"
+><TITLE
+>Colleges</TITLE><SECONDARY
+ID="AE.201804251526.0001"
+INDEX="Y"
+UPDATED="25.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Abu Dhabi School of Management</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Salam St and St 31, POB 6844, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 6917811</NUMBER></TEL><EMAIL
+>info@adsm.ac.ae</EMAIL><WWW
+>www.adsm.ac.ae</WWW><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres. and Provost</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Abdullah</FORENAME><SURNAME
+>Abonamah </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Acad. Dean</JOB><NAME
+><FORENAME
+>Daniel</FORENAME><SURNAME
+>Kratochvil</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.05062009015"
+TOWN="Dubai"
+INDEX="Y"
+PREVUPDATES="05.06.2009"
+UPDATED="18.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Al-Dar University College</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Al-Garhoud, POB 35529, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 2826880</NUMBER></TEL><EMAIL
+>info@aldar.ac.ae</EMAIL><WWW
+>www.aldar.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1994"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chair.</JOB><NAME
+><VERBATIM-NAME
+>Ali Mohammed Ghunaim</VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.05062009014"
+INDEX="Y"
+PREVUPDATES="05.06.2009"
+UPDATED="17.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>American College of Dubai</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 12867, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 2829992</NUMBER></TEL><WWW
+>www.acd.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1990"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><LIB-VOL
+LIBRARY="0"
+><LIB-PTEXT
+><VOL
+TOTAL="30000"
+></VOL> vols</LIB-PTEXT></LIB-VOL><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Hasan</FORENAME><SURNAME
+>Wahbah </SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Registrar</JOB><NAME
+><FORENAME
+>Christine</FORENAME><SURNAME
+>Mascarenhas</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dean for Student Affairs</JOB><NAME
+><FORENAME
+>Shankari</FORENAME><SURNAME
+>Sharma</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Sr Librarian</JOB><NAME
+><FORENAME
+>Rani</FORENAME><SURNAME
+>Mani</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804251543.0001"
+INDEX="Y"
+PREVUPDATES="25.04.2018"
+UPDATED="07.06.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>City University College of Ajman</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Sheikh Ammar Rd, al-Tallah 2, POB 18484, <CITY
+>Ajman</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 7315000</NUMBER></TEL><EMAIL
+>info@cuca.ae</EMAIL><WWW
+>www.cuca.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2012"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><FORENAME
+>Imran</FORENAME><SURNAME
+>Khan</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Mohamed</FORENAME><SURNAME
+>Amerah </SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804261228.0001"
+TOWN="Dubai"
+INDEX="Y"
+UPDATED="26.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>College of Fashion and Design</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Bldg No 4, al-Abraj St, Bay Sq., Business Bay, <CITY
+>Dubai </CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 5637777</NUMBER></TEL><EMAIL
+>contact@cfd-dubai.com</EMAIL><WWW
+>www.cfd-dubai.com</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2017"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres. and CEO</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Monica</FORENAME><SURNAME
+>Gallant </SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.05062009006"
+TOWN="Dubai"
+INDEX="Y"
+PREVUPDATES="05.06.2009, 18.04.2018"
+UPDATED="08.06.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>College of Islamic and Arabic Studies</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 50106, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3961777</NUMBER></TEL><EMAIL
+>iasc@emirates.net.ae</EMAIL><WWW
+>www.islamic-college.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1986"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><STUDENT
+><STUDENT-PTEXT
+><STUDENT-TOTAL
+TOTAL="3490"
+></STUDENT-TOTAL> students</STUDENT-PTEXT></STUDENT><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Mohammed Ahmed Abdul Rahman </VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804251614.0001"
+INDEX="Y"
+UPDATED="25.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Dubai Institute of Design and Innovation</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Ground Fl., Bldg 4, Dubai Design Dist., <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 5683911</NUMBER></TEL><EMAIL
+>info@didi.ac.ae</EMAIL><WWW
+>www.didi.ac.ae</WWW><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Amina</FORENAME><SURNAME
+>al-Rustamani </SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.05062009016"
+INDEX="Y"
+PREVUPDATES="05.06.2009, 18.04.2018"
+UPDATED="07.06.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Dubai Medical College</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>al-Muhaisanah 1, al-Mizhar, POB 20170, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 2646130</NUMBER></TEL><WWW
+>www.dmcg.edu</WWW><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dean</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Mohammed</FORENAME><SURNAME
+> Galal el-Din</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.05062009017"
+INDEX="Y"
+PREVUPDATES="05.06.2009"
+UPDATED="18.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Dubai Pharmacy College for Girls</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>al-Muhaisanah 1, al-Mizhar, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 2120333</NUMBER></TEL><WWW
+>www.dpc.edu</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1992"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dean</JOB><NAME
+><ACAD-TITLE
+>Prof. Dr</ACAD-TITLE><FORENAME
+>Saeed Ahmed</FORENAME><SURNAME
+> Khan</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.05062009019"
+INDEX="Y"
+PREVUPDATES="05.06.2009"
+UPDATED="18.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Emirates Academy of Hospitality Management</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Umm Suqeim 3, Bldg 69, al-Saqool St, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3155555</NUMBER></TEL><EMAIL
+>info@emiratesacademy.edu</EMAIL><WWW
+>www.emiratesacademy.edu</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2001"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><STUDENT
+><STUDENT-PTEXT
+><STUDENT-TOTAL
+TOTAL="400"
+></STUDENT-TOTAL> students</STUDENT-PTEXT></STUDENT><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dean</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Scott</FORENAME><SURNAME
+>Richardson </SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804251626.0001"
+INDEX="Y"
+UPDATED="25.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Emirates Canadian University College</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 536, <CITY
+>Umm al-Quwain</CITY> </VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 7665597</NUMBER></TEL><EMAIL
+>info@ecuc.ac.ae</EMAIL><WWW
+>www.ecuc.ac.ae</WWW></BLOCK></SECONDARY><SECONDARY
+ID="AE.11062009019"
+INDEX="Y"
+PREVUPDATES="11.06.2009"
+UPDATED="18.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Emirates College for Advanced Education</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 126662, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 6964300</NUMBER></TEL><EMAIL
+>admissions@ecae.ac.ae</EMAIL><WWW
+>www.ecae.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2007"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chair.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Arif Sultan al-Hammadi</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Robert</FORENAME><SURNAME
+>Milne </SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.05062009002"
+INDEX="Y"
+PREVUPDATES="05.06.2009"
+UPDATED="18.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Emirates College of Technology</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Male Campus, Millennium Tower, Sheikh Hamdan St, <CITY
+> Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 6266010</NUMBER></TEL><EMAIL
+>admission@ect.ac.ae</EMAIL><WWW
+>ect.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1993"
+></FOUND-DATE> as Emirates Institute of Technology </FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>campus in al-Bateen; faculties of business, health sciences, media </GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres. for Acad. Affairs</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Bruce</FORENAME><SURNAME
+>Taylor </SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.210901.0833"
+INDEX="Y"
+APPID="0000009A"
+PREVUPDATES="08.03.2004; 21/09/01, 06.05.2009"
+UPDATED="18.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Emirates Institute for Banking and Financial Studies</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Dubai Int. Acad. City, al-Ruwayyah 2, POB 341400, <CITY
+> Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 6070444</NUMBER></TEL><WWW
+>www.eibfs.com</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1983"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>campuses in Abu Dhabi and Sharjah </GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chair.</JOB><NAME
+><VERBATIM-NAME
+>Hesham Abdullah al-Qassim</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>CEO</JOB><NAME
+><VERBATIM-NAME
+>Jasim al-Ali</VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201805021123.0001"
+INDEX="Y"
+UPDATED="02.05.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Emirates Institute for Citizenship Residency and Ports</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+><CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 4024500</NUMBER></TEL><EMAIL
+>eicrp@eicrp.ae</EMAIL><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2008"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804251704.0001"
+INDEX="Y"
+UPDATED="25.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>European International College</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 73767, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 4491450</NUMBER></TEL><EMAIL
+>info@eic.ac.ae</EMAIL><WWW
+>www.eic.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2006"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dean</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><FORENAME
+>Thouraya</FORENAME><SURNAME
+> Labben</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.11062009013"
+INDEX="Y"
+PREVUPDATES="11.06.2009"
+UPDATED="18.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>European University College</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>3rd Fl. Block D, Ibn Sina Bldg 27, Dubai Healthcare City, POB 53382, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3624787</NUMBER></TEL><EMAIL
+>info@dubaipostgraduate.com</EMAIL><WWW
+>www.euc.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2006"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>campus in Abu Dhabi</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dean</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Donald J.</FORENAME><SURNAME
+>Ferguson</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804261957.0001"
+INDEX="Y"
+UPDATED="26.04.2018"
+RETURNED=""
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Fatima College of Health Sciences</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Sheikh Maktoum bin Rashid Rd, POB 3798, <CITY
+>Ajman</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 7148649</NUMBER></TEL><WWW
+>www.fchs.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2006"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>campuses in Abu Dhabi, Al-Ain, Madinat Zayed</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Daryl A.</FORENAME><SURNAME
+>Cornish </SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.4.2.3"
+TOWN="Abu Dhabi"
+INDEX="Y"
+APPID="0000011"
+PREVUPDATES="08.03.2004, 06.05.2009"
+UPDATED="18.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Higher Colleges of Technology</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+COUNTRYGIVEN="N"
+><VERBATIM-ADDRESS
+>POB 25026, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 2066666</NUMBER></TEL><EMAIL
+>hct.admission@hct.ac.ae</EMAIL><WWW
+>www.hct.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1988"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>campuses in Al-Ain, Dubai, Fujairah, Madinat Zayed, Ras al-Khaimah, Ruwais, Sharjah</GEN-INFO><LIB-VOL
+LIBRARY="0"
+><LIB-PTEXT
+><VOL
+TOTAL="160000"
+></VOL> vols</LIB-PTEXT></LIB-VOL><TEACHER
+><TEACH-PTEXT
+><TEACH-TOTAL
+TOTAL="2000"
+></TEACH-TOTAL> teachers</TEACH-PTEXT></TEACHER><STUDENT
+><STUDENT-PTEXT
+><STUDENT-TOTAL
+TOTAL="23000"
+></STUDENT-TOTAL> students</STUDENT-PTEXT></STUDENT><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chancellor</JOB><NAME
+><ACAD-TITLE
+>HE</ACAD-TITLE><VERBATIM-NAME
+>Mohammad Omran al-Shamsi</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Vice-Chancellor</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Abdullatif</FORENAME><SURNAME
+> al-Shamsi</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804261111.0001"
+INDEX="Y"
+UPDATED="26.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Imam Malik College of Shari&amp;rsquo;a and Law</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Dubai Int. Acad. City, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 5614600</NUMBER></TEL><EMAIL
+>malik@imc.gov.ae</EMAIL><WWW
+>www.imc.gov.ae</WWW></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804261125.0001"
+TOWN="Abu Dhabi"
+INDEX="Y"
+UPDATED="26.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>INSEAD</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>29th&amp;ndash;30th Fl., al-Khatem Tower, ADGM Sq., al-Maryah Island, POB 48049, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 6515200</NUMBER></TEL><WWW
+>www.insead.edu</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2007"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir</JOB><NAME
+><VERBATIM-NAME
+>Miguel Sousa Lobo</VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.05062009005"
+TOWN="Dubai"
+INDEX="Y"
+PREVUPDATES="05.06.2009"
+UPDATED="18.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Institute of Management Technology</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Dubai Int. Acad. City, POB 345006, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3638862</NUMBER></TEL><EMAIL
+>info@imt.ac.ae</EMAIL><WWW
+>www.imt.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2006"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dir</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Francois</FORENAME><SURNAME
+>Therin </SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804261144.0001"
+INDEX="Y"
+UPDATED="26.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>MENA College of Management</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>5th Fl., Block 10, Dubai Int. Acad. City, POB 430470, <CITY
+> Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 4429180</NUMBER></TEL><EMAIL
+>info@mcm.ac.ae</EMAIL><WWW
+>www.mcm.ac.ae</WWW><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Prof.</ACAD-TITLE><VERBATIM-NAME
+>Abdel Moneim M. B. Ahmad </VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Acad. Dean</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Naseer</FORENAME><SURNAME
+>Khan </SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804261153.0001"
+TOWN="Dubai"
+INDEX="Y"
+UPDATED="26.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Muhammad bin Rashid School of Government</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Level 7, Convention Tower, POB 72229, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3175600</NUMBER></TEL><EMAIL
+>ecgk@mbrsg.ac.ae</EMAIL><WWW
+>www.mbrsg.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2005"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Exec. Pres.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Ali Sebaa al-Marri</VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.11062009004"
+TOWN="Abu Dhabi"
+INDEX="Y"
+PREVUPDATES="11.06.2009, 19.04.2018"
+UPDATED="03.09.2021"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>New York Institute of Technology</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>CERT Technology Park, al-Muroor Rd, POB 5464, <CITY
+> Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 4048523</NUMBER></TEL><EMAIL
+>nyitad@nyit.edu</EMAIL><WWW
+>www.nyit.edu/abu_dhabi</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2005"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>schools of arts and sciences, engineering and computing sciences, health professions, interdisciplinary studies and education, management, osteopathic medicine</GEN-INFO><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Exec. Dir for Acad. and Student Affairs</JOB><NAME
+><FORENAME
+>Chakib</FORENAME><SURNAME
+>Farhat</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804261202.0001"
+INDEX="Y"
+UPDATED="26.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Rabdan Academy</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>POB 114646, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 5999111</NUMBER></TEL><EMAIL
+>info@ra.ac.ae</EMAIL><WWW
+>www.ra.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2013"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Acad. Pres.</JOB><NAME
+><FORENAME
+>James Anthony</FORENAME><SURNAME
+>Morse</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dean</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><FORENAME
+>Peter James</FORENAME><SURNAME
+>  ell</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.11062009016"
+INDEX="Y"
+PREVUPDATES="11.06.2009"
+UPDATED="19.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Rochester Institute of Technology Dubai</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Techno Point Bldg, 1st Fl., Dubai Silicon Oasis, POB 341055, <CITY
+> Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3712000.</NUMBER></TEL><EMAIL
+>dubai@rit.edu</EMAIL><WWW
+>www.rit.edu/dubai</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2008"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chair.</JOB><NAME
+><VERBATIM-NAME
+>Sheikh Khaled bin Zayed al-Nahyan</VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><ACAD-TITLE
+>Dr</ACAD-TITLE><VERBATIM-NAME
+>Yousef al-Assaf</VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804261221.0001"
+INDEX="Y"
+PREVUPDATES="26.04.2018"
+UPDATED="07.06.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Royal College of Surgeons in Ireland, Dubai</TITLE></TIBLOCK><BLOCK
+><CONTACT
+INSTITUTE="N"
+>Winona D'Souza, Admissions Office <EMAIL
+>winonadsouza@rcsi.ie </EMAIL></CONTACT><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Office 203, Bldg 14, Mohammed bin Rashid Acad. Medical Center, Dubai, POB 505095, Healthcare City, <CITY
+>Dubai</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(4) 3752116</NUMBER></TEL><WWW
+>www.rcsileadership.org/UAE</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="2005"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED></BLOCK></SECONDARY><SECONDARY
+ID="AE.05062009011"
+TOWN="Sharjah"
+INDEX="Y"
+PREVUPDATES="05.06.2009"
+UPDATED="19.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Skyline University College</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>University City of Sharjah, <CITY
+>Sharjah</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 5441155</NUMBER></TEL><EMAIL
+>admissions@skylineuniversity.ac.ae</EMAIL><WWW
+>www.skylineuniversity.ac.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1990"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Pres.</JOB><NAME
+><FORENAME
+>Kamal</FORENAME><SURNAME
+>Puri</SURNAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Dean</JOB><NAME
+><ACAD-TITLE
+>Prof. Dr</ACAD-TITLE><FORENAME
+>Amitabh</FORENAME><SURNAME
+>Upadhya</SURNAME></NAME></ADMINSTAFF></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804261355.0001"
+TOWN="Abu Dhabi"
+INDEX="Y"
+UPDATED="26.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>Strathclyde Business School</TITLE></TIBLOCK><BLOCK
+><CONTACT
+INSTITUTE="N"
+>Lena Shaban, Programme Co-ordinator<EMAIL
+>lena.strath@hct.ac.ae </EMAIL></CONTACT><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>CERT Technology Park, POB 5464, <CITY
+>Abu Dhabi</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(2) 4048546</NUMBER></TEL><WWW
+>www.strath.ae</WWW><FOUNDED
+><FOUND-PTEXT
+><FOUND-DATE
+YEAR="1995"
+></FOUND-DATE></FOUND-PTEXT></FOUNDED><GEN-INFO
+BEFORE="1"
+AFTER="Y"
+HANG="H"
+>campus in Dubai</GEN-INFO></BLOCK></SECONDARY><SECONDARY
+ID="AE.201804261239.0001"
+INDEX="Y"
+UPDATED="26.04.2018"
+DP="NO"
+SLLINK="SLsdoc"
+SLSDOCRF="sref"
+><TIBLOCK
+><TITLE
+>University College of Mother and Family Sciences</TITLE></TIBLOCK><BLOCK
+><ADDRESS
+TYPE="POSTAL"
+COUNTRY="0"
+><VERBATIM-ADDRESS
+>Corniche St, POB 17778, <CITY
+>Ajman</CITY></VERBATIM-ADDRESS></ADDRESS><TEL
+AND-FAX="NO"
+><NUMBER
+>(6) 7414741</NUMBER></TEL><EMAIL
+>info@ucmother.ac.ae </EMAIL><WWW
+>www.ucmother.ac.ae</WWW><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Chair.</JOB><NAME
+><ACAD-TITLE
+>HE</ACAD-TITLE><VERBATIM-NAME
+>Hamad bin Hilal al-Kuwaiti </VERBATIM-NAME></NAME></ADMINSTAFF><ADMINSTAFF
+><JOB
+STATUS="FILLED"
+>Sec.-Gen.</JOB><NAME
+><ACAD-TITLE
+>HE Dr</ACAD-TITLE><VERBATIM-NAME
+>Khalifa Rashid al-Shaal </VERBATIM-NAME></NAME></ADMINSTAFF></BLOCK></SECONDARY></SUB-UC></UC-GRP></CHAPTER>
