@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+<?IS10744 arch
+  name="SLlink"
+  public-id="-//STEP//NOTATION SigmaLink link architecture//EN"
+  dtd-public-id="-//STEP//DTD SigmaLink link architecture//EN"
+  renamer-att="SLNames"
+?><?ATTLINK table-block id "SLT"?><?ATTLINK table-block-simple id "SLT"?><?ATTLINK chronology id "SLT"?><?ATTLINK res-institutes id "SLT"?><?ATTLINK political-profile-group id "SLT"?><?ATTLINK commodities id "SLT"?><?ATTLINK endnote id "SLT"?><?ATTLINK endnoteref slid "SLA"?><?ATTLINK footnote id "SLT"?><?ATTLINK p id "SLT"?><?ATTLINK p-group id "SLT"?><?ATTLINK xr slid "SLA"?><?ATTLINK anchor id "SLT"?><?ATTLINK intro-survey id "SLT"?><?ATTLINK territory-group id "SLT"?><?ATTLINK territory-group-content id "SLT"?><?ATTLINK territory id "SLT"?><?ATTLINK is-section id "SLT"?><?ATTLINK territory-simple id "SLT"?><?ATTLINK territory-section id "SLT"?><?ATTLINK stats-survey id "SLT"?><?ATTLINK ss-section id "SLT"?><?ATTLINK ss-entry-table id "SLT"?><?ATTLINK ss-entry-simple id "SLT"?><?ATTLINK directory id "SLT"?><?ATTLINK dir-section id "SLT"?><?ATTLINK dir-entry id "SLT"?><?ATTLINK dir-entry-simple id "SLT"?><?ATTLINK article id "SLT"?><?ATTLINK org-entry id "SLT"?><?ATTLINK org-entry-expanded id "SLT"?><?ATTLINK org-entry-simple id "SLT"?><?ATTLINK bibl-section id "SLT"?><?ATTLINK bibl-entry id "SLT"?><?ATTLINK bibl-entry-expanded id "SLT"?><?ATTLINK country-overview id "SLT"?><?ATTLINK country-survey id "SLT"?><?ATTLINK gen-section id "SLT"?><?ATTLINK essay id "SLT"?><?ATTLINK weights-and-measures id "SLT"?><?ATTLINK periodicals id "SLT"?><?ATTLINK int-org-group id "SLT"?><?ATTLINK int-org-entry id "SLT"?><?ATTLINK int-org-entry-simple id "SLT"?><?ATTLINK int-org-section id "SLT"?><?ATTLINK stats-table id "SLT"?><?Pub EntList AElig Aacute Abreve Acirc Agrave Amacr Aogon Aring Atilde Auml
+ Cacute Ccaron Ccedil Ccirc Cdot Dagger Dstrok ETH Dcaron Eacute Ecaron Ecirc
+ Egrave Emacr Eogon Euml Edot Gbreve Gcedil Gcirc Gdot Hcirc Iacute Icirc
+ Idot Igrave Imacr Iogon Itilde Iuml Jcirc Lacute Lcaron Lstrok Nacute Ncaron
+ Ntilde OElig Oacute Ocirc Ograve Omacr Oslash Otilde Ouml Racute Rcaron Sacute
+ Scaron Scedil Scirc THORN Uacute Ubreve Ucirc Udblac Ugrave Umacr Uogon Uring
+ Utilde Uuml Yacute Yuml Zacute Zcaron Zdot aacute abreve acirc aelig agrave
+ amacr amp aogon aring atilde auml cacute ccaron ccedil ccirc cdot copy dagger
+ deg dcaron dstrok eacute ecaron ecirc edot egrave emacr emsp ensp eogon eth
+ euml euro frac12 frac13 frac14 frac34 frac23 gbreve gcirc gdot iacgr iacute
+ icirc iexcl igrave imacr inodot itilde iuml lcaron ldquo lsquo lstrok mdash
+ minus nacute nbsp ncaron ndash ntilde oacute ocirc odblac oelig ograve omacr
+ oslash otilde ouml para racute rcaron rdquo rsquo sacute scaron scedil scirc
+ sect tcedil thinsp thorn uacute ubreve?><COUNTRY-SURVEY
+ORIGINAL-FILENAME="andchro.rtf"
+ID="AD.CHRON"
+ISO="ad"
+ID-ROOT="ad"
+USAGE="we"
+PRINT-STYLE="PGWIDTH"
+><?Pub Tag atict:info tracking="on" ref="0"?><?Pub Tag atict:user
+user="gruard" fullname="Gruar, David"?><?Pub Tag atict:user user="jobrien"
+fullname="Jill O'Brien"?><?Pub Tag atict:user user="gollann" fullname="Gollan, Nicola"?><?Pub Tag atict:user user="tenzerj" fullname="Tenzer, Janine"?><?Pub Tag atict:user
+user="LoveJ" fullname="Love, Juliet"?><?Pub Tag atict:user user="Jonese" fullname="Jones, Eleanor"?><?Pub Tag atict:user user="matthewsc" fullname="Matthews, Christopher"?><?Pub Tag atict:user
+user="jlove" fullname="Juliet Love"?><?Pub Tag atict:user user="lovej" fullname="Juliet Love"?><?Pub Tag atict:user user="sandhyac" fullname="C, Sandhya"?><?Pub Tag atict:user
+user="kmurison" fullname="Katy Murison"?><?Pub Tag atict:user user="drees"
+fullname="Donovan Rees"?><?Pub Tag atict:user user="HartleyC" fullname="adm-SangheraH"?><HEADING
+>Chronology</HEADING><ALT-HEADING
+USAGE="we"
+TYPE="SECTION-LONG-UPPERCASE"
+>Andorra</ALT-HEADING><ALT-HEADING
+USAGE="we"
+TYPE="COUNTRY-SHORT-TITLECASE"
+>Chronology</ALT-HEADING><CHRON-LIST
+><CHRON-ENTRY
+FROM-DATE="0768-01-01"
+TO-DATE="0814-12-31"
+><CHRON-HEAD
+>768&amp;ndash;814</CHRON-HEAD><CHRON-TEXT
+>Reign of Charles &amp;lsquo;the Great&amp;rsquo;
+(Charlemagne), the ruler of the Franks and the first Holy Roman Emperor. He
+purportedly granted Andorra a charter guaranteeing its independence.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="0839-01-01"
+TO-DATE="0839-12-31"
+><CHRON-HEAD
+>839</CHRON-HEAD><CHRON-TEXT
+>The Act of Consecration of the cathedral in the
+Spanish town of Urgell referred to the six parishes of Andorra&amp;mdash;the Count
+of Urgell had assumed suzerainty over Andorra following the fracturing of
+the Frankish realm.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1133-01-01"
+TO-DATE="1133-12-31"
+><CHRON-HEAD
+>1133</CHRON-HEAD><CHRON-TEXT
+>The Count of
+Urgell ceded the six parishes of Andorra to the Bishop of Urgell.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1159-01-01"
+TO-DATE="1159-12-31"
+><CHRON-HEAD
+>1159</CHRON-HEAD><CHRON-TEXT
+>The Count of Foix, a French nobleman whose territory
+included much of the Pyrenean region near Andorra, laid claim to the parishes;
+he gained recognition of certain rights, but the dispute remained a source
+of conflict.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1278-01-01"
+TO-DATE="1278-12-31"
+><CHRON-HEAD
+>1278</CHRON-HEAD><CHRON-TEXT
+>A Pareatge (contract
+or feudal agreement) was signed, sponsored by the King of Aragon, providing
+for Andorran independence, under the joint sovereignty of the Count of Foix
+and the Bishop of Urgell, who were to be paid tribute in alternate years.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1289-01-01"
+TO-DATE="1289-12-31"
+><CHRON-HEAD
+>1288</CHRON-HEAD><CHRON-TEXT
+>A second Pareatge was signed, which
+confirmed the agreement of 1278 and first referred to the sovereigns of Andorra
+as the Copr&amp;iacute;nceps (Co-Princes).</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1419-01-01"
+TO-DATE="1419-12-31"
+><CHRON-HEAD
+>1419</CHRON-HEAD><CHRON-TEXT
+>The Co-Princes granted an Andorran request for the formation of
+a representative body for the debate of local issues; the Consell de la Terra
+(Council of the Land, later the Consell General de les Valls d&amp;rsquo;Andorra&amp;mdash;General
+Council of the Valleys of Andorra) comprised four members from each parish,
+elected by the heads of the leading families in that parish.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1589-01-01"
+TO-DATE="1589-12-31"
+><CHRON-HEAD
+>1589</CHRON-HEAD><CHRON-TEXT
+>Henry of Bourbon, who had inherited the title
+of Count of Foix, ascended the French throne as Henry IV; the French monarch,
+therefore, became one of Andorra&amp;rsquo;s Co-Princes (Henry&amp;rsquo;s son and
+successor, Louis XIII, reaffirmed Andorra&amp;rsquo;s status).</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1793-01-01"
+TO-DATE="1793-12-31"
+><CHRON-HEAD
+>1793</CHRON-HEAD><CHRON-TEXT
+>The proclamation of a republic in France left the
+title of French Co-Prince unclaimed, provoking Andorran fears of subordination
+to Spain.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1806-01-01"
+TO-DATE="1806-12-31"
+><CHRON-HEAD
+>1806</CHRON-HEAD><CHRON-TEXT
+>Napoleon Bonaparte, who had proclaimed
+himself Emperor of France, issued a decree by which he assumed the title of
+Co-Prince of Andorra.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1870-01-01"
+TO-DATE="1870-12-31"
+><CHRON-HEAD
+>1870</CHRON-HEAD><CHRON-TEXT
+>With the final
+restoration of a republic, the President of France became the French Co-Prince
+of Andorra.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1912-01-01"
+TO-DATE="1912-12-31"
+><CHRON-HEAD
+>1912</CHRON-HEAD><CHRON-TEXT
+>Local defiance
+of the episcopal Co-Prince was provoked by his attempt to ban the vital tobacco
+trade.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1933-01-01"
+TO-DATE="1933-12-31"
+><CHRON-HEAD
+>1933</CHRON-HEAD><CHRON-TEXT
+>A Russian &amp;eacute;migr&amp;eacute;, Boris
+Skosirev, attempted to proclaim himself King Boris I of Andorra, with some
+influential local support. The Bishop of Urgell sent troops to remove Skosirev
+from the Principality and the General Council was dissolved by the Andorran
+judicial authorities. The French Government subsequently sent forces to maintain
+order and the General Council was re-established.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1970-01-01"
+TO-DATE="1970-12-31"
+><CHRON-HEAD
+>1970</CHRON-HEAD><CHRON-TEXT
+>Women&amp;rsquo;s suffrage was introduced; in the following
+year the voting age was lowered from 25 to 21 years.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1978-01-01"
+TO-DATE="1978-12-31"
+><CHRON-HEAD
+>1978</CHRON-HEAD><CHRON-TEXT
+>A seventh parish, Escaldes-Engordany, was created
+and the membership of the General Council was correspondingly expanded from
+24 to 28.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1982-01-01"
+TO-DATE="1982-01-31"
+><CHRON-HEAD
+>January 1982</CHRON-HEAD><CHRON-TEXT
+>An executive body, known
+as the Govern d&amp;rsquo;Andorra (Government of Andorra) was formed from within
+the General Council, with Oscar Ribas Reig as Cap de Govern (Head of Government).</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1984-04-01"
+TO-DATE="1984-04-30"
+><CHRON-HEAD
+>April 1984</CHRON-HEAD><CHRON-TEXT
+>Ribas was forced to resign
+upon the failure of his plan to introduce income tax. He was replaced in May
+by Josep Pintat Solans.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1986-01-01"
+TO-DATE="1986-01-31"
+><CHRON-HEAD
+>January 1986</CHRON-HEAD><CHRON-TEXT
+>Pintat
+was re-elected to the post of Head of Government, following a general election
+the previous month.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1990-01-01"
+TO-DATE="1990-01-31"
+><CHRON-HEAD
+>January 1990</CHRON-HEAD><CHRON-TEXT
+>Following
+a general election in December 1989, the General Council elected Ribas to
+his second term as Head of Government.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+DATE="1993-05-04"
+><CHRON-HEAD
+>4 May 1993</CHRON-HEAD><CHRON-TEXT
+>Andorra&amp;rsquo;s
+first Constitution was promulgated, following its approval by 74.2% of those
+participating in a referendum held in March. The Co-Princes remained nominally
+sovereign, political parties and trade unions were legalized and proportional
+representation was introduced for the election of 14 of the 28 members of
+the General Council. Ambassadors were exchanged with France and Spain.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1993-07-01"
+TO-DATE="1993-07-31"
+><CHRON-HEAD
+>28 July 1993</CHRON-HEAD><CHRON-TEXT
+>Andorra was admitted to the United Nations.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+FROM-DATE="1994-11-01"
+TO-DATE="1994-11-30"
+><CHRON-HEAD
+>November 1994</CHRON-HEAD><CHRON-TEXT
+>Ribas&amp;rsquo; taxation and
+budget proposals were defeated in the General Council and a motion of no confidence
+in the Government was passed; Ribas resigned the premiership and was succeeded
+by Marc Forn&amp;eacute; Moln&amp;eacute;, who formed a minority Government.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+DATE="1997-02-16"
+><CHRON-HEAD
+>16 February 1997</CHRON-HEAD><CHRON-TEXT
+>At a general election, Forn&amp;eacute;&amp;rsquo;s Uni&amp;oacute;
+Liberal (UL&amp;mdash;Liberal Union) won 18 of the 28 seats in the General Council
+and returned to power; Forn&amp;eacute; formed a new Government, with an increased
+number of ministers and portfolios.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+DATE="2001-03-04"
+><CHRON-HEAD
+>4 March 2001</CHRON-HEAD><CHRON-TEXT
+>The Partit
+Liberal d&amp;rsquo;Andorra (PLA&amp;mdash;Andorran Liberal Party, formerly the UL)
+won 15 of the 28 seats in the General Council at a general election. Forn&amp;eacute;
+was re-elected Head of Government by the Council.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+><CHRON-HEAD
+>12 May 2003</CHRON-HEAD><CHRON-TEXT
+>Joan Enric Vives
+i Sic&amp;iacute;lia succeeded Joan Mart&amp;iacute; Alanis as the Bishop of Urgell
+and episcopal Co-Prince.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+DATE="2005-04-24"
+><CHRON-HEAD
+>24 April 2005</CHRON-HEAD><CHRON-TEXT
+>The PLA secured 14 seats
+in the General Council, while the Partit Socialdem&amp;ograve;crata (PS&amp;mdash;Social
+Democratic Party) won 12 and a coalition of two centrist parties took the
+two remaining seats. A new PLA Government took office on 8 June under Albert
+Pintat Santol&amp;agrave;ria.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+><CHRON-HEAD
+>6 May 2007</CHRON-HEAD><CHRON-TEXT
+>Nicolas Sarkozy succeeded Jacques Chirac
+as President of the French Republic and French Co-Prince.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+><CHRON-HEAD
+>26 April 2009</CHRON-HEAD><CHRON-TEXT
+>At the general
+election the PS became the largest party in the General Council for the first
+time, winning 14 of the 28 seats; the Coalici&amp;oacute; Reformista (CR&amp;mdash;Reformist
+Coalition, led by the PLA) took 11 seats and Andorra pel Canvi (ApC&amp;mdash;Andorra
+for Change) won three. Jaume Bartumeu Cassany, the leader of the PS, took
+office as Head of Government on 5 June.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+><CHRON-HEAD
+>16 December 2009</CHRON-HEAD><CHRON-TEXT
+>ApC announced that it
+would not support the Government&amp;rsquo;s budget for 2010 in the General Council. </CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+><CHRON-HEAD
+>3 April 2011</CHRON-HEAD><CHRON-TEXT
+>At a general election, prompted by the Government&amp;rsquo;s failure
+to secure sufficient support for its budget, Dem&amp;ograve;crates per Andorra
+(DA&amp;mdash;Democrats for Andorra, the successor alliance to the CR) won an
+overwhelming majority, securing 20 seats in the General Council. The PS retained
+just six seats, while the remaining two were won by a local conservative group,
+the Uni&amp;oacute; Laurediana. Antoni Mart&amp;iacute; Petit, the leader of the DA,
+was inaugurated as Head of Government on 12 May.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+><CHRON-HEAD
+>30 June 2011</CHRON-HEAD><CHRON-TEXT
+>The Andorran
+Government signed a formal monetary agreement with the European Union (EU),
+which declared the euro to be Andorra&amp;rsquo;s official currency and permitted
+the Principality to issue its own euro coins from 1 July 2013. (Owing to bureaucratic
+delays, the introduction of the Andorran-minted euro was postponed.)</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+><CHRON-HEAD
+>1 March 2015</CHRON-HEAD><CHRON-TEXT
+>At a general election the DA retained its majority in the General Council
+with 15 seats. Liberals d&amp;rsquo;Andorra, a new grouping established by former
+PLA members, secured eight seats, while a coalition between the PS, Greens
+and independents won three, and newly formed Socialdemocr&amp;agrave;cia i Progr&amp;eacute;s
+d&amp;rsquo;Andorra (Social Democracy and Progress) secured two. Mart&amp;iacute;
+remained in office as Head of Government.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+><CHRON-HEAD
+>11 March 2015</CHRON-HEAD><CHRON-TEXT
+>The Government assumed control
+of Banca Privada d&amp;rsquo;Andorra (BPA), the Principality&amp;rsquo;s fourth largest
+bank, following allegations by financial authorities in the USA that it had
+been involved in money laundering activities. </CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+><CHRON-HEAD
+>12 February 2016</CHRON-HEAD><CHRON-TEXT
+>The Government
+signed an agreement with the EU that aimed to reduce tax evasion by allowing
+the exchange of information on residents&amp;rsquo; financial assets and income.
+The regulations came into force in 2018.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+><CHRON-HEAD
+>14 May 2017</CHRON-HEAD><CHRON-TEXT
+>Emmanuel Macron succeeded
+Fran&amp;ccedil;ois Hollande as President of the French Republic and French Co-Prince.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+><CHRON-HEAD
+>7 April 2019</CHRON-HEAD><CHRON-TEXT
+>At a general election the DA remained the largest party with 11
+seats on the General Council, but failed to secure a majority. The PS and
+Liberals d&amp;rsquo;Andorra won seven and four seats, respectively, and smaller
+parties and independents won the remainder. Xavier Espot Zamora, former Minister
+of Social Affairs, Justice and the Interior, took office as Head of Government
+on 16 May.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+><CHRON-HEAD
+>13 September
+2019</CHRON-HEAD><CHRON-TEXT
+>French President Macron made an official visit
+to Andorra, the first such visit since 2014.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+><CHRON-HEAD
+>9 January 2020</CHRON-HEAD><CHRON-TEXT
+>Andorra formally requested
+to join the International Monetary Fund.</CHRON-TEXT></CHRON-ENTRY><CHRON-ENTRY
+><CHRON-HEAD
+>14 March 2020</CHRON-HEAD><CHRON-TEXT
+>The Government introduced
+measures to contain the spread of the coronavirus disease COVID-19. </CHRON-TEXT></CHRON-ENTRY><?Pub Caret?><CHRON-ENTRY
+><CHRON-HEAD
+>1 July 2022</CHRON-HEAD><CHRON-TEXT
+>A new tourist tax came into force. The levy would be charged on
+all foreign nationals staying in tourist accommodation in the country for
+the first seven days of their stay.</CHRON-TEXT></CHRON-ENTRY></CHRON-LIST></COUNTRY-SURVEY>
