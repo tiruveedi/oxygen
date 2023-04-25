@@ -1,0 +1,853 @@
+<?xml version="1.0"?>
+<?IS10744 arch
+  name="SLlink-Oxygen"
+  public-id="-//STEP//NOTATION SigmaLink link architecture//EN"
+  dtd-public-id="-//STEP//DTD SigmaLink link architecture//EN"
+  renamer-att="SLNames"
+?><?ATTLINK table-block id "SLT"?><?ATTLINK table-block-simple id "SLT"?><?ATTLINK chronology id "SLT"?><?ATTLINK res-institutes id "SLT"?><?ATTLINK political-profile-group id "SLT"?><?ATTLINK commodities id "SLT"?><?ATTLINK endnote id "SLT"?><?ATTLINK endnoteref slid "SLA"?><?ATTLINK footnote id "SLT"?><?ATTLINK p id "SLT"?><?ATTLINK p-group id "SLT"?><?ATTLINK xr slid "SLA"?><?ATTLINK anchor id "SLT"?><?ATTLINK intro-survey id "SLT"?><?ATTLINK territory-group id "SLT"?><?ATTLINK territory-group-content id "SLT"?><?ATTLINK territory id "SLT"?><?ATTLINK is-section id "SLT"?><?ATTLINK territory-simple id "SLT"?><?ATTLINK territory-section id "SLT"?><?ATTLINK stats-survey id "SLT"?><?ATTLINK ss-section id "SLT"?><?ATTLINK ss-entry-table id "SLT"?><?ATTLINK ss-entry-simple id "SLT"?><?ATTLINK directory id "SLT"?><?ATTLINK dir-section id "SLT"?><?ATTLINK dir-entry id "SLT"?><?ATTLINK dir-entry-simple id "SLT"?><?ATTLINK article id "SLT"?><?ATTLINK org-entry id "SLT"?><?ATTLINK org-entry-expanded id "SLT"?><?ATTLINK org-entry-simple id "SLT"?><?ATTLINK bibl-section id "SLT"?><?ATTLINK bibl-entry id "SLT"?><?ATTLINK bibl-entry-expanded id "SLT"?><?ATTLINK country-overview id "SLT"?><?ATTLINK country-survey id "SLT"?><?ATTLINK gen-section id "SLT"?><?ATTLINK essay id "SLT"?><?ATTLINK weights-and-measures id "SLT"?><?ATTLINK periodicals id "SLT"?><?ATTLINK int-org-group id "SLT"?><?ATTLINK int-org-entry id "SLT"?><?ATTLINK int-org-entry-simple id "SLT"?><?ATTLINK int-org-section id "SLT"?><?ATTLINK stats-table id "SLT"?><?Pub EntList AElig Aacute Abreve Acirc Agrave Amacr Aogon Aring Atilde Auml
+ Cacute Ccaron Ccedil Ccirc Cdot Dagger Dstrok ETH Dcaron Eacute Ecaron Ecirc
+ Egrave Emacr Eogon Euml Edot Gbreve Gcedil Gcirc Gdot Hcirc Iacute Icirc
+ Idot Igrave Imacr Iogon Itilde Iuml Jcirc Lacute Lcaron Lstrok Nacute Ncaron
+ Ntilde OElig Oacute Ocirc Ograve Omacr Oslash Otilde Ouml Racute Rcaron Sacute
+ Scaron Scedil Scirc THORN Uacute Ubreve Ucirc Udblac Ugrave Umacr Uogon Uring
+ Utilde Uuml Yacute Yuml Zacute Zcaron Zdot aacute abreve acirc aelig agrave
+ amacr amp aogon aring atilde auml cacute ccaron ccedil ccirc cdot copy dagger
+ deg dcaron dstrok eacute ecaron ecirc edot egrave emacr emsp ensp eogon eth
+ euml euro frac12 frac13 frac14 frac34 frac23 gbreve gcirc gdot iacgr iacute
+ icirc iexcl igrave imacr inodot itilde iuml lcaron ldquo lsquo lstrok mdash
+ minus nacute nbsp ncaron ndash ntilde oacute ocirc odblac oelig ograve omacr
+ oslash otilde ouml para racute rcaron rdquo rsquo sacute scaron scedil scirc
+ sect tcedil thinsp thorn uacute ubreve?><COUNTRY-SURVEY
+ID="AF.EC"
+ISO="af"
+ID-ROOT="af"
+USAGE="sasia"
+SECT-TYPE="ECONOMY"
+PRINT-STYLE="PGWIDTH"
+><?Pub Tag atict:info tracking="on" ref="3"?><?Pub Tag atict:user user="matthewsc"
+fullname="adm-SangheraH"?><?Pub Tag atict:user user="KhanMe" fullname="adm-SangheraH"?><?Pub Tag atict:user user="sandhyac" fullname="adm-SangheraH"?><?Pub Tag atict:user
+user="FrameI" fullname="FrameI"?><?Pub Tag atict:user user="Main Computer"
+fullname="BrowneV"?><HEADING
+>Economy</HEADING><ALT-HEADING
+TYPE="COUNTRY-SHORT-TITLECASE"
+>Afghanistan</ALT-HEADING><ALT-HEADING
+TYPE="SECTION-LONG-UPPERCASE"
+>Economy</ALT-HEADING><AUTHOR-GROUP
+><PRIMARY-AUTHORS
+> <PERSON-NAME
+><FORENAME
+>Tirthankar</FORENAME><SURNAME
+>Roy</SURNAME><REGNAL
+>Professor in Economic History, Department of
+Economic History, London School of Economics, London, United Kingdom</REGNAL></PERSON-NAME></PRIMARY-AUTHORS></AUTHOR-GROUP><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P1"
+>Afghanistan has experienced war, <I
+>coups d&amp;rsquo;&amp;eacute;tat</I>, state collapse and a shaky recovery in the
+past 40 years&amp;mdash;and repeatedly in some cases. The after-effects of these
+tragic episodes continue to be felt and have profoundly affected the process
+of economic development in the country. The instability of the recent past
+feeds pessimism about the economy and creates the impression that uncertainty
+is intrinsic to the country&amp;rsquo;s history. It is tempting to conclude that
+Afghanistan&amp;rsquo;s turbulent politics somehow defines the region and that
+it is this turbulence that has contributed to poverty, inequality and weak
+economic growth in much of the country in recent times.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P2"
+>However, as this essay will demonstrate,
+this is not the case. Economics and politics have indeed been interdependent
+in Afghanistan, as they are anywhere in the world. The 20th-century economic
+history of Afg<?Pub Caret?>hanistan has a unique pattern, and that pattern
+has influenced politics and economics in the region. The two features that
+define the economic history of Afghanistan are resource poverty and the absence
+of European colonial rule. These factors, however, were not exceptional to
+Afghanistan. The two features appear in the histories of many poorer regions,
+although they shaped the process of economic and political change in Afghanistan
+with great force.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P3"
+>During much of the 20th century,
+Afghanistan was an agricultural country, but also a semi-arid, water-poor
+country. Renewable water resources per capita in the country were less than
+one-quarter of the global average in 2014. There are many water-poor countries
+in the world. For example, India, Pakistan and Bangladesh are even more water-poor
+than Afghanistan by this benchmark, but those three countries have access
+to the sea, maritime trade, port cities, irrigable deltas and river valleys,
+and these resources have sustained industry, commerce, finance and fiscally
+stable states. As Afghanistan is landlocked, its economy has diversified less
+than those of its neighbours. Although it does have mineral resources, these
+are largely untapped. This resource poverty, coupled with the country&amp;rsquo;s
+climate and geography, has made for only small taxable capacity and left states
+militarily weak, giving rise to states and empires that have relied heavily
+on the loyalty of local chiefs and warlords. The military-fiscal capacity
+of the state in Afghanistan is limited too, and this has had similar consequences. </P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P4"
+>The South Asian mainland had many
+polities in the 18th century that fit this pattern. The British Empire that
+emerged from the end of the 18th century altered the situation in South Asia
+substantially. This brings attention to the second of the two features: the
+difference that European colonialism could make to the political economy of
+the South Asian region. By cutting out warlords from the tax system and by
+raising a standing army, the British Raj ruling India could centralize power
+sufficiently to impose a degree of political unification and economic integration,
+the likes of which the region had never seen before. The Empire did not set
+out to reform or to develop India. Still, being a commercially minded and
+European-origin state, the United Kingdom&amp;rsquo;s rule had the effect of weakening
+traditional institutions and influences, including caste and feudal loyalties.
+Foreign rule created a state significantly less dependent on local warlords
+and landlords than any state that ruled this land before the British arrived
+in the region.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P5"
+>This external force was missing
+in Afghanistan. Although often caught up in military contests between Russia
+and the Western powers, and often forced to cede territories to both, Afghanistan&amp;mdash;like
+Iran, Saudi Arabia and Thailand&amp;mdash;has never been colonized. Because Afghanistan
+was not conquered, indigenous economic and political institutions survived
+in this region more than these did in, for example, the rest of South Asia.
+And because Afghanistan was resource-poor, the Governments running the country
+from the capital, Kabul, could never impose their writ over the entire country.
+Owing to their oil resources, the central authorities in Iran or Saudi Arabia
+could achieve much greater control over the provinces and local elites&amp;mdash;an
+option that was not available to the Afghan state.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P6"
+>These two features&amp;mdash;resource
+poverty and a weak centre&amp;mdash;have made economic development a troubled
+process throughout Afghan history. Any state-led or managed development programme
+would need a robust federal set-up. The country did not have such a structure
+and could not easily create one without running into conflicts, even civil
+war. Therefore, planned and top-down economic modernization policies have
+often gone badly and raised tensions between the centre and the regions. The
+past 40 years or so of conflicts are a result of many factors, including the
+Cold War and geopolitical tensions. The fundamental structural element&amp;mdash;a
+perennial tension between centralization of power and fragmented power&amp;mdash;was
+one of those features. Resource poverty made the centre relatively weak, and
+the task of managed economic transformation much harder than otherwise. This,
+in summary, is the central story of economic change in Afghanistan. </P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P7"
+>This essay will present a chronological
+narrative of economic change. As is suggested above, this story cannot be
+told by disengaging it from the politics of the country, as the two dimensions
+are often interlinked, but the focus will be on economic change and economic
+development in the country.</P><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>The Emergence of Modern Afghanistan</HEADING><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P8"
+>Afghanistan is predominantly rural
+and agricultural, with only a small urban population. The main livelihoods
+are farming and pastoralism. A century ago in Afghanistan the average peasant
+was poor, indebted and exposed to the risk of droughts. Agriculture produced
+enough for the local population to subsist on but was not a path to accumulating
+wealth. Because water for irrigation was available locally in only a few regions,
+the average plot of land did not produce much. In large swathes of the country
+and especially outside the three main river basins, agriculture provided at
+best a precarious form of subsistence living. As geography did not change,
+the majority of the population living on the land a century ago would have
+lived in the same way that they had done in centuries past.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P9"
+>About the same size as France, Afghanistan
+is thinly populated. A reliable census was not conducted until the 1980s.
+Rough estimates suggest that the population was about 12m. in the early 20th
+century and remained at about that level until as late as the 1970s. The death
+rate was very high throughout, matched by a high birth rate. The exact numbers
+for these indicators are not available, but the plausible scenario of demographic
+inertia reinforces the impression of inertia in livelihoods. </P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P10"
+>The picture of immobility needs
+to be balanced by dramatic movements in the political arena. The major Afghan
+towns emerged as seats of political power and centres of commerce and crafts
+sustained by the wealth of the urban elite. However, groups that ruled the
+provinces insisted on autonomy, among other reasons, to ensure that their
+hold over the limited natural resources (such as arable land and pastures)
+remained secure from outsiders. With limited tax resources and a dependence
+on regional ethnic groups, the powers that ruled Kabul had neither the military
+might nor the economic influence to establish their writ over the entire country.
+Therefore, political integration was far too difficult a challenge for regimes
+to take on.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P11"
+>Although Afghanistan was never
+colonized in a formal sense, British power played a fundamental role in Afghanistan's
+emergence as a country. In the early 18th century the region did not form
+one nation or empire. There were three distinct political spaces. Herat and
+Qandahar in the south and south-west were under Persian influence; Kabul,
+Ghazni and Jalalabad in the east were under Mughal imperial influence; and
+the regions in the north were under Central Asian suzerainty. The conquests
+of Nader Shah (1688&amp;ndash;1747), a warlord of Khorasan, and his successor,
+Ahmad Shah Abdali (1722&amp;ndash;72), brought these regions under a single military
+command. Kabul became the summer capital of the Durrani Empire (as Afghanistan
+was then known) in 1776.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P12"
+>There was little regional integration
+in government. In fact, the opposite was the case. In exchange for a promise
+of loyalty, groups and tribal councils that controlled the regions were left
+in effect autonomous. The formation of a dominant centre sealed their autonomy.
+Primitive roads and communications ensured that long-distance cross-border
+trade was confined to a few cities and trading routes. The regions retained
+their livelihoods that were dependent on local natural resources. The broad
+tribal divisions followed the earlier pattern of regionalization: Turkic groups
+in the north, Tajiks and Persian-speaking groups in the west, and the Afghans
+or Pashtuns in the east and the centre of the country.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P13"
+>In 1823 the Sikh king Ranjit Singh
+captured the eastern territories of the Emirate of Afghanistan (as it had
+become in that year under Dost Mohammad Khan), while chaos and infighting
+had weakened the Empire itself. Between 1838 and 1879 the British officials
+who were based in India interfered deeply in Afghan politics. More than the
+desire to possess territories, a desire to fix the border between British
+India and imperial Russia drove the Anglo-Afghan conflict. The British fought
+two wars in Afghanistan (1839&amp;ndash;42 and 1878&amp;ndash;80), demarcated the
+boundaries between British India and Afghanistan and eventually came to control
+Afghan foreign affairs. In effect Afghanistan became a British protectorate
+and its modern borders drawn were drawn by an external power. Beyond these
+steps, the British Empire had little effect on or interest in the country.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P14"
+>The protectorate ended after the
+Third Anglo-Afghan war, which took place in 1919. The war was an unusual conflict,
+in that it helped both protagonists to achieve their objectives. Following
+the end of the conflict in August, the Afghan emir Amanullah Khan wrested
+control of foreign affairs and declared full independence, and the British
+negotiated an agreement that defined the land border between Afghanistan and
+British India. As a military conflict, the war was a small affair, with more
+losses on the Afghan side. The First World War had just ended, and the British
+had little appetite for another long battle. The newly formed Union of Soviet
+Socialist Republics (USSR) took a strong pro-independence position in support
+of Amanullah&amp;rsquo;s demands, and an independent Afghanistan was considered
+by British India to be a better potential ally than a hostile and discontented
+colony. The de facto independence of Afghanistan brought the king face to
+face with the task of building a country and its economy.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>1919&amp;ndash;45: The Beginnings of Development Projects</HEADING><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P15"
+>From the beginning of the reign
+of Amanullah Khan in 1919, when a modernization programme commenced, the fractured
+polity placed the regime in a dilemma. Any countrywide development project
+would require political centralization&amp;mdash;a move that the regions might
+not want to be a part of. However, if the modernization project did succeed
+in the areas where favourable conditions existed, that would widen the inequality
+between the capital city and surrounding areas and the countryside, even between
+tribes, adding to political discontent.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P16"
+>Khan was a hawk on modernization.
+His policy on modernization included drawing more women into public life and
+relied on a broadly Francophile cosmopolitanism in Kabul. However, he failed
+in his effort to extend this policy outside the city. He could not get the
+regional chiefs on board. The Pashtun and Pashtun-influenced areas had a system
+of periodic meetings of tribal chiefs, known as a <I
+>jirga</I> (a grand council).
+In times of national crisis, Afghan kings would invite members of the royal
+family, tribal chiefs and religious leaders to a jirga in the capital. It
+is not clear how institutionalized or rule-bound these councils were, but
+they were a distant parallel to a legislative body. Amanullah, whose grandfather
+had once called the grand council for political reasons, wanted to turn this
+council into a permanent legislative body and secure agreement on his more
+ambitious plans. However, this move failed.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P17"
+>Amanullah's reign was cut short
+in 1929, following the rebellion of the Tajik military commander Habibullah
+Kalakani (also known as Baccha-i-Saqao&amp;mdash;Son of the Water Carrier). In
+popular memory, Kalakani is said to have opposed Khan&amp;rsquo;s secularism.
+Seen from another angle, Kalakani's opposition had more to do with opportunism
+than ideology. In any case, Kalakani's was one of a series of regional and
+tribal movements to follow, which underscored the military weakness of the
+government and its precarious hold on the regions.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P18"
+>In 1929 the &amp;lsquo;Musahiban&amp;rsquo;
+brothers, from the line of the &amp;lsquo;Peshawar Sirdars&amp;rsquo;, raised a tribal
+force and invaded Afghanistan from British India. The Musahiban dynasty remained
+in power until 1973 and continued the economic modernization programme. During
+the short-lived reign of Muhammad Nadir Shah (1929&amp;ndash;33), the regime adopted
+a constitutional monarchy system. The Constitution was meant to be an instrument
+for political integration, with a parliament based on the tribal council model,
+which would endorse the programmes for centralized reforms. Again, these moves
+failed. With the bureaucracy controlled by the court, the legislature had
+limited room for manoeuvre. This situation did not satisfy the regional leaders,
+and there was no real democracy in Afghanistan. From this point on and for
+several decades to come, the absence of political party-based democracy made
+securing agreement on the Constitution an almost impossible task.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P19"
+>At the same time, the economic
+modernization programme was changing Kabul in radical ways. The Government
+opened its doors to Western experts and advisers. In 1932 Kabul University
+was established. A programme for mass and technical education had been under
+way for some time, again with the help of foreign experts. In 1933 the central
+bank, Bank-e-Millie was established. In 1939&amp;mdash;a few years into Mohammad
+Zahir Shah&amp;rsquo;s reign (1933&amp;ndash;73)&amp;mdash;government ministers and advisers
+initiated an industrialization-cum-modernization programme.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P20"
+>The obstacles were significant.
+Electricity needed to be produced on a large scale, machines for modern industry
+had to be imported, finance was expensive and managerial skills non-existent,
+and there were few large private enterprises to take the lead. A group of
+European and US engineering firms had claimed that the untapped waters of
+the Hindu Kush rivers could be used for hydro-electric power. In the revival
+of trade following the economic depression of the 1930s, it was easy and cheap
+to procure machines from abroad, and in several crafts&amp;mdash;brickmaking,
+metal products and woodworking&amp;mdash;there was a wealth of well-developed
+manual skills and knowledge of raw and manufactured materials.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P21"
+>The programme soon ran into trouble
+as the Second World War broke out in 1939. The supply of machines stalled,
+and shortages developed in essential supplies, diverting the Afghan Government&amp;rsquo;s
+attention elsewhere. The Government and the central bank managed a difficult
+situation and saved most industrial, utility and services firms by buying
+up share capital. As economic reconstruction began, new challenges emerged.
+Floods had destroyed some of the building projects undertaken before the war,
+and US technology in infrastructure projects did not always work. For example,
+foreign-supplied explosives did not work very well in rock-sand formations.
+Furthermore &amp;lsquo;the Afghans&amp;rsquo; working habits and their different valuation
+of human and material resources&amp;nbsp;...&amp;nbsp;overtaxed even American organizational
+ability&amp;rsquo;, according to Peter G.&amp;nbsp;Franck, a consultant to US firms
+working in Afghanistan following the war. In Franck&amp;rsquo;s assessment, political
+disintegration posed the biggest risk to Afghanistan's economic development
+project.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P22"
+>The end of the Second World War
+in 1945 and the Partition of British India into two countries in 1947 created
+other problems. Afghanistan&amp;rsquo;s foreign policy now needed to engage with
+Pakistan, which wanted to create a strong federation by incorporating the
+Afghan semi-autonomous groups living on Pakistani territory. The Government
+in Afghanistan favoured an openly &amp;lsquo;irredentist&amp;rsquo; ideology to advocate
+a return to autonomy for the Pashtun-speaking groups in Pakistan. The relationship
+between Afghanistan and its newly independent Muslim neighbour had got off
+to a difficult start.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P23"
+>However, as peace returned, a paradigm
+shift in economic development was taking shape in the 1950s.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>1950&amp;ndash;78: The Rise and Fall of the Modernization Paradigm</HEADING><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P24"
+>In part, the paradigm was just
+another form of the modernization project that had begun in the 1920s, but
+it was also deeply influenced by economic changes happening in the rest of
+South Asia. In 1960 the Minister of Foreign Affairs, Mohammad Naim Khan, articulated
+the sentiment: &amp;lsquo;we do aspire to catch up to our neighbors; because failing
+this, Afghanistan will probably disappear. It will be overwhelmed by the sheer
+rate of advancement of its neighbors&amp;rsquo;.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P25"
+>As in the rest of the region, the
+court and government ministers thought that the state should get involved
+in the economic development process. Moreover, Afghan political leaders understood
+that the country needed to keep its borders open to capital and skills from
+abroad. Skills shortages were a critical obstacle, not least because the state
+had more limited capacity in Afghanistan than in, for example, Pakistan or
+India. In almost every country in South Asia, the 1950s was an era of economic
+planning, and Afghanistan was no different. But whereas India&amp;rsquo;s 1956
+five-year plan made industrialization the aim before development policy, Afghanistan&amp;rsquo;s
+counterpart made infrastructure the goal, rather like in Pakistan and Nepal.
+The presence of an indigenous business class in India and a bigger capacity
+to capture tax and international aid set it apart. Afghanistan lacked these
+initial conditions for industrialization.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P26"
+>The most important field of public
+investment was the multi-purpose river valley project. Afghanistan has three
+major river basins: the Amu Darya basin in the north, the Indus basin in the
+east and the Helmand basin in the south. The Helmand Valley project began
+in 1939 as an Afghan-US collaboration but did not deliver many benefits. The
+Nangarhar region on the borders of Afghanistan and Pakistan is fed by the
+Kabul and the Kunar rivers and has some of the most fertile agricultural tracts
+in the country. This area was also historically the core commercial zone.
+Its relatively easy transport access to Pakistan made for a lot of trade between
+the two countries, centred in the Afghan city of Jalalabad. Irrigation in
+Nangarhar was a focus of Soviet-Afghan collaboration. And finally, regarding
+the Amu Darya river (formerly known as the Oxus), water resources concerned
+both the USSR and Afghanistan more directly, as they shared the basin. Again,
+ambitious plans emerged to develop the water resources of the basin, although
+not much progress was made. A second significant area of investment was roads,
+built mainly with US collaboration. Major highways linking Afghan cities were
+constructed in the 1960s. These projects stimulated internal trade, as well
+as trade with Afghanistan's neighbours.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P27"
+>Sustaining the impetus for development
+was a difficult challenge, as financing a development plan that relied heavily
+on imports was a problem. To pay for concessional loans taken out for these
+projects, Afghanistan entered into trade collaboration with the USSR based
+on a system of barter. The roads and irrigation projects stimulated the production
+of Afghanistan&amp;rsquo;s main export goods. But the basket of goods was a limited
+one, confined to cotton, wool, dried fruit and karakul skin. With the internal
+market still fairly small, foreign investors took little interest in the country.
+Beyond exports and trade in local produce, private enterprise had limited
+room for growth. The Government's capacity fell short of the promises that
+it had made, and progress was perpetually constrained by poor takings, bureaucratic
+corruption and the resistance of regional leaders.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P28"
+>The 1960s saw the beginning of
+the end of the uneasy equilibrium that had existed between modernizing Kabul
+and the semi-autonomous countryside. On the political level, despite the weakness
+of the political party system, democracy was taking root. Several parliamentary
+seats were open to elections. Student movements in 1965 and 1969&amp;ndash;70
+and elections in 1971 became occasions when popular political sentiment found
+a platform for expression&amp;mdash;and the results did not favour the ruling
+classes.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P29"
+>On the economic plane, three significant
+developments would deliver results in the next decade. First, Green Revolution
+agricultural technology and farm mechanization altered the pattern of inequality
+in parts of the countryside, from a political sort of hierarchy cemented by
+clan loyalty towards less acceptable forms of economic inequality. In the
+1970s, when reliable statistics on land tenure began to be available, a large
+proportion (40% or more) of the rural population was landless. In the northern
+regions, a tiny elite owned much of the land. Poverty and inequality now began
+to reshape the discourse of development in Afghanistan, by creating room for
+a Marxist agrarian reform programme, which promised regulation of credit markets
+and the redistribution of land.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P30"
+>The second development was that
+the radical left made significant inroads among university students, and as
+the formation of political parties became possible, trained some of the more
+successful individuals to influence the nascent parties. The growth of the
+left-wing movement made the US-dependent modernization project less popular
+than it once was. By the mid-1970s the open doors policy towards the West
+was nearing its end.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P31"
+>Third and finally, the USSR was
+becoming closely involved with foreign policy, security infrastructure and
+developmental ideology. A <I
+>coup d&amp;rsquo;&amp;eacute;tat</I> in 1978 brought
+a coalition of military officers and the pro-Soviet radical left to power.
+The modernizing impulse continued, but now took on a Soviet face. Soviet engineers
+replaced US technicians, and military experts from the USSR visited Afghanistan
+frequently. Through these links, the Soviet Government kept itself informed
+of the internal politics of the new regime in Kabul. The USSR was anxious
+about the country&amp;rsquo;s foreign policy mainly because stability in Kabul
+was a key factor in the stability of the Central Asian Soviet republics, with
+which Afghanistan shared a border of some 1,250&amp;nbsp;km. Ethnic groups that
+did not feel any reason to commit either to socialism or Kabul-style economic
+modernization straddled the border. This was not Cold War politics for the
+USSR; it was bound more by geopolitical considerations than global military
+rivalry. But because the USSR was involved, the USA and Pakistan became increasingly
+concerned by the recent developments. As a result, Afghanistan was fast turning
+into a new arena in which the Cold War would play out.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P32"
+>The socialist turn served Afghanistan
+badly. A socialist economic system would mean more centralization and not
+less. The country had neither the fiscal nor the military means to carry out
+such a project. Politically, the rise of the left in Kabul underscored the
+distance between the city and the regions, and the appointment of overbearing
+left-wing officials to key positions angered and upset regional Afghan leaders.
+The pronounced pro-USSR bias of Afghan radicalism and dissension within its
+ranks did not help matters, as well as alarming US officials.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P33"
+>The main economic reform programme&amp;mdash;a
+land redistribution project&amp;mdash;made only stumbling progress. The land was
+of poor quality, by and large. The officials had little detailed knowledge
+of who owned which land: &amp;lsquo;It has proved more difficult to separate khans
+and landlords from peasants than Marxist analysis had predicted&amp;rsquo;, according
+to the academics Nancy Newell and Richard Newell in 1979. The move raised
+concerns over its consequences for the ethnic balance of power. The USSR was
+an ally of the Afghan communists, but this friendship pleased almost nobody
+else. There were many reasons for the animosity. Ideological differences were
+not the most important of these. One perennial problem was water-sharing arrangements
+in the Amu Darya basin. The USSR often acted like a bully in the negotiations;
+its principal commitment was to the Soviet republics of Turkmenistan and Uzbekistan
+and not to Afghanistan. With 27% of the annual flow in its territory, Afghanistan
+had access to just 7% of the water of the river, according to the Tashkent
+Agreement of 1987.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P34"
+>From late 1978 clashes between
+the Afghan Government and local communities erupted in many areas. In 1979
+even Afghan cities were living in a state of insecurity. Several powerful
+militaristic opposition groups emerged to resist central rule. Most professed
+loyalty to the tenets of Islam, but among them there were considerable differences
+over the mix between secularism and religious sentiment. Thus began the Afghan
+civil war, which would last for the next quarter of a century.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>1979&amp;ndash;2001: Civil War and State Collapse</HEADING><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P35"
+>The USSR&amp;rsquo;s military and security
+apparatus became committed to sustaining Afghanistan from early 1979, as the
+regime threatened to collapse under the weight of infighting and a divided
+military. The defeated Soviet army withdrew in 1989. In 1996 a little-known
+movement known as the Taliban overthrew a dysfunctional coalition Government
+and established Islamist rule. Civil war conditions had destroyed a great
+deal of the infrastructure that had been built in the pre-1978 era, killed
+between 500,000 and 2m. Afghan citizens, left vast areas littered with unexploded
+landmines and forced several million people to seek refuge in neighbouring
+countries and beyond. Aid from the USA, Saudi Arabia, the People's Republic
+of China and Iran had sustained the rebel groups in their war against the
+Soviet military. Afghanistan's precarious economy was devastated, although
+few estimates exist of the nature and extent of the loss to income and property.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P36"
+>Seeing the crucial period from
+1978 until the mid-1990s in Afghan history as a featureless decline would
+be a mistake, however. Between 1978 and 1994 Afghan cities, especially Kabul,
+continued to benefit from Soviet, then Russian, contact. One measure of the
+gain was the large number of women who received higher and technical education
+in the USSR and returned to occupy key administrative positions. When the
+coalition Government fell in 1996, these women&amp;mdash;and female education
+and employment more broadly&amp;mdash;came under attack from the fiercely conservative
+Taliban. </P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P37"
+>None of the foreign powers appeared
+to realize nor care about the fact that the Taliban embodied an extreme form
+of Islamic fundamentalism, which had been nurtured in the North-West Frontier
+Province of Pakistan, where the Taliban had their base and where the conservative
+Deobandi <I
+>ulema</I> (religious scholars) had an entrenched position in educational
+and cultural life. Most Taliban leaders were products of these theological
+seminaries. Despite an allegiance to Islam and frequent denial that the movement
+was ethnically biased, the Pashtun dominance of the movement pitted the Pashtun
+against the other major ethnic groups.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P38"
+>By 1998 the movement had divided
+up between the mainly Pashtun Taliban, and the Mujahidins formed of Tajik
+and Uzbek ethnic groups. Pakistan supported the former with aid and military
+help, whereas the Russian Federation, Iran and the Central Asian republics
+supported the latter. The USA remained neutral until 1998 but then joined
+the attack against the Taliban. The US Administration had two major grievances.
+After the bombing of two US embassies in Africa in 1998, the instigator of
+the attacks, Osama Bin Laden, had taken refuge in Afghanistan; and poppy cultivation
+had greatly expanded in the Nangarhar region, giving a huge boost to heroin
+production and global trade, particularly in the USA. Almost all of the poppies
+were grown in Taliban-controlled areas, and the regime earned substantial
+revenue by taxing the production and encouraging the trade.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P39"
+>Afghanistan's old problems&amp;mdash;weak
+state capacity and political fragmentation&amp;mdash;had returned during the Taliban
+era to disable the regime and made it a weak force for economic change of
+any kind. Political fragmentation returned with a vengeance because the revolutionaries
+were divided and had carved their territories of influence and control from
+the 1980s. After the Taliban's rise to power, the United Front (also known
+as the Northern Alliance&amp;mdash;a coalition of opposition groups based in the
+north of the country) controlled about 10% of Afghanistan's land area. It
+was this coalition that took over when, in October 2001, in the month following
+terrorist attacks on the USA by al-Qa&amp;lsquo;ida, which had been given refuge
+by the Taliban, US military forces invaded Afghanistan and ousted the Taliban. </P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P40"
+>Although reliable national income
+data are not available for Afghanistan in the 1980s and 1990s, demographic
+statistics show that these two decades were a &amp;lsquo;lost&amp;rsquo; era economically.
+Afghanistan had one of the highest birth rates in the world (47&amp;ndash;54 births
+per 1,000 people annually in 1980&amp;ndash;99) and one of the highest infant
+mortality rates in the world (147&amp;ndash;191 children died before the age of
+five years per 1,000 live births). With only patchy data available, it is
+impossible to say whether the infant mortality rate increased during this
+turbulent period. If it did, this would testify to a collapse of the health
+care system in the countryside. Life expectancy at birth was only 39&amp;ndash;45
+years at this time, and Afghanistan was losing a big part of its working-age
+population to migration.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P41"
+>Health care suffered a particularly
+heavy blow from the political turmoil. This setback was not due entirely to
+the limited financial capacity of the state. Taliban ascendancy prompted heavy
+migration. Some of the most skilled workers left early and resettled successfully.
+Among those leaving were many doctors and nurses who went to Western European
+and North American countries. Furthermore, Taliban policy to segregate women
+and remove them from the workforce meant that female medical professionals
+were forbidden from studying medicine and practising. That policy had a devastating
+impact on maternal health care and contributed to keeping total fertility
+rates at a high level (7&amp;ndash;8 children per woman on average).</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P42"
+>The end of Taliban rule in 2001
+and the emergence of a new regime came with the promise of a significant turnaround
+in the demographic characteristics of the country. The revival of the public
+health care system and the return of women to the workforce happened almost
+immediately, with far-reaching effects. It was a shaky process none the less.
+The earlier period of high fertility meant that by the 2010s the country had
+a large population of young men and women seeking jobs. In some assessments
+many working-age young people who were unable to find productive work took
+up arms, either on the Government&amp;rsquo;s side or the insurgents, thus keeping
+the conflict alive. This is an overly pessimistic assessment, but it does
+underscore how delicately balanced the economic recovery process was.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>2002&amp;ndash;13: Turnaround</HEADING><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P43"
+>The past two decades in the economic
+history of Afghanistan can be divided into two parts: the first phase was
+characterized by dynamism, and in the second phase some of the initial gains
+made in the first phase were lost as the country descended back into a civil
+war.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P44"
+>After the initial recovery from
+the civil war of 1996&amp;ndash;2001, the new Government set out to make investments
+again. A significant part of that money came from Western and other donors
+and funded the construction of new infrastructure. A vast number of jobs were
+created in the public sector, mainly in the security services. Trade revived,
+and investment in canals and dams increased. Above all, a substantial amount
+of money and energy were diverted to public health care, education and agriculture. </P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P45"
+>Health care was a priority area&amp;mdash;and
+the one that registered the most gains in a short time. The success of health
+care reconstruction demonstrated that money alone was not the critical factor
+in the recovery process. Afghanistan&amp;rsquo;s open borders to skilled people
+were an attraction for several non-governmental organizations (NGO) based
+in India and Pakistan to establish hospitals there. The new facilities employed
+Indians and Pakistanis, as well as Afghans who had been trained abroad, and
+Russian doctors and nurses. As well as treating diseases, the new infrastructure
+significantly improved immunization systems, which brought some infectious
+diseases under control. Safer water and sanitation projects also improved
+the quality of life for many Afghan citizens.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P46"
+>Education was another priority
+and another area of success. In just a few years, more than one-half of the
+school-age population had enrolled in schools and pursued a uniform national
+curriculum. About one-third of them were girls, which was a striking development,
+as girls&amp;rsquo; enrolment in educational establishments had fallen to zero
+in Taliban-controlled areas. NGOs and government agencies campaigned successfully
+for increased enrolment, with positive results.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P47"
+>The demographic turnaround was
+a dramatic one. Between 2000 and 2019 the population increased from some 22m.
+to about 31m.&amp;mdash;an annual average growth rate of about 2%. Life expectancy
+at birth improved from 45 years to about 65 years. During that time the infant
+mortality rate fell from 147 per 1,000 live births to just above 60. Net migration
+was still negative and high in the earlier years of the recovery but dropped
+sharply in the later years. These data suggest the prospect of a population
+explosion, which resource poverty and civil war conditions could make an impossible
+challenge for any government to deal with. The good news is that during these
+two decades the total fertility rate fell so sharply (from about 8 children
+per woman to 4.8 children) that the population growth rate also began to decline.
+Throughout this period Afghanistan&amp;rsquo;s ranking in the United Nations (UN)
+Development Programme&amp;rsquo;s Human Development Index and individual measures
+of health and nutritional status and education improved. Meanwhile, access
+to water and electricity grew at unprecedented rates.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P48"
+>There were other positive changes
+during the two decades of recovery. Work began on major river valley projects,
+especially in the upper Amu Darya basin. The urbanization rate accelerated.
+Urbanization rates reflected increased natural population growth in the cities,
+thanks to a higher survival rate among infants. There was also migration into
+the towns for employment and education. Much of that flow remained Kabul-bound.
+The gap between Kabul and the second-largest city, Qandahar, widened rapidly,
+even as migration added pressure to public services in Kabul. Overall, the
+quality of life was significantly better in the cities compared with the rural
+areas. </P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P49"
+>The initial burst of expenditure
+produced a healthy growth rate of real national income too. South Asia is
+a good benchmark to compare Afghanistan with. Between 2004 and 2013 the average
+Afghan income as a proportion of South Asian average income increased from
+35% to 44%, and as a percentage of global average income from 10% to 14%.
+This progress is significant because in 2002, when data for gross domestic
+product (GDP) in Afghanistan were first compiled, it was the poorest country
+in South Asia. The high growth rate for the next eight years showed not only
+that the funding from foreign donors helped, but also that increasing economic
+integration through trade, migration and investment in one of the world&amp;rsquo;s
+fastest-growing regions produced a dramatic outcome in the country. However,
+this relative gain disappeared in the following years, and by 2019 average
+Afghan income was again only 35% of the South Asian average.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>2013&amp;ndash;: Reversal</HEADING><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P50"
+>The fact that Afghanistan was falling
+behind its peers in terms of economic growth was significant. It revealed
+the three pitfalls in the process of recovery. A part of the regression was
+clearly due to the drawdown of international military forces on Afghan soil
+between 2012 and 2014 and a drop in related investment and expenditure. However,
+there were also deeper structural problems that the recession of the subsequent
+five years had revealed more starkly.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P51"
+>First, despite all the help from
+its security partners, the Afghan Government remained too weak to integrate
+the regions under centralized rule. About 40% of the land area remained outside
+the regime&amp;rsquo;s control. Here, opium cultivation and drug trafficking continued
+unchecked. &amp;lsquo;Over the course of reconstruction, the reports of international
+organizations and NGOs were replete with tales of health-related programs
+that had to be suspended, cancelled, postponed, or significantly scaled back
+because of security issues&amp;rsquo;, according to Jones <I
+>et al</I> (2006;
+see <I
+>Bibliography</I>).</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P52"
+>Second, the economy did not, and
+could not, diversify enough. Given the resources poverty of the country, agricultural
+and industrial development were not sustainable avenues of economic development.
+The insurgency restricted the growth of services subsectors such as tourism
+and left a vast army of unemployed youth with insufficient training for other
+forms of employment. The public sector remained a large employer. Trade, finance
+and other commercial services boomed, but the ability of these services to
+generate more and well-paid jobs depended on there being strong production
+sectors. Overall, economic growth in Afghanistan was services-based, as in
+the rest of South Asia. However, most services jobs were low-paid and insecure,
+except those in the government sector. Even then, it was reported that the
+government paid its soldiers less than did some insurgent groups to their
+members.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P53"
+>Third and finally, poverty remained
+entrenched, and inequality was on the rise. As on many occasions in the past,
+robust economic growth was centred in the cities and the fertile agricultural
+areas, leaving the resource-poor countryside behind. Inequality between the
+countryside and the towns grew wider. In urban areas, &amp;lsquo;eight out of
+ten households had access to improved sanitation in 2013&amp;minus;14, compared
+to only three out of ten in rural households&amp;rsquo;, according to the World
+Bank in 2017.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P54"
+>Economic growth bypassed the rural
+poor, and the insurgency hurt them the most. &amp;lsquo;The poorest and most vulnerable
+segments of the population benefited least from [the] growth, and the same
+groups suffered the most once the economy and the security condition deteriorated&amp;rsquo;,
+according to a report on poverty published in 2017. UN estimates suggest that
+personal income inequality has risen significantly since 2002, which is a
+trend common to all countries in South Asia.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P55"
+>Part of the inequality problem
+stemmed from a high rate of unemployment. The end of the civil wars and the
+initial investment in health care paid off in rising population growth, but
+this added further pressure to the job market and public services. Youth unemployment
+was at unsustainable levels in the country. In 2013&amp;minus;14, when the withdrawal
+of international armed forces was at its peak, unemployment rose, and &amp;lsquo;one
+in every four people participating in the labor market were either working
+for less than eight hours per week or do not have a job and are actively looking
+for one&amp;rsquo;, according to the World Bank in 2017.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P56"
+>Some of the disruptions caused
+by the shock of NATO troop withdrawals in 2014 wore off over the next five
+years. According to World Bank statistics, Afghan GDP did not grow after 2015.
+Aid dependency levels increased. Increased in-migration of former refugees
+from Iran and Pakistan added to the stress, and even intensified conflicts
+in some areas. The return of insurgency had a curious effect. As new foreign
+insurgent groups took advantage of the stress, the Taliban, now under a different
+and reportedly more moderate leadership, became defensive and willing to strike
+a deal with the USA. In February 2020 the deal finally materialized.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P57"
+>From early 2021 the outcome of
+the peace process was, in fact, an unleashing of further conflict. Foreign
+forces present in Afghanistan dwindled to insignificant numbers, with the
+USA hastening its withdrawal of forces and other NATO countries following
+suit (see History), but that number was still vital to secure some semblance
+of stability in the capital. Taliban forces battled government troops and
+made significant advances. Civilian casualties ran into thousands, nearly
+one-half of them being women and children. The threat of a third front in
+the ongoing civil war&amp;mdash;against Islamic State Khorasan Province, the Afghan
+branch of Islamic State (IS)&amp;mdash;emerged. Against this backdrop, the Afghan
+Government, weighed down by corruption, propped up by foreign aid and still
+unable to pay civil servants, teetered on the brink of collapse. </P><P
+>The coronavirus disease (COVID-19) pandemic from early 2020 hit the economy
+hard. Compared with the rest of South Asia, the expected drop in national
+income due to working time lost was estimated to be smaller in Afghanistan,
+simply because industry and services were not doing that well before the crisis
+and agriculture was on the road to recovery from a drought in 2018. However,
+amid high unemployment and a tense security situation, any recession had the
+potential to generate further conflict.</P><P
+>In August 2021 the Taliban reoccupied Kabul, following the hurried exit
+of international forces. The dramatic growth in the Afghan economy during
+most of the 20-year interregnum between the two Taliban regimes was due to
+significant investment from abroad, a business-friendly Government and gender
+equality in employment, especially in the service sector. It was also heavily
+funded by aid, particularly infrastructural developments and the military.
+At the time of the Taliban&amp;rsquo;s return, foreign aid formed about 40% percent
+of Afghanistan&amp;rsquo;s GDP. The handling of this aid involved extensive corruption,
+as alleged by both friends and critics of the Government. The mismanagement
+of the economy reached damaging levels in the last four years of the elected
+Government, when national income stopped growing. Arguably, this mismanagement
+and the country&amp;rsquo;s impending economic collapse precipitated the Taliban&amp;rsquo;s
+military success.</P><P
+>Foreign money had enabled the central bank to build a substantial reserve,
+most of it held in the USA. With an impending change of regime, Western Governments
+suspended aid to Afghanistan, the World Bank and the International Monetary
+Fund (IMF) halted assistance, and the USA froze the country&amp;rsquo;s foreign
+reserves, with a significant proportion later ring-fenced to compensate the
+victims of the 11 September 2011 terrorist attacks (given that many terrorism-related
+lawsuits against the Taliban are pending in the US courts). Media reports
+suggest that restoring freedom to women (who have been prohibited from most
+jobs after the Taliban takeover) and girls (who have been denied access to
+secondary education) was also a condition for releasing the reserves.</P><P
+>The crisis on the external accounts spilled over into a banking and fiscal
+crisis. Banks restricted their business. A sharp contraction in government
+spending reduced demand and worsened unemployment. The currency, the Afghani,
+fell sharply against the US dollar, and with employment in disarray, there
+were reports of hunger and hardship. Imports fell sharply, damaging consumption
+and investment. Thousands of highly skilled workers fled abroad. The reimposition
+of sanctions stopped remittance inflows from abroad, a substantial 4% of the
+national economy before the transition.</P><P
+>The crisis eased somewhat by February 2022. The new Government attempted
+to restore order to the fiscal system, with some success. From the end of
+2021, as reports of a gathering humanitarian crisis grew, aid and cash flows
+to the country improved. In February, the US Government announced that it
+would seek to release about one-half of the reserves it had frozen. The Afghani
+appreciated sharply. The question of whom, if unfrozen, that money would benefit,
+the Taliban or the Afghan people, loomed large in negotiations to release
+the funds. A devastating earthquake in late June 2022 added urgency to the
+talks, which resumed in Doha, Qatar, at the end of the month.</P><P
+>Despite such temporary relief, Afghanistan&amp;rsquo;s economic outlook remains
+bleak. The economy is expected to shrink significantly in 2022 and 2023; the
+war in Europe arising from Russia&amp;rsquo;s invasion of Ukraine in February
+2022 has exacerbated already high inflation, and the more than 500,000 additions
+to the workforce annually will face a difficult job market. While the Taliban
+rules most of the country, its military power can be challenged, especially
+in view of cuts to defence spending. The risk of another insurgency is a real
+one.</P><P
+>The regime shift and the return of economic crisis raise questions about
+the country&amp;rsquo;s long-term outlook. Beyond the immediate geopolitical shocks
+and natural disasters, what are the development challenges for Afghanistan?
+History helps us to answer that question. Western media discourse on the country
+insists on the need to restore women&amp;rsquo;s freedom and democratic politics.
+However, Afghanistan is no stranger to economic collapse and insurgency, and
+these threats are more longstanding than the Taliban worldview. What, then,
+makes economic development such an unstable process in this country?</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Conclusion</HEADING><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P58"
+>The violent history of Afghanistan
+could suggest that the country is a failed state, but this is far from the
+case. It is a divided state, and the root of this division lies in its history
+and geography.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P59"
+>For exactly a century, since a
+state-directed economic modernization drive began in Afghanistan in 1920,
+the economy of the country has been torn between two forces: centralization
+and fragmentation. A development programme designed and directed from the
+capital city could not reach far out to the countryside and the provinces.
+Acute resource poverty and a tradition of regional autonomy that survived
+because the centre was militarily weak or dependent on the local elite divided
+Kabul from the regions and the two halves fell further apart as the modernization
+project succeeded in the more prosperous areas. The insurgency and civil war
+of the late 20th century were the most recent and perhaps the most violent
+manifestations of the problem. This was a time in Afghanistan&amp;rsquo;s economic
+history when the centralization force was subdued, and fragmentation ruled.
+The return of a stronger state, albeit with foreign military and technical
+aid, changed the game, but no observer can say that it changed the game radically.
+Economic development has returned, but it has accentuated inequality, and
+it without significant foreign aid, no development path is feasible anyway.</P><P
+>In short, with its poor soil, limited water resources, untapped mineral
+resources and landlocked position, Afghanistan&amp;rsquo;s economic base has always
+been too weak to raise the taxes and finances necessary to form a government
+that can both hold military power and spend significant amounts of money on
+public goods. To become a viable nation state as well as an agent of development,
+the country must rely on foreign money, coming in as aid, investment, remittances
+or tradeable services (such as tourism). Historically, the periods of relative
+prosperity and growth in the country were the periods when external economic
+relations improved. With its negative image, the Taliban regime is an unlikely
+candidate to draw in resources. Its predecessor, propped up with politically
+compromised aid, was not a satisfactory alternative either.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P60"
+>There are positive factors. Although
+it is too early to say, global warming, by increasing the melting of snow
+in the Pamir mountains, could potentially increase the flow of the crucial
+Amu Darya river in northern Afghanistan. There are already signs that this
+is happening. Although this raises the risks of flooding (and summer droughts),
+the process presents the prospect of making more water available for agriculture
+and urban use, if sufficient investment is made.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P61"
+>Furthermore, whereas one factor
+for the success of warring groups in the country was the falling cost of the
+technology commonly used in small-scale warfare, one of the main factors for
+the success of the centralizing development-focused state in recent years
+has been improvements in the technology and institutions in the service of
+health care and infrastructure. The former factor remains a challenge for
+the modernization project and could lead to a permanent, if an unofficial,
+division of the country. The latter factor holds much more positive promise.
+The recovery stage over the past two decades involved the construction of
+assets and institutions that could potentially survive with the will of the
+new regime. The future depends on these assets and institutions.</P><P
+ID="AFGHANISTAN.ECONOMY.SASIA.2022.P62"
+>However, the joint effect of conflict
+and the COVID-19 pandemic has reversed many of the solid gains made since
+2002, as the country seems at risk of falling victim once again to the divisions
+that have often blighted its economic and social progress.</P></GEN-SECTION></COUNTRY-SURVEY>

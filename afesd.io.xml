@@ -1,0 +1,536 @@
+<?xml version="1.0"?>
+<?IS10744 arch
+  name="SLlink to Oxygen"
+  public-id="-//STEP//NOTATION SigmaLink link architecture//EN"
+  dtd-public-id="-//STEP//DTD SigmaLink link architecture//EN"
+  renamer-att="SLNames"
+?><?ATTLINK table-block id "SLT"?><?ATTLINK table-block-simple id "SLT"?><?ATTLINK chronology id "SLT"?><?ATTLINK res-institutes id "SLT"?><?ATTLINK political-profile-group id "SLT"?><?ATTLINK commodities id "SLT"?><?ATTLINK endnote id "SLT"?><?ATTLINK endnoteref slid "SLA"?><?ATTLINK footnote id "SLT"?><?ATTLINK p id "SLT"?><?ATTLINK p-group id "SLT"?><?ATTLINK xr slid "SLA"?><?ATTLINK anchor id "SLT"?><?ATTLINK intro-survey id "SLT"?><?ATTLINK territory-group id "SLT"?><?ATTLINK territory-group-content id "SLT"?><?ATTLINK territory id "SLT"?><?ATTLINK is-section id "SLT"?><?ATTLINK territory-simple id "SLT"?><?ATTLINK territory-section id "SLT"?><?ATTLINK stats-survey id "SLT"?><?ATTLINK ss-section id "SLT"?><?ATTLINK ss-entry-table id "SLT"?><?ATTLINK ss-entry-simple id "SLT"?><?ATTLINK directory id "SLT"?><?ATTLINK dir-section id "SLT"?><?ATTLINK dir-entry id "SLT"?><?ATTLINK dir-entry-simple id "SLT"?><?ATTLINK article id "SLT"?><?ATTLINK org-entry id "SLT"?><?ATTLINK org-entry-expanded id "SLT"?><?ATTLINK org-entry-simple id "SLT"?><?ATTLINK bibl-section id "SLT"?><?ATTLINK bibl-entry id "SLT"?><?ATTLINK bibl-entry-expanded id "SLT"?><?ATTLINK country-overview id "SLT"?><?ATTLINK country-survey id "SLT"?><?ATTLINK gen-section id "SLT"?><?ATTLINK essay id "SLT"?><?ATTLINK weights-and-measures id "SLT"?><?ATTLINK periodicals id "SLT"?><?ATTLINK int-org-group id "SLT"?><?ATTLINK int-org-entry id "SLT"?><?ATTLINK int-org-entry-simple id "SLT"?><?ATTLINK int-org-section id "SLT"?><?ATTLINK stats-table id "SLT"?><?Pub EntList AElig Aacute Abreve Acirc Agrave Amacr Aogon Aring Atilde Auml
+ Cacute Ccaron Ccedil Ccirc Cdot Dagger Dstrok ETH Dcaron Eacute Ecaron Ecirc
+ Egrave Emacr Eogon Euml Edot Gbreve Gcedil Gcirc Gdot Hcirc Iacute Icirc
+ Idot Igrave Imacr Iogon Itilde Iuml Jcirc Lacute Lcaron Lstrok Nacute Ncaron
+ Ntilde OElig Oacute Ocirc Ograve Omacr Oslash Otilde Ouml Racute Rcaron Sacute
+ Scaron Scedil Scirc THORN Uacute Ubreve Ucirc Udblac Ugrave Umacr Uogon Uring
+ Utilde Uuml Yacute Yuml Zacute Zcaron Zdot aacute abreve acirc aelig agrave
+ amacr amp aogon aring atilde auml cacute ccaron ccedil ccirc cdot copy dagger
+ deg dcaron dstrok eacute ecaron ecirc edot egrave emacr emsp ensp eogon eth
+ euml euro frac12 frac13 frac14 frac34 frac23 gbreve gcirc gdot iacgr iacute
+ icirc iexcl igrave imacr inodot itilde iuml lcaron ldquo lsquo lstrok mdash
+ minus nacute nbsp ncaron ndash ntilde oacute ocirc odblac oelig ograve omacr
+ oslash otilde ouml para racute rcaron rdquo rsquo sacute scaron scedil scirc
+ sect tcedil thinsp thorn uacute ubreve?><INT-ORG-ENTRY
+ID="AFESD.IO"
+ORIGINAL-FILENAME="wb02030.txt"
+USAGE="edio mena"
+PRINT-STYLE="PGWIDTH"
+SLLINK="SLSDOC"
+ID-ROOT="afesd.io"
+ISO="afesd.io"
+SLSDOCRF="INT-ORG-ENTRYREF"
+><?Pub Tag atict:info tracking="on" ref="0"?><?Pub Tag atict:user user="cholman" fullname="Catriona Holman"?><?Pub Tag atict:user
+user="CantonH" fullname="Canton, Helen"?><?Pub Tag atict:user user="Emily"
+fullname="adm-SangheraH"?><?Pub Tag atict:user user="jmiddleton" fullname="James Middleton"?><?Pub Tag atict:user user="dheaney" fullname="Dominic Heaney"?><?Pub Tag atict:user
+user="rco" fullname="Rob Owen"?><?Pub Tag atict:user user="holmanc" fullname="Catriona Holman"?><?Pub Tag atict:user user="ninac" fullname="adm-SangheraH"?><?Pub Tag atict:user
+user="User" fullname="adm-SangheraH"?><?Pub Tag atict:user user="KumarVi" fullname="adm-SangheraH"?><?Pub Tag atict:user user="nholman" fullname="nholman"?><?Pub Tag atict:user
+user="pkelly" fullname="Paul Kelly"?><?Pub Tag atict:user user="cantonh" fullname="Helen Canton"?><?Pub Tag atict:user user="hcanton" fullname="Helen Canton"?><INT-ORG-ENTRY-HEAD
+><INT-ORG-NAME-GROUP
+TYPE="MAIN"
+><ORG-ENTRY-NAME
+>Arab Fund for Economic and Social Development</ORG-ENTRY-NAME><ABBR
+>AFESD</ABBR></INT-ORG-NAME-GROUP></INT-ORG-ENTRY-HEAD><ALT-HEADING
+USAGE="ewyb"
+TYPE="SECTION-LONG-UPPERCASE"
+>INTERNATIONAL ORGANIZATIONS</ALT-HEADING><ALT-HEADING
+USAGE="edio"
+TYPE="SECTION-LONG-UPPERCASE"
+>MAJOR NON-UN ORGANIZATIONS</ALT-HEADING><ALT-HEADING
+USAGE="mena"
+TYPE="SECTION-LONG-UPPERCASE"
+>REGIONAL ORGANIZATIONS</ALT-HEADING><ALT-HEADING
+TYPE="COUNTRY-SHORT-TITLECASE"
+>AFESD</ALT-HEADING><INT-ORG-BLOCK
+><ADDRESS-BLOCK
+><ADDRESS
+TYPE="POSTAL"
+><VERBATIM-ADDRESS
+>POB 21923, Safat,
+13080 Kuwait</VERBATIM-ADDRESS></ADDRESS><TELEPHONE
+ALSOFAX="N"
+>24959000</TELEPHONE><FAX
+>24959390</FAX><EMAIL
+>hq@arabfund.org</EMAIL><INTERNET
+>www.arabfund.org</INTERNET></ADDRESS-BLOCK><P
+ID="AFESD.IO.48"
+>Established in 1968 by the Economic Council of the Arab
+League, the Fund began its operations in 1974. It participates in the financing
+of public and private economic and social development projects in the Arab
+states, and provides grants and expertise to member states.</P><INT-ORG-SECTION
+ID="AFESD.IO.1"
+SLLINK="SLSDOC"
+SLSDOCRF="INT-ORG-SECTREF"
+><HEADING
+>Members</HEADING><P
+>All member countries of the League of Arab States. (In 2011 the Syrian
+Arab Republic&amp;rsquo;s membership of AFESD was suspended at the request of
+the League.)</P></INT-ORG-SECTION></INT-ORG-BLOCK><INT-ORG-SECTION
+ID="AFESD.IO.2"
+SLLINK="SLSDOC"
+SLSDOCRF="INT-ORG-SECTREF"
+><HEADING
+>Organization</HEADING><HEADING-NOTE
+>September 2022</HEADING-NOTE><INT-ORG-SECTION
+ID="AFESD.IO.3"
+SLLINK="SLSDOC"
+SLSDOCRF="INT-ORG-SECTREF"
+><HEADING
+>Board of Governors</HEADING><P
+ID="AFESD.IO.50"
+>The Board of Governors consists of a Governor and an Alternate
+Governor appointed by each member of the Fund. The Board of Governors is considered
+as the General Assembly of the Fund, and has all powers.</P></INT-ORG-SECTION><INT-ORG-SECTION
+ID="AFESD.IO.4"
+SLLINK="SLSDOC"
+SLSDOCRF="INT-ORG-SECTREF"
+><HEADING
+>Board of Directors</HEADING><P
+ID="AFESD.IO.51"
+>The Board of Directors is composed of eight Directors
+elected by the Board of Governors for a renewable term of two years. The Board
+is charged with all the activities of the Fund and exercises the powers delegated
+to it by the Board of Governors.</P><DIR-LIST
+><DIR-ENTRY
+ID="AFESD.IO.53"
+SLLINK="SLSDOC"
+SLSDOCRF="DIR-ENTRYREF"
+><DIR-ENTRY-NAME
+>Director-General and Chairman
+of the Board of Directors</DIR-ENTRY-NAME><PERSON-GROUP
+><PERSON
+><PERSON-NAME
+><FORENAME
+>Bader M.</FORENAME><SURNAME
+>al-Asaad</SURNAME></PERSON-NAME><PERSON-NOTE
+>Kuwait</PERSON-NOTE></PERSON></PERSON-GROUP></DIR-ENTRY></DIR-LIST></INT-ORG-SECTION><INT-ORG-SECTION
+ID="AFESD.IO.5"
+SLLINK="SLSDOC"
+SLSDOCRF="INT-ORG-SECTREF"
+><HEADING
+>Financial Structure</HEADING><P
+ID="AFESD.IO.54"
+>In April 2013 the Board of Governors agreed to increase
+the Fund&amp;rsquo;s subscribed capital to 3,000 Kuwaiti dinars (KD) from KD&amp;nbsp;2,000m.
+(effected through a transfer of KD&amp;nbsp;500m. from the Fund&amp;rsquo;s additional
+capital reserves to paid-up capital, and through an increase in member states&amp;rsquo;
+subscriptions that was paid in instalments over the ensuing five years); the
+Fund&amp;rsquo;s authorized capital, meanwhile, was increased to KD&amp;nbsp;4,000m.
+By 30 June 2022 the Fund&amp;rsquo;s paid-up capital stood at KD&amp;nbsp;2,901m.
+At that time shareholders&amp;rsquo; equity amounted to KD&amp;nbsp;3,908m. </P></INT-ORG-SECTION></INT-ORG-SECTION><INT-ORG-SECTION
+ID="AFESD.IO.7"
+SLLINK="SLSDOC"
+SLSDOCRF="INT-ORG-SECTREF"
+><HEADING
+>Activities</HEADING><P
+>The Fund aims to contribute to the financing of economic and social development
+projects in the Arab states and countries by means of loans granted on concessionary
+terms to governments and public enterprises and corporations; private sector
+projects may also be supported through the provision of loans and guarantees,
+as well as other financial, technical and advisory services. In November 2016
+the Board of Directors agreed to reduce from the rate of interest on the repayment
+of loans (over a term of 30 years, increased from 22) from 2.5% to 2% for
+low-income member states, and from 3% to 2.5% for other beneficiary states.
+Projects that strengthen the interdependence of Arab countries and enhance
+social development are prioritized.</P><P
+>In February 2021 the Board of Directors approved a medium-term strategy,
+covering the period 2021&amp;ndash;24, with the following priorities: supporting
+the development of regional infrastructure, including energy generation, with
+a particular emphasis on advancing renewable energy sources; expansion of
+the production sector; provision of technical and institutional assistance
+to human development initiatives focused on generating employment; preservation
+of the environment and reduction of carbon emissions; strengthening small
+and medium-sized enterprises; and supporting joint Arab projects.</P><?Pub Caret?><P
+>During 2021 the Fund approved two loans, totalling KD&amp;thinsp;10.4m., comprising
+a KD&amp;thinsp;10.0m. loan to support the implementation of a public sector project
+in Bahrain&amp;rsquo;s energy sector, and also KD&amp;thinsp;400,000 for a private
+sector initiative in Kuwait. At the end of 2021 total lending since 1974 amounted
+to KD&amp;nbsp;11,139m. for 706 loans, towards the financing of 598 projects in
+18 Arab countries (and covering around 27% of the total cost of those initiatives);
+during that period some 70.2% of the total value of the loans was allocated
+to the infrastructure sector, 18.2% to the productive sector, and 9.0% to
+social sector initiatives.</P><P
+>In 2021 the Fund also approved a KD&amp;thinsp;10.0m. capital participation
+contribution towards the establishment of an Islamic commercial bank in Saudi
+Arabia.</P><P
+>In 2021 the Fund extended 10 national grants, amounting to KD&amp;thinsp;1.1m.
+Nearly one-half of the finance channelled through national grants in that
+year supported emergency programmes, 48.8% was for institutional support and
+training, and 1.4% for seminars and conferences. The Fund also approved six
+inter-Arab grants, at a cost of KD&amp;thinsp;300,000; in this respect, 80.1%
+was allocated to institutional support and training, 11.6% to emergency support
+initiatives, and 8.3% to general studies and research. The cumulative total
+number of grants provided by the end of 2021 was 1,269, with a value of KD&amp;thinsp;461.6m.</P><P
+>The Fund allocated KD&amp;thinsp;11.3m. in 2021 (equivalent to 10% of its 2020
+net profits) to its Urgent Program to Support the Palestinian People, bringing
+cumulative contributions since the Program&amp;rsquo;s establishment in 2001 to
+KD&amp;thinsp;178.6m. By the end of 2021 the Fund&amp;rsquo;s Programme to Support
+the Resistance of Jerusalem had received two instalments, in 2010 and 2016,
+that totalled KD&amp;thinsp;29.6m.</P><P
+>The Fund administers a Special Account, inaugurated in October 2010, which
+finances and offers technical and advisory assistance to small and medium-sized
+private sector commercial and developmental projects. By the end of 2021 46
+loans totalling US&amp;thinsp;$1,471m. had been approved through the Special Account.</P><P
+ID="AFESD.IO.108"
+>The Fund acts as the secretariat of the Co-ordination
+Group of Arab National and Regional Development Financing Institutions. These
+organizations work together to produce a <I
+>Joint Arab Economic Report,</I> which
+considers economic and social developments in the Arab states. The Fund co-operates
+with other organizations in preparing regional studies and conferences, for
+example in the areas of human resource development, demographic research and
+private sector financing of infrastructure projects.</P><P
+>AFESD and the World Bank were jointly to support the preparation process
+to establish an Arab common market for electricity, in accordance with a Memorandum
+of Understanding approved in September 2016 by Arab League ministers responsible
+for foreign affairs. In November 2019 AFESD, the Arab League and the World
+Bank organized the First Pan-Arab Energy Trade Conference, in Cairo, Egypt.</P><P
+USAGE="edio"
+>In September 2011 the Fund endorsed the so-called Deauville
+Partnership, which had been established by the then Group of Eight industrialized
+countries in May in order to assist countries in the Middle East and North
+Africa undergoing social and economic transformations. The Fund joined some
+nine other international financial institutions active in the region to establish
+a Co-ordination Platform to facilitate and promote collaboration among the
+institutions extending assistance under the Partnership. In 2013 the Board
+of Directors approved the Fund&amp;rsquo;s participation in the capital of a fund
+established by the <XR
+REF="IO-UN.1966"
+PAGEREF="N"
+>International Finance
+Corporation</XR> to invest in private sector facilities and companies in the
+Middle East and North Africa.</P><P
+>The Fund manages an Arab Fund Fellowships Program, which since its inception
+in 1997 has awarded scholarship grants (171 by 2021, of which 156 were implemented)
+to enable Arab citizens with doctorates to conduct advanced research and to
+lecture at top universities worldwide.</P></INT-ORG-SECTION><INT-ORG-SECTION
+ID="AFESD.IO.37"
+SLLINK="SLSDOC"
+SLSDOCRF="INT-ORG-SECTREF"
+><HEADING
+>Publications</HEADING><PUBL-LIST
+><PUBL-ENTRY
+><PUBL-NAME
+>Annual Report</PUBL-NAME></PUBL-ENTRY><PUBL-ENTRY
+><PUBL-NAME
+>Joint Arab Economic Report</PUBL-NAME><NOTE
+STYLE="NORMAL"
+>annually</NOTE></PUBL-ENTRY></PUBL-LIST></INT-ORG-SECTION><INT-ORG-SECTION
+ID="IO-AFESD.1"
+USAGE="mena"
+SLLINK="SLSDOC"
+SLSDOCRF="INT-ORG-SECTREF"
+><HEADING
+>Statistics</HEADING><TABLE-BLOCK
+ID="AFESD.IO.112"
+TYPE="OTHER"
+USAGE="mena"
+SLLINK="SLSDOC"
+SLSDOCRF="TABLE-BLOCKREF"
+><TABLE-HEADING
+>Loans
+by Sector</TABLE-HEADING><TABLE
+STYLE="WITH-RULES"
+PGWIDE="NO"
+><TGROUP
+COLS="5"
+><COLSPEC
+COLNAME="1"
+COLWIDTH="8.0pc"
+></COLSPEC><?Pub Tag atict:chgm
+user="CantonH" time="1662046516"?><COLSPEC
+COLNAME="1"
+COLWIDTH="8.0cm"
+></COLSPEC><?Pub /atict:chgm?><COLSPEC
+COLNAME="2"
+COLWIDTH="4.0pc"
+></COLSPEC><?Pub Tag atict:chgm user="CantonH"
+time="1662046516"?><COLSPEC
+COLNAME="2"
+COLWIDTH="4.0cm"
+></COLSPEC><?Pub /atict:chgm?><COLSPEC
+COLNAME="3"
+COLWIDTH="3.5pc"
+></COLSPEC><?Pub Tag atict:chgm user="CantonH"
+time="1662046516"?><COLSPEC
+COLNAME="3"
+COLWIDTH="3.5cm"
+></COLSPEC><?Pub /atict:chgm?><COLSPEC
+COLNAME="5"
+COLWIDTH="1.0pc"
+></COLSPEC><?Pub Tag atict:chgm user="CantonH"
+time="1662046516"?><COLSPEC
+COLNAME="5"
+COLWIDTH="1.0cm"
+></COLSPEC><?Pub /atict:chgm?><COLSPEC
+COLNAME="6"
+COLWIDTH="3.5pc"
+></COLSPEC><?Pub Tag atict:chgm user="CantonH"
+time="1662046516"?><COLSPEC
+COLNAME="6"
+COLWIDTH="3.5cm"
+></COLSPEC><?Pub /atict:chgm?><THEAD
+><ROW
+><ENTRY
+ALIGN="LEFT"
+STYLE="NO-DOT-LEADER"
+></ENTRY><ENTRY
+NAMEST="2"
+NAMEEND="3"
+ALIGN="CENTER"
+STYLE="NO-DOT-LEADER"
+>2021</ENTRY><ENTRY
+NAMEST="5"
+NAMEEND="6"
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>1974&amp;ndash;2021</ENTRY></ROW><ROW
+><ENTRY
+ALIGN="LEFT"
+STYLE="NO-DOT-LEADER"
+>Sector</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>Amount (KD million)</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>%</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+></ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>%</ENTRY></ROW></THEAD><TBODY
+><ROW
+><ENTRY
+STYLE="DOT-LEADER"
+>Infrastructure sectors</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>10.0</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>96.2</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+></ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>70.2</ENTRY></ROW><ROW
+><ENTRY
+STYLE="DOT-LEADER"
+>&amp;emsp;Transport and telecommunications</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>&amp;mdash;</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>&amp;mdash;</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+></ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>26.6</ENTRY></ROW><ROW
+><ENTRY
+STYLE="DOT-LEADER"
+>&amp;emsp;Energy and electricity</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>10.0</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>96.2</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+></ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>30.3</ENTRY></ROW><ROW
+><ENTRY
+STYLE="DOT-LEADER"
+>&amp;emsp;Water and sewerage</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>&amp;mdash;</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>&amp;mdash;</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+></ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>13.3</ENTRY></ROW><ROW
+><ENTRY
+STYLE="DOT-LEADER"
+>Productive sectors</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>0.4</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>3.8</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+></ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>18.1</ENTRY></ROW><ROW
+><ENTRY
+STYLE="DOT-LEADER"
+>&amp;emsp;Industry and mining</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>0.4</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>3.8</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+></ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>4.7</ENTRY></ROW><ROW
+><ENTRY
+ALIGN="LEFT"
+STYLE="DOT-LEADER"
+>&amp;emsp;Agriculture and rural &amp;emsp;development</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>&amp;mdash;</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>&amp;mdash;</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+></ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>13.4</ENTRY></ROW><ROW
+><ENTRY
+STYLE="DOT-LEADER"
+>Social services</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>&amp;mdash;</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>&amp;mdash;</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+></ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>9.0</ENTRY></ROW><ROW
+><ENTRY
+ALIGN="LEFT"
+STYLE="DOT-LEADER"
+>Other</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>&amp;mdash;</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>&amp;mdash;</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+></ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>2.7</ENTRY></ROW><ROW
+><ENTRY
+ALIGN="LEFT"
+STYLE="DOT-LEADER"
+><B
+>Total</B></ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>10.4</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>100.0</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+></ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>100.0</ENTRY></ROW></TBODY></TGROUP></TABLE><SOURCES
+><SOURCE-HEAD
+>Source</SOURCE-HEAD><SOURCE-INFO
+>AFESD, <I
+>Annual Report
+2021</I></SOURCE-INFO></SOURCES></TABLE-BLOCK><TABLE-BLOCK
+ID="AFESD.IO.113"
+TYPE="OTHER"
+SLLINK="SLSDOC"
+SLSDOCRF="TABLE-BLOCKREF"
+><TABLE-HEADING
+>Loans Approved, 2021</TABLE-HEADING><TABLE
+STYLE="WITH-RULES"
+PGWIDE="NO"
+><TGROUP
+COLS="3"
+><COLSPEC
+COLNAME="1"
+COLWIDTH="5.0pc"
+></COLSPEC><?Pub Tag atict:chgm
+user="CantonH" time="1662046516"?><COLSPEC
+COLNAME="1"
+COLWIDTH="5.0cm"
+></COLSPEC><?Pub /atict:chgm?><COLSPEC
+COLNAME="COLSPEC0"
+COLWIDTH="11.00pc"
+></COLSPEC><?Pub Tag atict:chgm user="CantonH"
+time="1662046516"?><COLSPEC
+COLNAME="COLSPEC0"
+COLWIDTH="11.00cm"
+></COLSPEC><?Pub /atict:chgm?><COLSPEC
+COLNAME="6"
+COLWIDTH="4pc"
+></COLSPEC><?Pub Tag atict:chgm user="CantonH" time="1662046516"?><COLSPEC
+COLNAME="6"
+COLWIDTH="4cm"
+></COLSPEC><?Pub /atict:chgm?><THEAD
+><ROW
+><ENTRY
+ALIGN="LEFT"
+STYLE="NO-DOT-LEADER"
+></ENTRY><ENTRY
+STYLE="NO-DOT-LEADER"
+>Purpose</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>Amount (KD million)</ENTRY></ROW></THEAD><TBODY
+><ROW
+><ENTRY
+VALIGN="TOP"
+STYLE="DOT-LEADER"
+>Bahrain</ENTRY><ENTRY
+STYLE="NO-DOT-LEADER"
+>Construction of centre for the monitoring and
+control of energy networks (public sector)</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>10.0</ENTRY></ROW><ROW
+><ENTRY
+VALIGN="TOP"
+STYLE="DOT-LEADER"
+>Kuwait</ENTRY><ENTRY
+STYLE="NO-DOT-LEADER"
+>Expansion of Anjal Drinking Water Bottling Factory
+(private sector)</ENTRY><ENTRY
+ALIGN="RIGHT"
+STYLE="NO-DOT-LEADER"
+>0.4</ENTRY></ROW></TBODY></TGROUP></TABLE><SOURCES
+><SOURCE-HEAD
+>Source</SOURCE-HEAD><SOURCE-INFO
+>AFESD, <I
+>Annual Report
+2021</I></SOURCE-INFO></SOURCES></TABLE-BLOCK></INT-ORG-SECTION></INT-ORG-ENTRY>

@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<?IS10744 arch
+  name="SLlink to Oxygen"
+  public-id="-//STEP//NOTATION SigmaLink link architecture//EN"
+  dtd-public-id="-//STEP//DTD SigmaLink link architecture//EN"
+  renamer-att="SLNames"
+?><?ATTLINK table-block id "SLT"?><?ATTLINK table-block-simple id "SLT"?><?ATTLINK chronology id "SLT"?><?ATTLINK res-institutes id "SLT"?><?ATTLINK political-profile-group id "SLT"?><?ATTLINK commodities id "SLT"?><?ATTLINK endnote id "SLT"?><?ATTLINK endnoteref slid "SLA"?><?ATTLINK footnote id "SLT"?><?ATTLINK p id "SLT"?><?ATTLINK p-group id "SLT"?><?ATTLINK xr slid "SLA"?><?ATTLINK anchor id "SLT"?><?ATTLINK intro-survey id "SLT"?><?ATTLINK territory-group id "SLT"?><?ATTLINK territory-group-content id "SLT"?><?ATTLINK territory id "SLT"?><?ATTLINK is-section id "SLT"?><?ATTLINK territory-simple id "SLT"?><?ATTLINK territory-section id "SLT"?><?ATTLINK stats-survey id "SLT"?><?ATTLINK ss-section id "SLT"?><?ATTLINK ss-entry-table id "SLT"?><?ATTLINK ss-entry-simple id "SLT"?><?ATTLINK directory id "SLT"?><?ATTLINK dir-section id "SLT"?><?ATTLINK dir-entry id "SLT"?><?ATTLINK dir-entry-simple id "SLT"?><?ATTLINK article id "SLT"?><?ATTLINK org-entry id "SLT"?><?ATTLINK org-entry-expanded id "SLT"?><?ATTLINK org-entry-simple id "SLT"?><?ATTLINK bibl-section id "SLT"?><?ATTLINK bibl-entry id "SLT"?><?ATTLINK bibl-entry-expanded id "SLT"?><?ATTLINK country-overview id "SLT"?><?ATTLINK country-survey id "SLT"?><?ATTLINK gen-section id "SLT"?><?ATTLINK essay id "SLT"?><?ATTLINK weights-and-measures id "SLT"?><?ATTLINK periodicals id "SLT"?><?ATTLINK int-org-group id "SLT"?><?ATTLINK int-org-entry id "SLT"?><?ATTLINK int-org-entry-simple id "SLT"?><?ATTLINK int-org-section id "SLT"?><?ATTLINK stats-table id "SLT"?><?Pub EntList AElig Aacute Abreve Acirc Agrave Amacr Aogon Aring Atilde Auml
+ Cacute Ccaron Ccedil Ccirc Cdot Dagger Dstrok ETH Dcaron Eacute Ecaron Ecirc
+ Egrave Emacr Eogon Euml Edot Gbreve Gcedil Gcirc Gdot Hcirc Iacute Icirc
+ Idot Igrave Imacr Iogon Itilde Iuml Jcirc Lacute Lcaron Lstrok Nacute Ncaron
+ Ntilde OElig Oacute Ocirc Ograve Omacr Oslash Otilde Ouml Racute Rcaron Sacute
+ Scaron Scedil Scirc THORN Uacute Ubreve Ucirc Udblac Ugrave Umacr Uogon Uring
+ Utilde Uuml Yacute Yuml Zacute Zcaron Zdot aacute abreve acirc aelig agrave
+ amacr amp aogon aring atilde auml cacute ccaron ccedil ccirc cdot copy dagger
+ deg dcaron dstrok eacute ecaron ecirc edot egrave emacr emsp ensp eogon eth
+ euml euro frac12 frac13 frac14 frac34 frac23 gbreve gcirc gdot iacgr iacute
+ icirc iexcl igrave imacr inodot itilde iuml lcaron ldquo lsquo lstrok mdash
+ minus nacute nbsp ncaron ndash ntilde oacute ocirc odblac oelig ograve omacr
+ oslash otilde ouml para racute rcaron rdquo rsquo sacute scaron scedil scirc
+ sect tcedil thinsp thorn uacute ubreve?><COUNTRY-SURVEY
+ORIGINAL-FILENAME="afggeog.rtf"
+ID="AF.GE"
+ISO="af"
+ID-ROOT="af"
+USAGE="sasia"
+SECT-TYPE="GEOGRAPHY"
+PRINT-STYLE="PGWIDTH"
+><?Pub Tag atict:info tracking="on" ref="0"?><?Pub Tag atict:user user="WestJ" fullname="adm-SangheraH"?><?Pub Tag atict:user
+user="maherj" fullname="Maher, Joanne"?><?Pub Tag atict:user user="khanm" fullname="Meena Khan"?><?Pub Tag atict:user user="matthewsc" fullname="adm-SangheraH"?><?Pub Tag atict:user
+user="obrienj" fullname="Jillian O'Brien"?><?Pub Tag atict:user user="KhanMe"
+fullname="adm-SangheraH"?><?Pub Tag atict:user user="pshah" fullname="Priya Shah"?><?Pub Tag atict:user user="pollardama" fullname="Pollard, Amanda"?><?Pub Tag atict:user
+user="HigginsN" fullname="Higgins, Neil"?><?Pub Tag atict:user user="shahp"
+fullname="Priya Shah"?><?Pub Tag atict:user user="sandhyac" fullname="C, Sandhya"?><?Pub Tag atict:user user="KerrE" fullname="Elizabeth Kerr"?><COUNTRY-HEAD
+>Afghanistan</COUNTRY-HEAD><HEADING
+>Geography</HEADING><ALT-HEADING
+USAGE="sasia"
+TYPE="SECTION-LONG-UPPERCASE"
+>Afghanistan</ALT-HEADING><ALT-HEADING
+USAGE="sasia"
+TYPE="COUNTRY-SHORT-TITLECASE"
+>Geography</ALT-HEADING><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Physical Features</HEADING><P
+>Occupying an area of 652,864&amp;nbsp;sq&amp;nbsp;km, Afghanistan is a landlocked
+territory. To the north, it borders Turkmenistan, Uzbekistan and Tajikistan,
+and, to the south and east, Pakistan. The latter frontier follows what was
+once termed the Durand Line (after the representative of British India, Sir
+Mortimer Durand, who negotiated it in 1893 with the ruler of Afghanistan).
+There are borders to the west with Iran and to the north-east with the People&amp;rsquo;s
+Republic of China. This last frontier was fully agreed only in 1963, and some
+parts of the southern and western borders have still to be delimited.</P><P
+ID="AF.GEOG.4"
+>The main topographical feature of Afghanistan is a complex
+of irregular highlands, which is relatively broad and low in the west and
+very much higher and narrower towards the east. In this eastern part the mountains
+form a group of well-defined chains, which are known by the general name of
+the Hindu Kush (&amp;rsquor;Hindu destroyer&amp;rsquo;), and are linked further eastward
+first to the Pamirs and then to the main Himalayan system. The Eastern Hindu
+Kush ranges form the southern defining limit of the Wakhan strip while, a
+short distance to the north and east, a small but high ridge, the Little Pamir,
+forms the topographic link between the Hindu Kush and the main Pamir. From
+maximum heights of 6,000&amp;nbsp;m&amp;ndash;7,000&amp;nbsp;m the peaks decline in altitude
+westwards, attaining 4,500&amp;nbsp;m&amp;ndash;6,000&amp;nbsp;m in the zone close to
+Kabul. Further west still, the ridges are no more than 3,500&amp;nbsp;m&amp;ndash;4,500&amp;nbsp;m
+and in the extreme west they open out rather like the digits of a hand, with
+much lower Parapamisus ridges (proto-Pamir) forming the last member of the
+mountain complex. The various ridges are distinguished by separate names.
+The Hindu Kush, which has a general altitude of about 4,500&amp;nbsp;m, with peaks
+2,000&amp;nbsp;m&amp;ndash;3,000&amp;nbsp;m higher still, is, however, narrow and crossable
+by quite a number of passes, some of which are indirect and snow-bound for
+much of the year.</P><P
+ID="AF.GEOG.5"
+>Afghanistan forms a major watershed from which rivers flow
+outward. The Amu Darya (Oxus) rises on the north side of the Hindu Kush and
+flows north-westward into Turkmenistan. Here, away from the mountains, the
+presence of small pockets of loess (a yellowish soil of high fertility) offers
+scope for agriculture. The Hari Rud rises a short distance only from the Amu
+Darya, but flows westward through Herat to terminate in a salt, closed basin
+on the Iranian frontier. From the south and west of the Hindu Kush flow a
+number of streams that become tributaries of the Indus; and in the extreme
+south-west the Helmand river flows through arid country to end, like the Hari
+Rud, in a closed basin that is partly within Iranian territory. The Helmand
+basin is of interest in that, because of a curious balance in water-level
+at its lowest part, the river here reverses its flow seasonally, and remains
+for much of its length non-brackish instead of becoming progressively more
+saline, as is normal when there is no outlet to the sea. The Helmand basin
+thus offers distinct potential for agricultural improvement, including the
+development of irrigation schemes; however, political difficulties (part of
+the lower basin is Iranian territory) and remoteness have been inhibiting
+factors.</P><P
+ID="AF.GEOG.6"
+>The lower-lying areas, which are in the main more densely
+populated, occur either as a series of peripheral zones to the north and south,
+or as a series of interior valleys and basins between the main mountain ridges
+of the centre. Largest of these areas is the piedmont lying on the northern
+flanks of the mountains and dropping northward in altitude to merge into the
+steppe&amp;shy;lands of former Soviet Central Asia. This is Balkh (or Bactria),
+a region of, in places, light yellowish, loessic soils. An interior situation,
+shut off from the sea by mountains, means that rainfall is deficient and falls
+mainly over the mountains. Streams fed partly by mountain snowmelt straggle
+across the plain, to lose themselves in the sand, feed salt swamps or, in
+a few cases, join others to form larger rivers such as the Hari Rud. Much
+of Balkh thus consists of semi- or full desert with sheets of sand and gravel
+in many places, and, nearer the mountains, an outwash of larger, coarser scree.
+Given stable political conditions, this region with its areas of highly fertile
+loess soils and moderate water supplies offers much scope for economic development.
+Long inhabited by pastoral nomads, and disputed politically by various claimants
+(Afghanistan, Iran and the former Union of Soviet Socialist Republics), this
+northern zone was developed rapidly with irrigated cotton-growing as a main
+element.</P><P
+ID="AF.GEOG.7"
+>In the east is the Kabul basin, which is a relatively flat
+zone hemmed in closely by steep mountain ridges. Some distance away to the
+north-west, and reachable through two major passes, is the narrower Vale of
+Bamian, while south-east of Kabul lies another fertile lowland zone around
+Jalalabad. Here lower elevation and southerly situation produce warmer conditions,
+especially in winter, as compared with most of the rest of Afghanistan.</P><P
+ID="AF.GEOG.8"
+>In the south-east, extending through Ghazni as far as Qandahar,
+there is another series of cultivated zones, but the extent of this piedmont
+area is much smaller than the corresponding one described above as Balkh.
+To the west, aridity, the price of declining altitude, increases, so the lowland
+passes into the desert areas of Registan and the Dasht-i-Mayo. Registan has
+seasonal flushes of grass, which support relatively large numbers of pastoral
+nomads, who, however, are becoming increasingly settled following irrigation
+development on the Helmand and Arghandab rivers.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Climate</HEADING><P
+ID="AF.GEOG.10"
+>Climatically, Afghanistan more closely resembles Iran and
+the Middle East than it does south Asia, in that it has an almost arid summer,
+a small amount of rainfall and considerable seasonal variation in temperature.
+The monsoon&amp;shy;al condition of heavy summer rainfall experienced elsewhere
+in south Asia does not occur. Annual rainfall ranges from 100&amp;nbsp;mm&amp;ndash;150&amp;nbsp;mm
+in the drier, lower areas of the west and north, to 250&amp;nbsp;mm&amp;ndash;400&amp;nbsp;mm
+in the east; on the highest mountains there is more still. Kabul, with an
+average of 330&amp;nbsp;mm per annum, is typical of conditions in the east, and
+Herat with 125&amp;nbsp;mm typical of the west. Almost all this falls in the period
+December to April, though there can be a very occasional downpour at other
+times, even in summer, when a rare damp monsoon&amp;shy;al current pen&amp;shy;etrates
+from the Indian lowlands. Temperatures are best described as extreme. In July
+the lowlands experience tempera&amp;shy;tures of 43&amp;deg;C, with 49&amp;deg;C not uncommon&amp;mdash;this
+is true of Jalalabad on the edge of the Indus lowlands. Yet the effects of
+altitude are important, and Kabul, at an elevation of 1,800&amp;nbsp;m, does not
+often experience tempera&amp;shy;tures of over 38&amp;deg;C. Winter cold can be bitter,
+with minima of &amp;minus;22&amp;deg;C to &amp;minus;26&amp;deg;C on the higher plateau areas,
+and, as a result, there are heavy blizzards in many mountain areas. The Janu&amp;shy;ary
+mean in Kabul is &amp;minus;4&amp;deg;C. A further difficulty is the preva&amp;shy;lence
+of strong winds, especially in the west, where a persistent and regular wind
+blows almost daily from June to September.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Population</HEADING><P
+ID="AF.GEOG.11"
+>The considerable variation in the types of terrain, and
+the substantial obstacles imposed by high mountains and deserts, have resulted
+in significant ethnic, linguistic and cultural diversity. The Pashtuns live
+mainly in the centre, south and east of the country, and are probably numerically
+the largest group. The Ghilzai, also of the areas adjacent to Pakistan, are
+thought to be of Turkish origin, like the Uzbeks who live in the north, mainly
+in the Amu Darya lowlands. Another important element comprises the Tajiks
+and the Hazara, who speak Farsi. Most Afghans are Muslims of the Sunni sect.
+The Hazara and the Qizilbash of Kabul are predominantly Shi&amp;lsquo;a. Pashto
+(Pakhto), one of the eastern group of Iranian languages, is the main language
+of the Pashtuns and is spoken by around 40%&amp;ndash;55% of the country&amp;rsquo;s
+population, according to the United Nations Educational, Scientific and Cultural
+Organization (UNESCO). (A sizable community of Pashto speakers lives across
+the border in Pakistan, numbering some 15% of the population of that country,
+according to UNESCO). Afghanistan&amp;rsquo;s other official (and most widely
+spoken) language is Dari, a dialect of Farsi.</P><P
+ID="AF.GEOG.12"
+>Economic progress has been inhibited by a difficult topo&amp;shy;graphy,
+an extreme climate with a generally deficient rainfall, and political instability.
+Traditionally, small communities lived by cultiva&amp;shy;tion where water and
+soil were available, and there were relatively numerous pastoralists, mostly
+nomads, who formed an import&amp;shy;ant section of the community. Even today,
+a significant proportion of the population is nomadic, and tribal organization
+is st<?Pub Caret?>rong. In 2018, according to the Food and Agriculture Organization
+of the United Nations, only 11.8% of Afghanistan&amp;rsquo;s total area was classified
+as arable land.</P><P
+>According to the census of June 1979, Afghanistan had a population of 13,051,358.
+By 2021/22, according to official estimates, the settled population had increased
+to 32,069,160, giving an average density of 49.1 per sq&amp;nbsp;km. (These estimates
+excluded the nomadic population, broadly estimated at 1.5m. in 2011, and Afghan
+refugees living outside of the country, of whom the Office of the United Nations
+High Commissioner for Refugees estimated there were 2.1m. at May 2022.)
+The capital, Kabul, is situated in the east of the country and had a population
+of 4.4m. in March 2021, according to official estimates. The next largest
+cities are Qandahar (with a population of 632,601, Herat (574,276) and Mazar-i-Sharif
+(484,492).</P></GEN-SECTION></COUNTRY-SURVEY>
