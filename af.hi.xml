@@ -1,0 +1,1729 @@
+<?xml version="1.0"?>
+<?IS10744 arch
+  name="SLlink--New"
+  public-id="-//STEP//NOTATION SigmaLink link architecture//EN"
+  dtd-public-id="-//STEP//DTD SigmaLink link architecture//EN"
+  renamer-att="SLNames"
+?><?ATTLINK table-block id "SLT"?><?ATTLINK table-block-simple id "SLT"?><?ATTLINK chronology id "SLT"?><?ATTLINK res-institutes id "SLT"?><?ATTLINK political-profile-group id "SLT"?><?ATTLINK commodities id "SLT"?><?ATTLINK endnote id "SLT"?><?ATTLINK endnoteref slid "SLA"?><?ATTLINK footnote id "SLT"?><?ATTLINK p id "SLT"?><?ATTLINK p-group id "SLT"?><?ATTLINK xr slid "SLA"?><?ATTLINK anchor id "SLT"?><?ATTLINK intro-survey id "SLT"?><?ATTLINK territory-group id "SLT"?><?ATTLINK territory-group-content id "SLT"?><?ATTLINK territory id "SLT"?><?ATTLINK is-section id "SLT"?><?ATTLINK territory-simple id "SLT"?><?ATTLINK territory-section id "SLT"?><?ATTLINK stats-survey id "SLT"?><?ATTLINK ss-section id "SLT"?><?ATTLINK ss-entry-table id "SLT"?><?ATTLINK ss-entry-simple id "SLT"?><?ATTLINK directory id "SLT"?><?ATTLINK dir-section id "SLT"?><?ATTLINK dir-entry id "SLT"?><?ATTLINK dir-entry-simple id "SLT"?><?ATTLINK article id "SLT"?><?ATTLINK org-entry id "SLT"?><?ATTLINK org-entry-expanded id "SLT"?><?ATTLINK org-entry-simple id "SLT"?><?ATTLINK bibl-section id "SLT"?><?ATTLINK bibl-entry id "SLT"?><?ATTLINK bibl-entry-expanded id "SLT"?><?ATTLINK country-overview id "SLT"?><?ATTLINK country-survey id "SLT"?><?ATTLINK gen-section id "SLT"?><?ATTLINK essay id "SLT"?><?ATTLINK weights-and-measures id "SLT"?><?ATTLINK periodicals id "SLT"?><?ATTLINK int-org-group id "SLT"?><?ATTLINK int-org-entry id "SLT"?><?ATTLINK int-org-entry-simple id "SLT"?><?ATTLINK int-org-section id "SLT"?><?ATTLINK stats-table id "SLT"?><?Pub EntList AElig Aacute Abreve Acirc Agrave Amacr Aogon Aring Atilde Auml
+ Cacute Ccaron Ccedil Ccirc Cdot Dagger Dstrok ETH Dcaron Eacute Ecaron Ecirc
+ Egrave Emacr Eogon Euml Edot Gbreve Gcedil Gcirc Gdot Hcirc Iacute Icirc
+ Idot Igrave Imacr Iogon Itilde Iuml Jcirc Lacute Lcaron Lstrok Nacute Ncaron
+ Ntilde OElig Oacute Ocirc Ograve Omacr Oslash Otilde Ouml Racute Rcaron Sacute
+ Scaron Scedil Scirc THORN Uacute Ubreve Ucirc Udblac Ugrave Umacr Uogon Uring
+ Utilde Uuml Yacute Yuml Zacute Zcaron Zdot aacute abreve acirc aelig agrave
+ amacr amp aogon aring atilde auml cacute ccaron ccedil ccirc cdot copy dagger
+ deg dcaron dstrok eacute ecaron ecirc edot egrave emacr emsp ensp eogon eth
+ euml euro frac12 frac13 frac14 frac34 frac23 gbreve gcirc gdot iacgr iacute
+ icirc iexcl igrave imacr inodot itilde iuml lcaron ldquo lsquo lstrok mdash
+ minus nacute nbsp ncaron ndash ntilde oacute ocirc odblac oelig ograve omacr
+ oslash otilde ouml para racute rcaron rdquo rsquo sacute scaron scedil scirc
+ sect tcedil thinsp thorn uacute ubreve?><COUNTRY-SURVEY
+ORIGINAL-FILENAME="afghist.rtf"
+ID="AF.HI"
+ISO="af"
+ID-ROOT="af"
+USAGE="sasia"
+SECT-TYPE="HISTORY"
+PRINT-STYLE="PGWIDTH"
+><?Pub Tag atict:info tracking="on" ref="0"?><?Pub Tag atict:user user="LoveJ" fullname="adm-SangheraH"?><?Pub Tag atict:user
+user="DevrajV" fullname="Vani Devraj"?><?Pub Tag atict:user user="matthewsc"
+fullname="adm-SangheraH"?><?Pub Tag atict:user user="KhanMe" fullname="adm-SangheraH"?><?Pub Tag atict:user user="MK" fullname="adm-SangheraH"?><?Pub Tag atict:user
+user="sandhyac" fullname="C, Sandhya"?><?Pub Tag atict:user user="User" fullname="cmarcham"?><?Pub Tag atict:user user="FrameI" fullname="FrameI"?><HEADING
+>History</HEADING><ALT-HEADING
+USAGE="sasia"
+TYPE="SECTION-LONG-UPPERCASE"
+>Afghanistan</ALT-HEADING><ALT-HEADING
+USAGE="sasia"
+TYPE="COUNTRY-SHORT-TITLECASE"
+>History</ALT-HEADING><AUTHOR-GROUP
+><PRIMARY-AUTHORS
+><PERSON-NAME
+><FORENAME
+>Shubhangi</FORENAME><SURNAME
+>Pandey</SURNAME><REGNAL
+>Public Policy Analyst, The Economist Intelligence
+Unit, New Delhi, India</REGNAL></PERSON-NAME></PRIMARY-AUTHORS><OTHER-AUTHORS
+>Revised for this edition by <PERSON-NAME
+><FORENAME
+>Iftikhar H.</FORENAME><SURNAME
+>Malik</SURNAME><REGNAL
+>Professor Emeritus of History, Bath Spa University,
+Bath, United Kingdom</REGNAL></PERSON-NAME></OTHER-AUTHORS></AUTHOR-GROUP><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Introduction</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P1"
+>Afghanistan is located at the crossroads
+of Central Asia and South Asia, with the Iranian plateau to its west. Linking
+three distinct cultural and geographical regions, its location is often understood
+as its greatest asset, as well as its bane. In the time of the ancient Silk
+Road, with some of its major cities situated at the intersection of key regional
+trading routes, Afghanistan benefited immensely from the mercantile exchange
+that took place and remained a hub of regional trade and transit for a long
+period. In contemporary times the country&amp;rsquo;s potential to facilitate
+increased economic connectivity in the region is acknowledged by most regional
+actors. More recently, its vast wealth of largely untapped minerals and natural
+resources, estimated to be worth US&amp;nbsp;$1,000,000m.&amp;minus;$3,000,000m.,
+has come into sharp focus.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P2"
+>The same geography, however, has also
+meant that Afghanistan has featured in various expansionist agendas by external
+actors aiming to increase their geopolitical influence; it has often been
+seen as a battleground of imperial, colonial and international conflicts.
+From falling prey to invaders crossing over from Persia or Central Asia, including
+Alexander the Great and Mahmud of Ghazni to name but two, to witnessing domination
+by assertive imperialist forces such as the United Kingdom, with which Afghanistan
+fought four wars between 1839 and 2021 before forcing it to retreat, Afghanistan
+has witnessed more conflict than most other medium-sized countries. Following
+the Partition of India in 1947, it was the Union of Soviet Socialist Republics
+(USSR) that wielded most relative influence over Afghanistan, directly as
+well as indirectly, through pro-Moscow Afghan rulers. During the Cold War
+era, Afghanistan was a theatre of contestation between the Great Powers of
+the USSR and the USA, which eventually led to Soviet domination over Afghan
+economic planning and policy formulation. None the less, the USA continued
+to provide material support to local Afghan warlords who were opposed to the
+Soviet-backed regime. It was this persistent struggle by two superpowers for
+influence that became one of the defining characteristics of Afghanistan in
+the latter decades of the 20th century.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P3"
+>Another significant theme in the Afghan
+sociopolitical milieu in the 1980s and the 1990s was internal strife along
+ethnic and ideological lines for political control of the country. Even as
+Afghans succeeded time and again in expelling foreign invaders by mounting
+popular military mobilization, the country&amp;rsquo;s various militias and tribal
+groups remained at loggerheads over the question of sharing power. The most
+prominent manifestation of the internal power struggle was what followed the
+Soviet invasion of Afghanistan in 1979, with some militias supporting the
+communist regime and others fighting to resist and overthrow it. A similar
+struggle continued even after the withdrawal of the USSR in the late 1980s
+and created the ideal ground for the Taliban movement to emerge and establish
+the &amp;lsquo;Islamic Emirate of Afghanistan&amp;rsquo; in 1996 with the help of
+material patronage from some of its sympathetic neighbours. The Taliban, although
+invoking the principles of Islam to justify their rule, further factionalized
+Afghan society on ethnic lines. Being of Pashtun descent themselves, they
+persecuted several non-Pashtun groups, declaring them to be enemies. Moreover,
+the Taliban did not succeed in installing an effective, legitimate government
+and were quickly defeated in the USA&amp;rsquo;s &amp;lsquo;war on terror&amp;rsquo; after
+the Islamist militant group al-Qa&amp;lsquo;ida (which the Taliban had harboured)
+launched suicide attacks on US cities using civilian airliners in September
+2001. Although the Afghan population initially welcomed the support of foreign
+forces in driving the Taliban out of power, amid hopes for the country&amp;rsquo;s
+reconstruction, questions around who would rule the country remained unresolved,
+especially due to misgovernance and continuing violence.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P4"
+>Emerging from the trend of perpetual
+internal strife and conflict was the third defining characteristic of the
+time, which was a crisis of political legitimacy resulting in a lack of institutional
+stability. Following the Soviet invasion in 1979, although traditional domestic
+adversaries formed short-term alliances to collectively fight the external
+threat, regular patterns of fighting between rival Afghan groups resumed soon
+after the foreign forces had been defeated in the late 1980s. There was no
+centralizing authority in Afghanistan that could bind the ethnically diverse
+society together and command political legitimacy.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P5"
+>The restoration of a strong central government
+proved particularly difficult after the final withdrawal of Soviet forces
+in 1989, especially when compared with the broadly seamless installation of
+central leadership after the civil war in 1929. By the early 1990s a significant
+proportion of foreign aid had stopped reaching Afghanistan, as the erstwhile
+active major powers were no longer interested in Afghan affairs, including
+the orderly repatriation of refugees. Furthermore, the militarily emboldened
+tribal groups, led by former <I
+>mujahidin</I> (holy warriors), stood in strong
+opposition to the political elite based in the capital, Kabul, which hindered
+the latter from exercising unassailable authority. Even in the post-2001 reconstruction
+following the fall of the Taliban, the relationship between the central Government
+and local units of tribes and communities, which traditionally enjoyed considerable
+autonomy in governance, remained unclear, if not totally conflicted. Instead
+of first conditioning the Afghan people into accepting a new way of life,
+the Government that was established after 2001 under Hamid Karzai set about
+immediately implementing wide-ranging socioeconomic reforms concerning women,
+modern education and individual rights&amp;mdash;themes that had traditionally
+been staunchly contested by the largely conservative majority of Afghan society.
+Not surprisingly therefore, popular disillusionment with the new Government
+began to grow, which aided the resurgence of the Taliban. Night raids by US-led
+forces, drone attacks and rising civilian casualties, alongside the concentration
+of wealth and power among the warlords, disillusioned a vast majority of ordinary
+Afghans.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P6"
+>Taken together, these three overarching
+themes have shaped the historical trajectory of Afghanistan since 1979 and
+continue to characterize its dynamics today. Afghanistan continues to witness
+low-intensity contestation among global powers, as well as the traditional
+pronounced interest of major regional stakeholders. The controversial presidential
+elections of 2019 and the subsequent feud that unfolded between political
+rivals Mohammad Ashraf Ghani (the then incumbent President) and Dr Abdullah
+Abdullah (the former Chief Executive of Afghanistan) robbed the unity government
+of the considerable legitimacy that it would have otherwise enjoyed. The Taliban
+began to publicize its intermittent victories against a factionalist regime
+in Kabul, gradually consolidating power in outlying areas and declaring the
+moral high ground over the Government, which it considered to be a puppet
+of the USA. Having taken over Afghanistan by military means in 2021, the group
+professes its commitment to ruling in peace. In order to best understand the
+changing notions of power and political legitimacy and how they translated
+into successive periods of instability in Afghanistan, it is necessary to
+trace the evolution of political participation in the country. To that end,
+the next section will explore the events that led to the Soviet invasion of
+Afghanistan in 1979, including the Saur Revolution of 1978 and the subsequent
+rise of disparate <I
+>mujahidin</I> militias, who were variously aided and
+abetted by the USA, Pakistan, Iran, the People&amp;rsquo;s Republic of China and
+Saudi Arabia.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Daoud&amp;rsquo;s Republic and the Saur Revolution, 1973&amp;ndash;78</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P7"
+>Afghanistan was proclaimed a republic
+for the first time in its history in 1973. In a largely bloodless coup, Lt-Gen.
+Sardar Mohammad Daoud Khan ousted his cousin, the ruling monarch King Mohammad
+Zahir Shah, and the monarchy was abolished. Daoud declared himself President
+of the newly formed republic, and his regime garnered support from various
+sections of society and the institutional apparatus. Reaping the benefits
+of the goodwill that he had cultivated in his previous tenure as Prime Minister
+during 1953&amp;ndash;63, he was hailed by the military for facilitating the training
+of young cadres in the USSR, and supported by the Pashtuns, who favoured his
+idea of &amp;lsquo;Pashtunistan&amp;rsquo;, which aimed to wrest Pashtun territories
+from Pakistan. His earlier efforts at making the Islamic face veil optional
+for women in public, as well as other proposed social reforms, had also won
+him the support of the relatively liberal sections of society, although monarchists
+and some conservative Afghans felt resentful of his coup.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P8"
+>Referencing the lack of economic progress
+in preceding decades, Daoud embarked on an ambitious programme to facilitate
+industrial growth, promote trade and revitalize domestic production. In 1977
+he introduced a new Constitution, which sought to modernize the state, while
+establishing a one-party presidential system with complete state ownership
+of natural resources and fundamental industries. When Pakistan facilitated
+Afghan Islamist uprisings against Daoud, owing to his support for Pashtun
+separatists in the region, Daoud unleashed a wave of arrests and executions
+of those who resisted him. As a result, many rebels escaped to Pakistan in
+search of safe havens, among them Gulbuddin Hekmatyar of the Islamist Hizb-i-Islami
+and Burhanuddin Rabbani of Jamiat-i-Islami. While Daoud continued to receive
+Soviet patronage in the form of economic assistance, military training and
+debt relief, he was keen on diversifying sources of foreign aid, which was
+essential for him to realize his modernization plans for Afghanistan. He secured
+a US&amp;nbsp;$2,000m. aid package from Iran and reached out to a number of other
+regional countries for support, including Iraq and Saudi Arabia.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P9"
+>However, Daoud&amp;rsquo;s tightening grip
+over the Government and gradual sidelining of the Marxist People&amp;rsquo;s Democratic
+Party of Afghanistan (PDPA), to which he had previously been close ideologically,
+increased local opposition to his regime. Furthermore, his ties with the USSR
+also began to weaken, owing to his suppression of prominent communist voices
+and the presence of officials from the USA and the North Atlantic Treaty Organization
+(NATO) in Afghanistan. Supposedly, it was persistent pressure from the USSR
+that led to the unification of the two factions operating under the PDPA banner
+at the time: the relatively moderate and socialist faction called Parcham
+(Banner) and the radical Khalq (People) faction, which was in favour of overthrowing
+the existing regime through violent means, invoking the communist instrument
+of a &amp;lsquo;proletarian revolution&amp;rsquo;. In what came to be known as the
+'Saur Revolution', the PDPA launched a coup on 27 April 1978 to overthrow
+Daoud&amp;rsquo;s regime, in the process killing him and members of his family
+at the presidential palace in Kabul. Amid the coup, the Revolutionary Council
+of the Democratic Republic of Afghanistan was formed, and Nur Mohammad Taraki
+of the Khalq faction in the PDPA was declared Prime Minister and Chairman
+of the Council, while Babrak Karmal and Maj. Aslam Watanjar were designated
+Deputy Prime Ministers. Seats in the Council were equally divided between
+Khalq and Parcham members.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P10"
+>However, the PDPA regime did not enjoy
+as much popular support as it had hoped for, and resistance to the communist
+way of governance began to grow. The socioeconomic policies of the Taraki
+administration, although aimed at creating a more progressive and gender-equal
+society, offended the sensibilities of the conservative rural population.
+The initiation of mixed-sex education, limitations on the practice of dowry,
+which in the Afghan context was the &amp;lsquo;price&amp;rsquo; that the groom paid
+for the bride, as well as controversial land reforms that brought large land
+holdings under state ownership, riled the local religious and tribal communities,
+turning them against the Government. Moreover, dissent between the Khalq and
+Parcham factions contributed to the rapid destabilization of the regime, with
+Hafizullah Amin (a co-founding member of the PDPA) eventually ousting Taraki
+and ordering his assassination in September 1979. He declared himself President
+and General Secretary of the PDPA. The apparent fragility of the regime prompted
+the Soviets to invade Afghanistan on 24 December to stabilize the communist
+cause in the country and prevent any other overarching ideology from taking
+root.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>The Soviet Decade, 1979&amp;ndash;89</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P11"
+>Despite their awareness of the emerging
+cracks in PDPA ranks, the Soviets were not quick to advocate direct intervention
+in Afghanistan. Even in May 1978, many in the Soviet Politburo, including
+Yurii Andropov, the head of the Soviet Committee for State Security (KGB),
+were explicitly against the idea of invasion, arguing that the socioeconomic
+milieu of Afghanistan was not yet conducive for pure socialism, and that acting
+via their &amp;lsquo;bayonets&amp;rsquo; instead to stabilize the situation would
+be more prudent. However, the ousting of Taraki and successive efforts by
+Amin to reach out to Pakistan and more importantly the USA spurred a re-evaluation
+of the approach in Moscow. By late October 1979 the Committee on Afghanistan
+in the Soviet Politburo had ratified the recommendation of invasion, and in
+a matter of weeks the Soviet leader Leonid Brezhnev officially ordered the
+intervention. With careful planning and discreet execution, which entailed
+the disruption of communication lines in Kabul and other major cities, the
+seizure of radio stations and the encirclement of Amin&amp;rsquo;s palace, Darul
+Aman, the Soviets had installed about 50,000 of their troops in Afghanistan
+by 27 December. The Soviets, wary of Amin&amp;rsquo;s intentions and expecting
+defections among Afghans, ordered his assassination and replaced him with
+the more moderate Karmal.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P12"
+>Even as the Soviets placed boots on
+the ground in Afghanistan, the USA initially abstained from responding militarily
+to the communist takeover. It was only with the kidnapping and eventual killing
+of the US ambassador to Afghanistan, Adolph Dubs, in February 1979, at the
+hands of leftist rebels, that the USA altered its engagement strategy vis-&amp;agrave;-vis
+Afghanistan. While the USA had advised the Afghan Government to not attempt
+a rescue mission for Dubs, fearing that he would become collateral damage
+in combat between the two sides, the Government sent in troops anyway, and
+US fears were vindicated. As a result, the USA revoked all aid to the Afghan
+Government, suspecting Soviet involvement in the Dubs incident, and launched
+&amp;lsquo;Operation Cyclone&amp;rsquo; to arm the anti-establishment <I
+>mujahidin</I> fighters, many of whom were also being trained in Pakistan for rebellion.
+Both the USA and the USSR were, of course, fighting battles of their own all
+the while, under the pretext of bringing stability to Afghanistan. </P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P13"
+>While the Soviets had intended to leave
+Afghanistan as soon as the communist regime was strengthened sufficiently,
+local resistance to the prolonged presence of &amp;lsquo;foreign elements&amp;rsquo;
+grew remarkably fast and acquired profoundly nationalistic tones. By promulgating
+the opposition as fighting a <I
+>jihad</I> (holy war) against &amp;lsquo;infidel
+invaders&amp;rsquo;, the mobilized masses or the <I
+>mujahidin</I> overcame internal
+factionalism and presented a united front in the name of Afghanistan and Islam.
+The <I
+>mujahidin</I> had also joined hands with Islamist parties led by the
+likes of Rabbani and Hekmatyar, who had been operating out of Pakistan since
+escaping the wrath of Daoud in the mid-1970s. The Pakistani-based groups were
+deemed essential in the fight against Soviet intervention, as they brought
+with them a ready supply of foreign aid and arms, particularly from the USA
+and Saudi Arabia. China also agreed to provide a variety of combat equipment
+to the rebels at the behest of the USA, although it equally served its purpose
+of frustrating a longstanding foe, the USSR.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P14"
+>After coming to power, Karmal attempted
+a number of outreach efforts to appeal not only to the communists, but the
+non-communist Afghans as well. From announcing prisoner releases, especially
+those detained at the infamous Pul-e-Charkhi prison on the outskirts of Kabul,
+to revoking the contentious land reforms, encouraging the return of Afghan
+refugees from neighbouring countries and installing non-PDPA individuals in
+the Government, Karmal tried everything to win back popular support. By then,
+however, most Afghans had resolved to join anti-Soviet forces, and the PDPA
+Government was largely considered a Soviet puppet. Although Karmal had proclaimed
+the establishment of a unity government, out of the 28 ministers in his cabinet,
+only three were from a non-PDPA background. The formation of the National
+Fatherland Front to co-opt opposition groups, as well as exemptions in the
+implementation of land reforms, also failed to create a broader support base
+for the Soviet-backed Government.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P15"
+>Acknowledging that the PDPA Government
+lacked popular support and the resources required to administer control, the
+USSR decided to take recourse in their tested strategy of re-educating the
+youth. The modified school curriculum included espionage training for children
+under the Young Pioneers Programme and membership of the Democratic Youth
+Organization, where young people were taught the skills of surveillance and
+propaganda. The Afghan intelligence agency supervised the political and ideological
+conditioning of children and young adults in training centres. By encouraging
+the teaching of a relatively passive version of Islam in <I
+>madrassas</I>,
+Karmal and the Soviet authorities also attempted to cultivate a subservient
+class of the clergy, given that the existing clerics were themselves a factionalized
+community and therefore beyond the possibility of getting co-opted. Public
+sentiment against the regime strengthened, however, and manifested in the
+&amp;lsquo;Allah-u-Akbar&amp;rsquo; or the &amp;lsquo;3 Hut&amp;rsquo; uprising in February
+1980.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P16"
+>Meanwhile, factionalism within PDPA
+ranks continued to grow, often turning violent as in the case of the party
+congress that took place in March 1982, where infighting claimed the lives
+of five party members. Even after Karmal expanded the party membership to
+include a substantial number of Khalqis, the clash of ideologies between the
+two major PDPA factions continued. The PDPA's armed wing was also reconstituted
+to reflect Khalq predominance, which the regime hoped would reconcile the
+radical faction with the mainstream Parchamis. However, the move backfired,
+as Khalqi officers began to openly flout the directives of Karmal and often
+refused to fight the local <I
+>mujahidin</I> groups. Supported by Pakistani-based
+militant groups, the <I
+>mujahidin</I> became increasingly sophisticated in
+their use of weapons and offensive strategies. To further strengthen the <I
+>mujahidin</I> against Soviet forces, US President Ronald Reagan authorized
+aid worth US&amp;nbsp;$3,200m. for the rebels, which was routed via Pakistan in
+the guise of military and economic support. With the arrival of Stinger anti-aircraft
+missiles provided by the USA in 1986, which could be used to shoot down low-flying
+Soviet helicopters, the balance of power shifted significantly in favour of
+the <I
+>mujahidin</I>, leaving the Soviets worried about the future of the
+socialist revolution in Afghanistan.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P17"
+>The intervention took its toll on the
+Soviets as well. Even though they had almost 111,000 troops in Afghanistan
+at the peak of the deployment, who were able to prevent the Afghan resistance
+from overthrowing the communist administration, the financial cost of the
+war was more than the USSR could accept, not least afford. By the mid-1980s
+the maintenance of combat forces in Afghanistan was costing the USSR about
+2,000m.&amp;ndash;3,000m. roubles a year, with casualty figures reaching unanticipated highs. Moscow had begun to
+face intense diplomatic backlash and international condemnation for its invasion
+of Afghanistan and for the conflict-induced displacement of millions of war-weary
+Afghans to the neighbouring countries of Pakistan and Iran. In the decade
+of Soviet occupation from 1979 to 1989 almost 6m. Afghans had reportedly fled
+the country across the porous borders in search of refuge, accounting for
+the displacement of almost two-fifths of the total Afghan population. Simultaneously,
+within the USSR domestic support for the invasion had begun to wane. However,
+it was only after the death of Brezhnev in 1982 and two of his successors
+in short order (Andropov in 1984 and Konstantin Chernenko in 1985) that Mikhail
+Gorbachev assumed charge of the Communist Party of the Soviet Union, marking
+a significant shift in the Soviet strategy in Afghanistan. He declared negotiation
+as the most desirable means of ending the war, instead of continued combat,
+and sought to strengthen the PDPA government internally, as part of his long-term
+exit strategy for the USSR.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P18"
+>On the political front, despite his
+efforts at co-opting the non-communists into the regime and encouraging the
+creation of Government-affiliated, quasi-independent organizations to represent
+diverse voices at key decision-making forums, Karmal was despised by the majority
+of Afghans for being a Soviet stooge. As a result, when Gorbachev came to
+power in the USSR, Karmal was replaced as the General Secretary of the PDPA
+by Dr Najibullah Ahmadzai, the erstwhile chief of the Afghan intelligence
+agency, who was a Pashtun but also a devoted Parchami. After an initial power
+struggle between Najibullah and Karmal, who was still the leader of the ruling
+Revolutionary Council, the Soviets eventually exiled Karmal to Moscow and
+declared Najibullah as the head of the Democratic Republic of Afghanistan
+in November 1986. Thereafter, Najibullah rapidly consolidated power and began
+the ideological move away from socialism to nationalism. In 1987 he convened
+a Loya Jirga (a Grand National Council of local leaders), at which a new Constitution
+was drafted, multi-party democracy was established, and Najibullah was declared
+as the President of the republic. The elections held in May 1988 accorded
+electoral legitimacy to the decision of the Loya Jirga in the previous year.
+He renamed the PDPA as the Hizb-i-Watan (Homeland Party) and accommodated
+local resistance groups within a coalition Government, in return for harmony.
+One such offer was made to Ahmad Shah Masoud of the anti-Soviet Jamiat-i-Islami
+political party, albeit unsuccessfully. The hardliners within the PDPA expressed
+disappointment with the shift away from the revolutionary reform agenda previously
+followed by Taraki and Amin, but Najibullah attributed this to the continued
+Soviet presence, not his own policies, and believed that local dynamics would
+change drastically upon eventual Soviet withdrawal.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P19"
+>Once Najibullah came to power and the
+Republic of Afghanistan began to resemble the republic under Daoud in the
+1970s, Gorbachev turned to the United Nations (UN) to facilitate negotiations
+between the warring parties, which would allow the Soviets to eventually retreat
+from Afghanistan. By announcing the withdrawal of 8,000 troops in July 1986,
+Gorbachev intended to signal to all stakeholders in the Afghan war that he
+was serious about finding a political solution to the conflict. The USA, however,
+remained sceptical about the move, citing reports that some 6,000 KGB personnel
+and special commandos had arrived in Afghanistan to replace the withdrawn
+troops. None the less, Gorbachev announced in February 1988 that all Soviet
+troops would leave the country in about a year, which accelerated the ongoing
+UN-brokered talks. Soon enough, the Governments of Afghanistan and Pakistan
+signed three agreements, collectively known as the Geneva Accords, in the
+presence of the USA and the USSR as guarantors. The Accords, besides establishing
+a relationship based on the principle of non-interference, declared Afghanistan&amp;rsquo;s
+right to self-determination and the right of Afghan refugees to return home
+peacefully, and set the date for the withdrawal of Soviet troops. The UN Good
+Office Mission in Afghanistan and Pakistan, which was created by the UN Secretary-General
+Javier P&amp;eacute;rez de Cu&amp;eacute;llar soon after the agreements were signed,
+monitored the phased withdrawal of Soviet troops, which was completed on 15
+February 1989, as mandated by the Accords. Henceforth it was the responsibility
+of the elected Afghan Government and the local warlords to decide the future
+of their homeland.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>The Rise and Fall of Najibullah</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P20"
+>Following the departure of the Soviets,
+the shared <I
+>mujahidin</I> cause of fighting the infidel enemy by means of
+waging <I
+>&amp;lsquo;jihad&amp;rsquo;</I> had ceased to have justification, as the
+fight was now among fellow Muslims within Afghanistan. However, as the USA
+and the USSR continued to provide covert military aid to their respective
+benefactors (namely, the <I
+>mujahidin</I> and the Afghan Government), despite
+this being in violation of the UN-brokered withdrawal agreement, insurgent
+attacks on the Government rose sharply. As a result, the strategy of co-opting
+dissenters into the establishment to dampen the resistance also became increasingly
+ineffective, given that the Government was visibly overpowered by the sheer
+numbers of the rebels. To capitalize on the rising <I
+>mujahidin</I> forces,
+Pakistan&amp;rsquo;s Inter-Services Intelligence mobilized the Peshawar-based
+Afghan resistance parties, popularly known as the &amp;lsquo;Peshawar 7&amp;rsquo;,
+into forming the Afghan 'government in exile' in February 1989 in an attempt
+to seize Jalalabad and declare a new regime. However, in the absence of an
+integrated command structure and experience in fighting an army with conventional
+military means, the mobilized <I
+>mujahidin</I> failed embarrassingly at the
+hands of the PDPA.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P21"
+>After the d&amp;eacute;b&amp;acirc;cle of Jalalabad,
+the number of insurgents willing to reach a peaceful bargain with President
+Najibullah grew considerably. Najibullah incorporated many of them into leadership
+roles within his Government, while also allowing them a significant degree
+of autonomy to operate their independent militias. Abdul Rashid Dostum, an
+Afghan of Uzbek origin, was one such prominent local leader who ran his own
+Government-supported militia of some 20,000 multi-ethnic fighters, who often
+fought the <I
+>mujahidin</I> alongside government forces. The declining numbers
+of active <I
+>mujahidin</I>&amp;mdash;from about 85,000 in 1989 to some 55,000
+in 1990&amp;mdash;demonstrated the effectiveness of Najibullah&amp;rsquo;s strategy.
+In fact, the Government-affiliated militias had now begun to outnumber the
+resistance forces, as well as the Government-controlled troops. The troops
+had themselves become fragmented, primarily inspired by the ever-evolving
+alliances between the <I
+>mujahidin</I> and the political establishment. The
+steady supply of economic aid from the USSR, on top of the covert military
+assistance mentioned above, helped Najibullah to foster increased support
+for his regime by investing in networks of patronage and building up military
+strength.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P22"
+>Najibullah was aware of the importance
+of seamless transit of Soviet aid for the stability and continuation of his
+Government. Unsurprisingly therefore, it was the northern militias, such as
+in the provinces of Balkh and Baghlan, which the Government brought under
+its influence and associated most closely with, owing to their geographical
+proximity to the USSR. The provinces in the east and the south, however, were
+not as cohesive as the north and were in any case dominated by the Peshawar-based <I
+>mujahidin</I> parties and prone to their pervasive infighting. Although the
+formation of the National Commanders Shura by a group of influential Afghan-based <I
+>mujahidin</I> was perceived as a potential threat by Najibullah, the adoption
+of gradual and relatively moderate tactics by the body proved to be inadequate.
+Differences with their counterparts patronized by Iran equally hindered the
+formation of a cohesive platform to oust Najibullah.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P23"
+>By August 1991, with the USSR weakened
+by internal political instability and unable to keep up its commitment of
+supplying food and fuel to the Afghan Government, Najibullah&amp;rsquo;s hold
+over the country began to diminish. In the absence of adequate funds to pay
+off the militias in return for loyalty in service, many chose to align with
+the anti-establishment <I
+>mujahidin</I> instead, which themselves were not
+a homogenous group. Also notable was the increasing level of corruption in
+the Najibullah Government, where the practice of civil servants filling their
+own coffers with incoming Soviet aid, instead of redirecting it to the public,
+had become rampant. A financially crippled and militarily drained Najibullah
+was finally compelled to reach out to the UN to facilitate a political transition
+and in the process bring some semblance of peace and stability to Afghanistan.
+Rattled by the idea of a political reorganization taking place, the disparate <I
+>mujahidin</I> groups had begun to consolidate alliances of their own, with
+the aim of ousting the existing regime in Kabul. Fearing the fast-increasing
+levels of insurgent violence, Najibullah agreed to step down as President
+in early 1992 and, unable to flee the country, he took cover in the UN compound
+in Kabul. (In the end, however, Najibullah's fate was sealed when the Taliban
+stormed the UN facility in Kabul on 27 September 1996, mercilessly killing
+him and then parading his castrated body around the city to signal the beginning
+of a new era&amp;mdash;of the Islamic Emirate of Afghanistan.)</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>The Challenge of Assimilation and <I
+>Mujahidin</I> Rule, 1992&amp;ndash;96</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P24"
+>With the successful removal of Najibullah
+from power and the dismantling of the PDPA-regime that he had left behind,
+the <I
+>mujahidin</I> had proved their tenacity. With a power vacuum at the
+centre, three prominent <I
+>mujahidin</I> leaders in Afghanistan&amp;mdash;Masoud,
+Dostum and Kayani&amp;mdash;rallied their respective Tajik, Uzbek and Ismaili
+militias into one cohesive force and prepared to establish a base in Kabul.
+The other leading contender in the fight for political supremacy was Hekmatyar,
+joined by the radical Khalqis of the PDPA. However, it was Masoud&amp;rsquo;s
+coalition that emerged victorious in capturing Kabul and successfully warding
+off a takeover by Hekmatyar. Instead of dictating the constituents of the
+new transitional Government himself upon arrival in Kabul, Masoud thought
+it better to defer the task to the Pakistani-based parties, in order to avoid
+conflict on ethnic lines and possibly also to offer an olive branch to his
+staunch rival, Hekmatyar.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P25"
+>The Pakistani-based <I
+>mujahidin</I> parties,
+functioning as the Islamic Jihad Council (the advisory body for the newly
+formed Afghan Government), had been eyeing control of Afghanistan themselves.
+Given their lack of physical involvement in the war and the popular support
+that Masoud enjoyed, however, they had to settle for the power-sharing agreement
+brokered by Pakistan&amp;rsquo;s Prime Minister Nawaz Sharif on 24 April 1992,
+formally known as the Peshawar Accord. The agreement established a Transitional
+Council, with Prof. Sibghatullah Mojaddedi of the National Islamic Salvation
+Front as the head, and Rabbani set to take over from him after two months.
+Masoud was appointed as the Minister of Defence in the transitional Government,
+but Hekmatyar refused to accept the prime ministerial position that had been
+offered to him.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P26"
+>However, the apparent cohesiveness among
+the various elements of the transitional government did not last long, and
+the country fell deeper into chaos and despair. Atrocities committed upon
+the Afghan population increased, and lawlessness prevailed. Opium cultivation
+became the mainstay of the country&amp;rsquo;s economy, the profits from which
+were used generously to fund local criminal networks. Smaller militias and
+warlords, with their shifting allegiances, who were elevated to prominence
+during Najibullah&amp;rsquo;s reign, now became important actors in determining
+power dynamics at the national level. Some of the most formidable <I
+>mujahidin</I> militias in Afghanistan included the Ismailis in the north-east of the
+country led by the Naderis, Shi&amp;rsquo;a Hazaras from central Afghanistan,
+the Achakzai Pashtuns in Qandahar and the Herat-based militia led by Ismail
+Khan, who later aligned with the Jamiat-i-Islami leaders in Kabul. </P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P27"
+>Alliances between <I
+>mujahidin</I> groups
+were formed based on evolving personal rapports among the leaders, rather
+than based on ideological convergences, making defection from one group to
+another a regular practice. This was most frequently demonstrated by Dostum,
+who switched over to Hekmatyar&amp;rsquo;s side in January 1994, betraying his
+former allies, although their joint offensive proved ineffective in the face
+of a strengthened government force. Abdul Ali Mazari&amp;rsquo;s Hizb-i-Wahdat,
+mainly a Hazara resistance group, was also a part of the unsuccessful alliance
+with Hekmatyar. On the whole, however, there was a lack of agreement among
+the various warring factions about the form and membership of a future government.
+Furthermore, although most of the factions were capable of defending their
+respective regional strongholds, none was equipped sufficiently to dominate
+the others and declare themselves victorious. While Herat and the western
+provinces of Badghis, Farah and Ghor were held by Ismail Khan, the alliance
+of Dostum and Mazari&amp;rsquo;s Hizb-i-Wahdat ruled in the north. Masoud controlled
+Kabul and the north-east of the country. As for the smaller regional commanders,
+at no point did any of them claim complete independence, extending their support
+to either the Rabbani-Masoud grouping or to Hekmatyar. Although Rabbani remained
+the President of the Islamic State of Afghanistan from 1992 until 1994, his
+writ was limited to the areas directly under the control of his commanders,
+which in practice did not extend far beyond the palace in which he was residing.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P28"
+>For the four years that Afghanistan
+was ruled by the <I
+>mujahidin</I>, the country plummeted deep into anarchy,
+as a ruthless civil war gripped the nation. To put an end to protracted violence
+in Afghanistan, the UN Special Mission in Afghanistan attempted to facilitate
+a process of political reconciliation between the warring <I
+>mujahidin</I> in
+March 1994. However, even though the various Afghan factions had agreed to
+the formation of a well-represented central authority to oversee the settlement
+process, the initiative came to an abrupt halt in late 1994, with the Taliban
+takeover of the city of Qandahar.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>The Emergence of the Taliban Movement, 1994&amp;ndash;96</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P29"
+>The origins of the Taliban movement
+can be traced back to the <I
+>madrassas</I> (religious schools) in Pakistan
+in the 1980s, aided by the military regime of President Mohammad Zia-ul-Haq. <I
+>Talib</I> (Taliban being the plural) means &amp;lsquo;student&amp;rsquo; or &amp;lsquo;seeker
+of religious knowledge&amp;rsquo;. The <I
+>madrassas</I> were the only source of
+education to the millions of Afghan refugees who had escaped to Pakistan following
+the Soviet invasion of Afghanistan. Many such <I
+>madrassas </I>were operated
+by the Jamiat-e-Ulema-e-Islami (JUI) party of Pakistan, which as an institution
+was deeply opposed to a reformation or broadening of religious ideals and
+beliefs. That the <I
+>madrassas</I> provided free food and lodging to the students
+made the idea of them even more appealing to the refugees who were struggling
+to survive displacement and poverty. Most of the Taliban fighters in the early
+1990s were students recruited from such <I
+>madrassas </I>located in the Pashtun
+areas of Pakistan. In that regard, the Taliban movement was remarkably different
+from the leadership of the other Afghan <I
+>mujahidin</I> groups or parties,
+many of which comprised educated Muslims who had been involved in the political
+evolution of Afghanistan at various points in time.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P30"
+>Given the poor, mostly rural background
+of most of the movement&amp;rsquo;s constituency, the Taliban&amp;rsquo;s meteoric
+rise in the mid-1990s was astounding to many. However, at least three key
+factors can be identified. The first and possibly the most crucial factor
+was ideological and material patronage that the movement received from Pakistan.
+Not only did the Taliban leadership have close links with the religious parties
+in Pakistan (such as the JUI), but they also received arms and cash from them,
+which proved instrumental in helping the militant group to seize Qandahar
+in November 1994. The second important factor was factionalism among the existing
+Afghan <I
+>mujahidin</I>: no faction was able to command political legitimacy
+or to establish predominance militarily, or even willing to negotiate a compromise.
+The third key component of the Taliban&amp;rsquo;s rise was the ability of the
+movement&amp;rsquo;s leadership to give its followers a goal worth fighting for.
+The earlier interpretation of <I
+>jihad</I> waged by the <I
+>mujahidin</I> in
+the 1980s, premised on the idea of fighting an &amp;lsquo;infidel enemy&amp;rsquo;
+to protect Islam, had become redundant. Therefore, the Taliban, capitalizing
+on the power struggle among the Afghan <I
+>mujahidin</I> factions, indoctrinated
+their own followers with the idea of a &amp;lsquo;new&amp;rsquo; <I
+>jihad</I> that
+would put an end to the lawlessness that prevailed in Afghanistan at the time,
+as well as the suffering of the common people. Having lived a life of extreme
+hardship as refugees, the recruited youth bought into the Taliban ideology
+and became desperate to defeat the <I
+>mujahidin</I> outlaws and reclaim their
+place in the homeland. The largely tribal population of Afghanistan had also
+become disillusioned by the self-interested <I
+>mujahidin</I> groups in the
+country and looked to the Taliban as a far better alternative. The profusion
+of regional warlords, often engaged in internecine warfare and turpitude,
+brought willing cadres to the Taliban from across the predominantly Pashtun
+regions in the country. Little did Afghans realize that the Taliban&amp;rsquo;s
+initial campaign to restore law and order would be followed by the imposition
+of radical Islamist policies derived from a strict interpretation of <I
+>Shari&amp;lsquo;a</I> (Islamic law).</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P31"
+>Before capturing the city of Qandahar
+in November 1994, the Taliban, led by their founder and chief Mullah Omar,
+had attacked Hekmatyar&amp;rsquo;s weapons depot located at the border crossing
+of Spin Boldak, with operational support from the Pakistani military. Reportedly,
+they seized over 18,000 AK-47 rifles and other arms from the strategic post.
+Thereafter, the Taliban proceeded to Qandahar, where they are reported to
+have offered a large sum of money to the local commander, who then handed
+over control of the city to them without a fight. Such operational victories
+helped the Taliban to amass a considerable amount of weaponry, which added
+to their military strength, which was also being built up by generous material
+support from Pakistan. For its part, Pakistan arguably thought of the Taliban
+as its vehicle to acquire strategic depth within Afghanistan and a stable
+economic route to newly opened Central Asia. Within a few months of acquiring
+Qandahar, the Taliban had established control over about a dozen provinces
+in the southern part of the country, which was predominantly Pashtun, much
+like the Taliban's membership. Only after the movement had established a firm
+grip over a sizeable chunk of the country did it venture towards Kabul. Although
+Masoud and his fighters succeeded in pushing back the Taliban from the capital,
+and Ismail Khan foiled their attempts at capturing Herat, the Taliban wasted
+no time in gearing up for renewed, deadlier attacks in the future.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P32"
+>After Dostum defected to the Taliban
+in mid-1995 and brought with him a significant number of Uzbek <I
+>mujahidin</I> fighters who still pledged loyalty to him, the Taliban gained an competitive
+edge. Furthermore, strengthened by the generous military assistance provided
+by Pakistan, Saudi Arabia and Osama bin Laden (a Saudi-born millionaire and
+the spiritual leader of al-Qa&amp;lsquo;ida), who reportedly donated US&amp;nbsp;$3m.
+to the group, the Taliban became a force to be reckoned with. With the capture
+of the city of Jalalabad in September 1996, the Taliban had wiped out Hekmatyar&amp;rsquo;s
+stronghold in the east of the country, using the same tactics as in Qandahar:
+challenging the local factionalist commanders in exchange for surrender. Now
+adept at making political and strategic appeals to win over adversarial forces
+and the laity&amp;mdash;very often without any resistance from the opposite side&amp;mdash;the
+Taliban advanced towards Kabul. In anticipation of the approaching danger,
+Masoud abandoned Kabul to return to the Panjshir Valley in the north-east,
+leaving Kabul for the Taliban to take over. It is important to note, however,
+that Masoud did not crumble under pressure from the Taliban and instead went
+on to establish the anti-Taliban Northern Alliance, together with Rabbani,
+in late 1996. Switching sides yet again, Dostum too joined the Alliance, after
+the Taliban had captured Kabul. </P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>The Islamic Emirate of Afghanistan: The Taliban Years, 1996&amp;ndash;2001</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P33"
+>Soon after the Taliban captured Kabul,
+Mullah Omar convened a <I
+>shura</I> (council) comprising 1,200 members of
+the <I
+>ulema</I> (religious scholar community), who declared him as the <I
+>Amir-ul-Momineen</I> (Commander of the Faithful). In October 1997 Omar officially
+renamed the country as the Islamic Emirate of Afghanistan and took office
+as the head of state, although he was based in Qandahar. Rejecting the traditional
+Afghan system of governing through Loya Jirgas, Omar instead established two
+governing councils: the Inner Shura, which he led personally, and the Central
+Shura, which reported to Omar and was intended to manage civic administration
+and foreign relations. However, such an arrangement proved to be ineffective
+in administering the entire population in the long term and eventually gave
+way to an improved structure of administration in 1999. In the revised format,
+the Qandahar-based Inner Shura was retained as it was, but the Central Shura
+was dissolved in favour of separate ministries for each area of administration.
+Even so, the change proved merely symbolic as the Qandahar Shura continued
+to have the final say in all matters, and the ministers often found their
+decisions being dismissed or overturned.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P34"
+>By September 1996 the Taliban controlled
+some 70% of the entire Afghan territory, except the north, which was Masoud&amp;rsquo;s
+stronghold. To eliminate the looming threat of being attacked by the remaining <I
+>mujahidin</I> strongmen, the Taliban thought it best to go on the offensive
+and further consolidate their territorial reach. With the help of a defecting
+commander, the Taliban succeeding in forcing Bagram out of Masoud&amp;rsquo;s
+shadow. In the case of the city of Mazar-i-Sharif, a defecting local commander,
+Abdul Malik, facilitated the takeover by the Taliban. However, owing to a
+power struggle that ensued between Malik and the Taliban after the former&amp;rsquo;s
+defection, Malik switched back over, which forced the group to retreat from
+Mazar-i-Sharif after a number of its fighters were killed. In response to
+the humiliation suffered in Mazar-i-Sharif, the Taliban imposed a food blockade
+on the predominantly Hazara (an ethnic minority) population of the city, which
+threatened to drive them into mass starvation. In August 1998 the Taliban
+once again attempted to capture Mazar-i-Sharif, and this time they succeeded
+in the endeavour, unleashing a massacre on the Hazaras.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P35"
+>When the Taliban came to power, they
+were initially commended for the security that they provided, especially in
+regions that had only witnessed bloodshed, political rivalry, chaos and absolute
+lawlessness during the <I
+>mujahidin</I> years. Soon enough, however, the Taliban's
+radical religious and social policies based on <I
+>Shari&amp;lsquo;a</I>, and often
+inspired by the <I
+>pashtunwali</I> (the tribal code of the Pashtuns), began
+to alienate the non-Pashtun population. Religious and ethnic minorities such
+as the Hazaras and other Shi&amp;rsquo;a communities were regularly persecuted.
+Opium cultivation and related trade underscored the Taliban&amp;rsquo;s activities,
+some of the profits from which were reportedly distributed among criminal
+networks. Taliban policies towards the female population were particularly
+severe, given that they banned women from engaging in employment outside of
+their homes and eliminated the two key sectors that women were most integral
+to: education and health care. Some of the offences that warranted corporal
+punishment&amp;mdash;in some cases taking the form of public executions in stadiums&amp;mdash;were
+homosexuality and adultery. Men who failed to keep long beards in keeping
+with the Taliban directive were gaoled and all forms of entertainment were
+banned. Symbols of modernity and socioeconomic progress were vehemently condemned
+by the Taliban, as they associated modern values with imperialist forces like
+those of the British and the Russians, which had invaded Afghanistan at different
+points in time. Ancient archaeological structures and artefacts were not spared
+either; notably the Taliban destroyed the ancient Buddha statues at Bamian
+in February 2001, in the name of protecting Afghans from falling prey to idolatry.
+Similarly to contemporary Saudi Arabia, the Taliban established the Ministry
+for the Propagation of Virtue and Suppression of Vice, which was to ensure
+compliance with the strict laws of the group and inflict severe punishments
+on those who failed to obey.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P36"
+>While the Taliban regime had come to
+be widely criticized by certain sections of the population in Afghanistan,
+internationally it was also unable to secure diplomatic recognition and hence
+faced isolation by most countries. In fact, apart from Pakistan, Saudi Arabia
+and the United Arab Emirates (UAE), no other country ever officially recognized
+the Taliban as the legitimate ruling authority of Afghanistan, although some
+nations, and a few international corporations, dealt with them indirectly.
+Allegedly, the Taliban&amp;rsquo;s military assistance to Central Asian rebels
+and Islamist fighters from the Xinjiang region of China, by way of providing
+moral support and training, had destabilized large parts of the region and
+further alienated Iran, the Russian Federation and China. In particular, the
+Islamic Movement of Uzbekistan&amp;mdash;a violent, anti-Government force&amp;mdash;had
+also been allowed to set up a base in northern Afghanistan, which spurred
+radicalization in the Central Asian republic. The Taliban&amp;rsquo;s extensive
+involvement with radical elements from foreign countries indirectly inspired
+disaffected Muslim youths, including converts to the religion, all around
+the world to take up <I
+>jihad</I> in the name of an Islamic revolution.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P37"
+>The global isolation of the Taliban
+was underscored by Omar&amp;rsquo;s increasing proximity to bin Laden, the leader
+of al-Qa&amp;lsquo;ida. After orchestrating attacks against US troops in Saudi
+Arabia and Somalia, bin Laden had been expelled from Sudan in May 1996, which
+led him to seek refuge in Afghanistan. By establishing solid ties with the
+Taliban, as a result of taking Omar&amp;rsquo;s daughter as one of his wives,
+bin Laden was able to set up an al-Qa&amp;lsquo;ida base in the country. This
+association bestowed a significant amount of prestige and moral validation
+upon bin Laden in the eyes of fellow Islamist fighters across the globe, since
+Omar commanded respect as the <I
+>Amir-ul-Momineen</I> of the Islamic world.
+During the Taliban's reign of Afghanistan, it is estimated that al-Qa&amp;lsquo;ida
+was able to train no less than 11,000 fighters in the country, several of
+whom were involved in the terrorist attacks on the USA in September 2001.
+In return, al-Qa&amp;lsquo;ida offered the Taliban assistance in terms of training,
+a ready supply of radicalized fighters and other services, including the assassination
+of key Afghan figures who opposed Taliban rule. The relationship between the
+two Islamist groups was therefore one of mutual benefit.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P38"
+>However, the Taliban's relationship
+with al-Qa&amp;lsquo;ida soon started becoming problematic. After al-Qa`ida bombed
+US embassies in Kenya and Tanzania in August 1998, claiming many lives in
+the process, the Administration of the US President Bill Clinton unleashed
+targeted cruise missile attacks on al-Qa&amp;lsquo;ida&amp;rsquo;s strategic bases
+in Khost, Afghanistan. Saudi Arabia also reacted strongly against the Taliban,
+when the latter refused to extradite bin Laden upon a Saudi request to do
+so. India also felt aggrieved by the Taliban, when the group assisted al-Qa&amp;lsquo;ida
+in negotiating the release of jihadist fighters from Indian prisons, in exchange
+for the release of civilian passengers on board an Indian Airlines flight
+that al-Qa&amp;lsquo;ida hijacked in September 1999. Owing to the self-inflicted
+threat of increased radicalization emanating from the <I
+>madrassas</I> operating
+in Afghanistan, the Pakistani Government also felt hesitant about continuing
+its proximity with the Taliban. Several years of economic stagnation, coupled
+with US sanctions imposed in response to nuclear tests undertaken by the country
+in 1998, only added to Pakistan&amp;rsquo;s reluctance in sustaining the lines
+of credit to the Taliban&amp;mdash;a provision that had been partly responsible
+for the group&amp;rsquo;s rise to supremacy in the first place. Operationally,
+however, the decisive blow to the Taliban came after al-Qa&amp;lsquo;ida terrorists
+successfully executed attacks on the World Trade Center in New York and the
+Department of Defence (&amp;lsquo;the Pentagon&amp;rsquo;) in Washington, DC, in September
+2001 after hijacking civilian airliners, killing almost 3,000 civilians. It
+was the last straw for the USA, which had thus far refrained from deploying
+troops on the ground to fight the terrorists in Afghanistan, but was now prepared
+to launch a concerted global &amp;lsquo;war on terror&amp;rsquo; against some of those
+Afghans who had been its allies against the former Soviet Union during the
+1980s.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P39"
+>The USA&amp;rsquo;s counter-terrorism campaign,
+code-named &amp;lsquo;Operation Enduring Freedom&amp;rsquo;, garnered the support
+of most of the countries that felt threatened by the Islamist forces in Afghanistan.
+Pakistan too, under President Pervez Musharraf, pledged support for the US
+effort, wanting to distance Pakistan from the Taliban, which was now the object
+of international contempt. After the Taliban refused two significant US requests&amp;mdash;to
+hand over the mastermind of the terrorist attacks against the USA and to prevent
+Afghanistan from being used as a sanctuary for Islamist terrorists&amp;mdash;the
+USA was left with no option but to enter the battlefield itself. US aircraft
+began to bombard Taliban and al-Qa&amp;lsquo;ida positions in Afghanistan from
+early October 2001, while US special forces were deployed on the ground and
+persuaded anti-Taliban tribal militias to fight alongside them. In November
+some 3,000 troops drawn from NATO member states joined the USA&amp;rsquo;s war
+effort. The USA began to provide financial and military assistance to the
+anti-Taliban Northern Alliance, which also received material support from
+Russia. A militarily bolstered Northern Alliance succeeded in seizing Herat,
+Mazar-i-Sharif, Jalalabad and even Kabul from the Taliban, forcing it to retreat
+south. With the signing of the Bonn Agreement in Germany in December, Taliban
+rule over the country officially came to an end, and Omar surrendered his
+remaining fighters to local commanders, eventually making his own escape to
+Pakistan. Most of al-Qa&amp;lsquo;ida&amp;rsquo;s cadres and resources had been eliminated
+by the coalition forces. As for the political future of Afghanistan, the Agreement
+authorized the setting up of a six-month interim government that would oversee
+the functioning of the country until domestic conditions were conducive for
+elections to be held. Hamid Karzai was appointed as the Interim President
+of the Afghan Transitional Administration.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>The Karzai Years: Challenges of Reconstruction and Insurgency, 2001&amp;ndash;14</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P40"
+>In the absence of functioning government
+machinery, the establishment of the Transitional Administration agreed upon
+at the Bonn Conference was an important reconstruction imperative for the
+USA and its allies. The Kabul-based interim Government, with Karzai as its
+head, received recognition from most quarters internationally. Almost six
+months after the Transitional Arrangement was appointed, a Loya Jirga was
+convened in Kabul in June 2002, where Karzai was elected as the President
+of the interim Government almost unopposed, as the two other contenders, former
+King Zahir Shah and Rabbani, had rescinded their candidatures. The Loya Jirga
+was ethnically and regionally well represented, with some 1,450 delegates
+drawn from all the existing administrative divisions, and Karzai received
+a warm welcome by the public at large. To emphasize the inclusivity of the
+new interim administration, Karzai promptly appointed a 35-member Constitutional
+Commission, which included six women. The draft Constitution presented by
+the Commission was ratified by another Loya Jirga in January 2004, which in
+effect gave birth to the Islamic Republic of Afghanistan, where freedom of
+religion was guaranteed and the pronounced official role of the clergy became
+minimal. Together with a strong presidency, the Constitution also provided
+for a bicameral National Assembly, comprising the upper house (Meshrano Jirga),
+and the lower house (Wolesi Jirga), which was to be elected by the people.
+Upholding the Afghan tradition of locally organized administrative units,
+the Constitution also mandated the election of provincial, urban and local
+councils. Presidential elections were successfully conducted with help from
+the UN on 9 October 2004, with some 25,000 polling stations for people to
+cast their vote in Afghanistan, as well as in the Afghan refugee camps in
+Pakistan and Iran. Winning by a clear margin, Karzai was officially elected
+as the President on 7 December, beginning his first term amid great enthusiasm.</P><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Internal Weaknesses</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P41"
+>Although the formation of the new Government
+was a respite from the political chaos and drama that Afghanistan had witnessed
+over the previous three decades, Karzai proved unable to consolidate power.
+Instead of building a centralized government, Karzai appointed familiar regional
+warlords in key portfolios, including senior positions in the military, presumably
+in the hope of co-opting them. For instance, Masoud&amp;rsquo;s successor Mohammad
+Qasim Fahim was appointed as the defence minister, while Dostum, who had become
+infamous for his shifting allegiances, was awarded a senior commanding position
+within the military. Resources were also distributed based on personal relationships
+rather than merit or a legitimate mandate. Charges of rampant corruption and
+maladministration had begun to be levelled against Karzai&amp;rsquo;s model of
+administration. Given the weak central structure, the Government could not
+ensure physical and economic security much beyond Kabul, especially in the
+rural parts of the country, which constituted the majority of the territory
+and population. The Government&amp;rsquo;s heavy reliance on international donors
+to fund even the most rudimentary infrastructure projects such as schools
+and hospitals further diminished the establishment&amp;rsquo;s political legitimacy
+in the eyes of ordinary Afghans. Moreover, as the financial backers of the
+projects, international partners dictated development priorities rather than
+the Government, which resulted in a stark disconnect between the results achieved
+and Afghans' aspirations. The post-2001 political reorganization therefore
+highlighted an inherent contradiction at play in Afghan society: although
+devolved political power was not able to bring security and economic progress
+to the people, heavily centralized authority could also not have served the
+purpose, as regional autonomy and political participation were widely desired
+ideals. In addition, the US-led military campaigns across the country, including
+night raids, deportations, and internments at Bagram Air Base and Guant&amp;aacute;namo
+Bay, in Cuba, engendered serious questions about the legitimacy and efficacy
+of the Karzai administration. Karzai often found himself torn between ethnic
+loyalties, national imperatives and Western prerogatives, exacerbating ill
+will on all sides.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P42"
+>While the Afghan Government&amp;rsquo;s
+economic and strategic dependence on foreign actors arguably detracted from
+the regime&amp;rsquo;s legitimacy and authority to govern, most Afghans no longer
+resisted an international military presence in the country. Foreign powers
+were, in fact, thought of as a bulwark against the depredations of local warlords.
+An important expectation from the foreign forces in Afghanistan was that of
+providing security to the people. In the immediate period after defeating
+the Taliban, however, international troops were few in number and were largely
+deployed in the southern and eastern parts of the country, to eliminate the
+residual presence of the Taliban and al-Qa&amp;lsquo;ida. The USA had explicitly
+proclaimed a &amp;lsquo;light footprint&amp;rsquo; strategy for its military presence
+in Afghanistan, as the majority of its forces needed to be deployed in Iraq
+(after the USA had invaded and occupied that country in 2003). Meanwhile,
+the role of the NATO-mandated International Security Assistance Force (ISAF)
+was limited to protecting Kabul. It was only with the approaching Afghan presidential
+elections in 2004 that the USA and NATO reinforced their deployments in Afghanistan.
+In terms of financial aid, although Afghanistan was promised some US&amp;nbsp;$10,000m.
+in aid for the initial years of reconstruction and another $14,000m. for the
+2005&amp;ndash;11 period, many pledges never materialized, and most aid was distributed
+by circumventing official government channels. Furthermore, infrastructure
+projects failed to meet the expectations of job creation, as most of the initiatives
+were completed unilaterally by foreign actors, without the involvement of
+Afghans. The deployment of provincial reconstruction teams by the international
+coalition forces in 2003, which were meant to ensure security while promoting
+provincial administration and development, also proved to be inadequate in
+achieving their fundamental objective.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P43"
+>By 2005, soon after the successful execution
+of the presidential elections, the USA was preparing for a reduced military
+presence in Afghanistan. With the knowledge that it had achieved the decimation
+of Taliban and al-Qa&amp;lsquo;ida forces in the country, the USA considered that
+it had accomplished its mission. However, the situation on the ground in Afghanistan
+did not warrant such a drawdown of foreign troops. Insecurity was rising,
+given the unchallenged domination of regional warlords and the inability of
+Karzai's Government to control the rebels or instil confidence in the people.
+The Government, facing serious corruption charges, had been unable to deliver
+even basic amenities such as electricity, potable water and public transportation
+to the people, let alone security. Against this background, Taliban forces,
+which had been growing in numbers and strength in Pakistan after being expelled
+from Qandahar in 2001, found the perfect opportunity to re-emerge in Afghanistan,
+in an even deadlier shape than before. With the threat of resurgent Taliban
+violence looming, US and NATO forces were compelled to increase their military
+footprint in the country.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Taliban Resurgence</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P44"
+>After initially being routed from their
+strategic bases in southern Afghanistan in 2001, the majority of the leaders
+of the Taliban and al-Qa&amp;lsquo;ida had taken up residence in Pakistan, specifically
+in the Federally Administered Tribal Areas or the North-West Frontier Province,
+both of which are predominantly Pashtun regions. The two bodies had begun
+to regroup as early as 2003, although clear manifestations of their resurgence
+were only visible by 2004&amp;ndash;05, as attempts were made by the Taliban,
+albeit unsuccessfully, to disrupt the presidential and parliamentary elections
+held during that time. It is no surprise therefore that when the Taliban returned
+to Afghanistan, it first sought a foothold in the primarily Pashtun provinces
+such as Qandahar, Helmand, Zabul, Paktia and Paktika, all of which are predominantly
+Pashtun and border Pakistan. Unlike in the 1990s, the Taliban now adopted
+more sophisticated tactics to assert themselves militarily, making suicide
+attacks and improvised explosive device blasts the &amp;lsquo;new normal&amp;rsquo;
+in Afghanistan, inspired by the Iraq insurgency. In 2006 there was reportedly
+an increase of some 200% in insurgent violence across the country, compared
+with the previous year. It was also reported that the Taliban was working
+in loose co-ordination with other insurgent groups in the country, collectively
+mounting attacks on the Afghan Government and coalition forces. Other than
+the Taliban, major insurgent groups included Hekmatyar&amp;rsquo;s Hizb-i-Islami
+and the Haqqani network, led by Jalaluddin Haqqani, which were reputedly engaged
+in narcotics trafficking to fund their respective activities. Al-Qa&amp;lsquo;ida
+cadres were also reported to be fighting alongside the Taliban from 2009 onwards,
+although operations by NATO special forces had greatly diminished the former
+group&amp;rsquo;s outreach and following.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P45"
+>Further exacerbating the security situation
+was the deliberate strategy of the Taliban to attack international aid workers
+and non-governmental organization (NGO) staff working on social and economic
+rehabilitation programmes in Afghanistan. Although the practice of attacking
+foreign humanitarian aid workers was evident even in 2003, by 2005 the Taliban
+had made it an integral component of its insurgency, issuing a <I
+>fatwa</I> (religious
+pronouncement) to destroy all symbols and people associated with foreign occupation
+in Afghanistan, even if non-violent. As a result, most international aid organizations
+began to reduce their presence in the southern and eastern parts of the country,
+where the Taliban were most influential, which were also the areas that required
+the most rebuilding and assistance and were primarily inhabited by Pashtuns.
+Taking advantage of these developments, the Taliban endeavoured to shift Pashtun
+public opinion in favour of their idea of <I
+>jihad</I> and created an overarching
+narrative that portrayed foreign forces not only as enemies of Afghanistan
+and Muslims, but also of Pashtuns in particular. The US-led invasion of Iraq
+and the decimation of its infrastructure, followed by the Sunni&amp;ndash;Shi&amp;rsquo;a
+conflict, further supported the Taliban&amp;rsquo;s attempts to persuade Afghans
+of their commitment to Islam. By 2005, riding on the wave of minor victories
+in the southern provinces, the Taliban had begun to establish their own &amp;lsquo;shadow
+governments&amp;rsquo; and courts at district and provincial levels, in the areas
+that they had gradually come to control.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P46"
+>Taliban violence, often described by
+them as resistance against non-Muslims in a Muslim country, escalated throughout
+the first decade of the 21st century. The deterioration of the security situation
+was attributed to the Taliban&amp;rsquo;s focus on attacking hitherto stable neighbourhoods
+and cities and the use of sophisticated tactics and weapons by the insurgents,
+which resulted in an increase in civilian deaths. Despite a number of international
+conferences and conventions held during the period, such as the 2008 Paris
+Conference in Support of Afghanistan, which launched the Afghanistan National
+Development Strategy and pledged US&amp;nbsp;$21,400m. on behalf of the international
+community, insurgent violence overshadowed all aspects of governance and development.
+An increased presence of the UN Assistance Mission in Afghanistan, which was
+agreed upon at an international conference on Afghanistan held at The Hague,
+Netherlands, in March 2009, did not succeed in achieving peace or advancing
+the reconstruction agenda in the country either.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P47"
+>Afghanistan&amp;rsquo;s descent into a reinvigorated
+insurgency was due not only to remnants of the Taliban and al-Qa&amp;lsquo;ida
+festering in the region, but more importantly driven by a severe lack of central
+control over the countryside, the grossly inadequate military reach of the
+foreign forces and the inability of the Government in Kabul to deliver economic
+development and reform, in keeping with the expectations of the people. The
+population in the Pashtun provinces had been particularly disillusioned with
+Karzai&amp;rsquo;s Government for not protecting them from the depredations of
+local insurgents and warlords, even after the fall of the Taliban. Furthermore,
+defining their campaign as one of &amp;lsquo;counter-terrorism&amp;rsquo; rather than
+&amp;lsquo;counter-insurgency&amp;rsquo;, the US special forces in Afghanistan were
+apparently inflicting more damage on local infrastructure and institutions
+than the reconstruction efforts could offset.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>International Stakeholders and Shifting Priorities</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P48"
+>Under newly elected President Barack
+Obama, the US Administration marked a significant shift in its Afghanistan
+policy in early 2009. Among other developments, the USA now became a vocal
+critic of the institutional and functional weaknesses of the Karzai Government
+and realized that insecurity in Afghanistan was closely linked to patronage
+networks in Pakistan. In keeping with the stated commitment of promoting democracy
+in Afghanistan, the USA refrained from replacing Karzai with an appointment
+of its own and instead supported the organization of a presidential election
+in August 2009. However, the poll was undermined by countless complaints of
+fraudulent practices such as proxy voting, underage voting and other irregularities,
+which were reported to the Independent Election Commission (IEC) and the Electoral
+Complaints Commission, leading to a recount of votes in the following month.
+Arriving at the conclusion that neither of the two presidential contenders&amp;mdash;Karzai
+and Abdullah Abdullah, a key Jamiat-i-Islami leader&amp;mdash;had secured over
+50% of the votes, a second round of voting was announced. As Dr Abdullah had
+made his participation in the second round of voting conditional upon certain
+demands vis-&amp;agrave;-vis the constitution of the IEC, he chose to rescind
+his candidacy when the demands were not fulfilled. On 2 November 2009 the
+IEC announced that Karzai had been re-elected as President. However, Karzai&amp;rsquo;s
+image as a weak and corrupt political leader in the eyes of the Afghan people,
+as well as the international community, remained unchanged.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P49"
+>Regardless of the outcome of the disputed
+presidential elections, the Obama Administration continued to prioritize Afghanistan
+in its new foreign policy agenda and adopted a new military strategy with
+greater dependence upon drone aircraft to eliminate Taliban cadres and supply
+lines. Responding to reports of increasing levels of insurgent violence, in
+February 2009 President Obama ordered the deployment of another 17,000 US
+troops to Afghanistan. The increased military presence was intended to oversee
+the smooth execution of presidential elections and reinvigorate the US counter-insurgency
+campaign in the country. By December 2009 another 30,000 US troops were sent
+to Afghanistan, bringing the total number up to about 100,000. Another key
+decision regarded the expansion of the Afghan army and police. From the target
+of installing 80,000 troops in the army, the number was now fixed at 134,000
+troops, with a projected expenditure of US&amp;nbsp;$10,000m. until 2014. Furthermore,
+the new US strategy for Afghanistan also reflected the widespread concerns
+about rampant corruption in the Karzai administration. However, the USA also
+feared that any drastic reformation of the government machinery would cause
+it to fall apart, leading to an even more disillusioned electorate. A noteworthy
+break from the past was exemplified in the revised US strategy of dealing
+with the Taliban, which now focused on empowering local leaders and possibly
+arming small militias against the Taliban, even as the proposal sparked fears
+of a new civil war erupting in the country. The year 2009 was declared as
+the most violent year in Afghanistan since the fall of the Taliban in 2001.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P50"
+>The International Conference on Afghanistan
+held in London, UK, in January 2010 marked an important milestone for the
+evolving political and security situation in Afghanistan. In keeping with
+pledges made during President Karzai&amp;rsquo;s first public speech after securing
+a second presidential term in 2009, the Conference laid the foundation for
+foreign forces to gradually withdraw from the country, leaving Afghanistan
+to be governed by its own people. Moreover, the Conference sought to provide
+a framework for reconciliation with those insurgents who were willing to renounce
+violence and accept the Government as a legitimate authority. The Consultative
+Peace Jirga convened by President Karzai in June 2010 was held as a result
+of a consensus arrived at in London, which was further reaffirmed by the international
+community at the Kabul Conference in July. The Consultative Peace Jirga also
+launched the Afghanistan Peace and Reintegration Programme, which aimed to
+create a socioeconomic environment conducive to conflict transformation and
+the integration of deradicalized belligerents into the mainstream. Another
+significant step that built on the reconciliation agenda of President Karzai
+was the formation of the High Peace Council to promote peace and national
+unity throughout the country. Members of the Council regularly travelled to
+countries in the neighbourhood and beyond, in order to cultivate support for
+an Afghan-led peace process.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P51"
+>As mandated by the London conference
+and reaffirmed in successive meetings with the Afghan Government, President
+Obama announced that the additional US forces that had been deployed in 2009
+would be withdrawn by 2014, cutting the US military presence in the country
+by about one-third. Stating that the primary objective of the US mission in
+Afghanistan had been largely achieved, and that the latter no longer posed
+a threat to US security, he affirmed that the withdrawal would continue in
+a steady manner until security operations were handed over to Afghan forces
+by the end of 2014. The US-Afghanistan Strategic Partnership Agreement, signed
+by President Obama and President Karzai on 1 May 2012, provided for the possibility
+of a continued, albeit limited, US presence in Afghanistan for a period of
+10 years after the withdrawal of combat forces in 2014, essentially to train
+Afghan forces and to target the remaining militants running the insurgency.
+Although the Agreement did not specify the number of US troops to be maintained
+in Afghanistan, it committed the Governments of the USA and Afghanistan to
+negotiate the renewal of the Bilateral Security Agreement (BSA), in order
+to decide the exact means of engagement. Similarly, at a NATO summit in Lisbon,
+Portugal, in November 2010, representatives of the bloc had agreed to implement
+a phased transfer of security responsibility to the Afghan Government by 2014,
+with the latter gearing up to assume full control of and responsibility for
+the national security and development agenda. In the meantime, NATO undertook
+the responsibility of training the Afghan police and armed forces to enable
+them to shoulder security responsibility around the country, but the Taliban
+also increased its efforts to influence trainees with its own discretionary
+propaganda.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P52"
+>The emerging consensus on the withdrawal
+of foreign forces notwithstanding, the security situation in Afghanistan continued
+to deteriorate. Together with an increase in the frequency of assassinations
+and lethal indiscriminate bomb attacks, the human cost of the war had also
+come to include grave violations committed against civilians in the wake of
+multiple aerial attacks with drones. There were also reports of children being
+lured into carrying explosives unknowingly and thereby committing suicide
+attacks on behalf of Islamist insurgents. Another key development on the security
+front was the assassination of the head of the High Peace Council (and former
+President) Rabbani in September 2011, by a suicide bomber posing as a Taliban
+envoy. Rabbani&amp;rsquo;s assassination certainly undermined the tentative spirit
+of reconciliation nationwide. A second Bonn Conference, held in December,
+none the less succeeded in resurrecting the peace agenda and also included
+proposals about the Taliban opening a diplomatic office to conduct formal
+negotiations with the Afghan Government.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P53"
+>The Taliban officially opened their
+first representative office in Doha, Qatar in June 2013, but the event prompted
+consternation on the part of the Karzai Government, as the signage outside
+the premises, which had attracted much international media attention upon
+its inauguration, was the office of the &amp;lsquo;Islamic Emirate of Afghanistan&amp;rsquo;;
+in addition, the flag of the Taliban flew over the building. Another point
+of contention was a press release issued by the Taliban soon after the opening
+of the Doha office, stating that it would engage in building diplomatic ties
+with other countries before negotiating a settlement with the Afghan Government.
+As a result, Karzai postponed the scheduled talks with the insurgent group,
+describing the Taliban&amp;rsquo;s move as an attempt to establish a government-in-exile,
+while according peripheral importance to the Afghan Government. This led to
+the Taliban closing down the office temporarily. Karzai also suspended the
+high-level negotiations on renewing the BSA with the USA, citing concerns
+that the USA had not delivered on the promise of promoting Afghan-led peace
+talks and had not achieved substantial progress in economic reconstruction
+and overall security. Karzai&amp;rsquo;s refusal to sign the agreement that sought
+to provide an expanded bilateral security framework not only strained US-Afghan
+ties under the Obama Administration, but also aggravated security concerns
+within Afghanistan. Western Governments seemed to have lost patience with
+Karzai amid growing violence, a profusion of white-collar corruption and pervasive
+war fatigue.</P></GEN-SECTION></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>The National Unity Government of Ashraf Ghani and the Return of the
+Taliban, 2014&amp;ndash;</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P54"
+>Even as uncertainty continued to characterize
+most spheres of governance and life in Afghanistan, and insurgent violence
+continued unabated, presidential elections were held as planned, on 5 April
+2014. Despite dire warnings&amp;mdash;primarily from the Taliban and Hizb-i-Islami&amp;mdash;threatening
+Afghans with dire consequences if they voted in the polls, the turnout exceeded
+expectations. Once again, as neither of the two leading candidates, Dr Abdullah
+and Ghani, secured more than 50% of the votes, a second round of voting took
+place on 14 June. As soon as the IEC announced that about 7m. voters had participated
+in the election, Dr Abdullah contested the result, claiming massive electoral
+fraud, and demanded an audit of the votes cast. As the audited results were
+still unacceptable to Dr Abdullah, a more comprehensive audit of polling stations
+was conducted by the IEC, supported by the UN and supervised by both contenders&amp;rsquo;
+camps. Dr Abdullah and Ghani engaged in a dialogue to outline a political
+framework for the soon-to-be established government, in which both agreed
+to form a unity government and supported the creation of the position of Chief
+Executive of the Government&amp;mdash;a position not recognized by the Constitution,
+but with the understanding that the Constitution would be revised and a post
+of Prime Minister established. On 21 September 2014, amid protests in Qandahar
+against the formation of a unity government, Ghani was declared President
+in the first peaceful transfer of power among elected representatives in Afghan
+history in a popularly contested poll, while Dr Abdullah was appointed as
+Chief Executive.</P><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>President Ghani&amp;rsquo;s Reform Agenda</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P55"
+>As soon as President Ghani assumed office,
+he proclaimed a robust agenda of multi-sectoral reform as the first order
+of business. His initial efforts included a streamlining of the administrative
+machinery and working towards improved co-ordination among official agencies
+to target widespread corruption&amp;mdash;an enduring legacy of the previous regime.
+Although a few experienced figures were appointed to key portfolios, President
+Ghani ensured that no former or serving ministers were included in the new
+cabinet. Ghani attempted to make up for a delay in cabinet appointments by
+charging the ministers with the formulation of policies that they intended
+to implement in the first 100 days in office, which were thereafter pronounced
+publicly to build popular confidence in the political leadership, so that
+they could be held accountable for their actions, or lack thereof. Instilling
+the idea of mutual accountability between the provincial councils and municipal
+authorities was also made an indispensable objective. The reform agenda extended
+to the judiciary and included a comprehensive review of the credentials of
+existing staff and the establishment of a special court to review the cases
+of political officials who had been charged with corruption and financial
+fraud. Ghani also reopened an embezzlement case relating to the privately
+owned Kabul Bank in 2010, in which some US&amp;nbsp;$1,000m. worth of foreign
+aid went missing, and organized for a public trial to be held for the suspected
+perpetrators of the fraud. Such measures instilled a cautious optimism among
+people in urban Afghanistan, along with greater receptivity in the Western
+regimes, yet rural and tribal Afghans continued to hold scepticism, given
+that the Taliban continued to administer some regions as a type of parallel
+administration. The Taliban&amp;rsquo;s survival and even return despite a decade-long
+campaign to the contrary began to find more listening ears in rural areas,
+where economic underdevelopment and anger at drone strikes tempered any optimism
+about the Ghani-Abdullah regime.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P56"
+>Although Afghanistan was traditionally
+a subsistence economy, President Ghani strongly believed that in future, the
+country&amp;rsquo;s economic progress would be closely tied to regional trade
+and transit co-operation. So, while he sought to overhaul the public finance
+management system domestically, he also committed Afghanistan to important
+transcontinental connectivity ventures such as the Turkmenistan&amp;ndash;Afghanistan&amp;ndash;Pakistan&amp;ndash;India
+gas pipeline project and the Five Nations Railway Corridor (crossing China,
+Kyrgyzstan, Tajikistan, Afghanistan and Iran), calling the &amp;lsquo;cluster
+approach to infrastructure&amp;rsquo; the future of co-operation. President Ghani,
+together with Chief Executive Dr Abdullah, leveraged the Regional Economic
+Cooperation Conference on Afghanistan, which had been initiated in Kabul in
+2005 and convened frequently thereafter, as a platform to rally regional support
+for a collective approach to economic growth, investment and development in
+Afghanistan. The formation of the National Procurement Board allowed the Government
+to make payments judiciously for the implementation of public projects aimed
+at domestic infrastructure development, unlike the previously arbitrary way
+of allocating resources.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P57"
+>Given widespread discontent with electoral
+malpractice and fraud surrounding most polling, electoral reform constituted
+another key component of President Ghani&amp;rsquo;s political mandate. The Government
+began this process by establishing a Special Commission on Electoral Reform
+in 2015, which was responsible for making recommendations to the President
+on potential reforms for the electoral system and dispute settlement mechanisms,
+as well as the management of electoral bodies. To further strengthen the integrity
+of government institutions in the eyes of the public, Ghani ordered the creation
+of a new IEC and an independent Electoral Complaints Commission. Some of the
+other important electoral reforms implemented by Ghani included the establishment
+of polling centres throughout the country to promote voter accessibility and
+the use of biometric voter verification machines. Even though progress on
+electoral reform was often marked by slow decision-making and hampered by
+insurgent attacks on polling facilities, Ghani&amp;rsquo;s genuine commitment
+to reforming the electoral system was encouraging.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>External Military Assistance and Domestic Chasms</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P58"
+>Ghani&amp;rsquo;s election as President
+marked a striking shift in the way that Afghanistan portrayed itself to the
+outside world, particularly on the matter of receiving development and security
+assistance. Whereas Karzai had been widely associated with entrenched corruption,
+erratic decision-making and unreliable governance, Ghani came across to the
+international community as much wiser and more pragmatic. An important manifestation
+of international confidence in Ghani as a responsible recipient of aid was
+the signing of the New Development Partnership Agreement with the USA in March
+2015, wherein the USA pledged aid worth US&amp;nbsp;$800m. to promote sustainable
+economic reform in Afghanistan. </P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P59"
+>On security too, shortly after taking
+office, in September 2014 President Ghani signed the BSA agreement with the
+USA and a &amp;lsquo;status of forces&amp;rsquo; agreement with NATO in December,
+in effect giving assent to a continued international military presence and
+foreign assistance after most US troops had departed in 2014. As a result,
+the complete withdrawal of ISAF troops and the end of NATO&amp;rsquo;s combat
+mission in Afghanistan, which was completed on 31 December 2014 in accordance
+with the 'status of forces agreement', was followed by the arrival of the
+NATO-led Resolute Support Mission on 1 January 2015, with a limited mandate
+to train, advise and assist the Afghan Government and the Afghan forces in
+their counter-insurgency efforts. However, the process of withdrawal of US
+forces was more complicated. Although President Obama had committed to bring
+the number of US troops down to 9,800 by the beginning of 2015, which was
+to be halved by the end of that year, the decision was reversed later in the
+year, after Obama cited a longer military presence (until the end of 2017)
+as vital for both US and Afghan security, even though the USA&amp;rsquo;s combat
+mission in Afghanistan was over.</P><P
+>Ghani&amp;rsquo;s dependence on Western security forces and external imperatives
+would often hinder his own initiatives, which aimed to achieve greater national
+consensus and regional co-operation; the USA and the EU often prioritized
+the elimination of the Taliban opposition, placing the Ghani regime in a precarious
+situation. His Government, like that of Karzai, was confronted with this balancing
+act, and early optimism soon gave way to a growing disillusionment. Hasty
+retribution after sporadic attacks by Afghan trainees against their Western
+mentors and supervisors only helped the Taliban to portray the latter as enemies
+of Islam and Afghanistan. The Taliban&amp;rsquo;s armed campaigns, while it concurrently
+operated a diplomatic office in Doha, boosted its profile and gradually demoralized
+the pro-Ghani elements in Kabul, Herat, Kunduz and elsewhere. It appeared
+as if the Qandahar Shura and the Taliban leadership in Quetta and Qatar held
+the de facto power as they challenged the remit and authority of the Kabul
+regime.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P60"
+>However, conflict continued unabated
+throughout 2017 and well into 2018 and 2019, and attacks actually increased
+in frequency and intensity. In line with the strategy devised for their spring
+offensive, Operation Mansouri, which began in April 2017, the Taliban maintained
+its stronghold of the southern provinces, while making a strategic advance
+to the north. Dismissing government efforts to engage in direct talks in 2018,
+the Taliban increasingly targeted urban areas and district administrative
+centres. As a result, the Government deployed Afghan National Security and
+Defence Forces (ANSDF) to the north of the country, which led to a dramatic
+increase in clashes with the Taliban, damaging strategic lines of communication
+and other vital infrastructure. While taking stock of the worsening security
+situation, particularly rising civilian casualties, NATO announced an increase
+in troops for its Resolute Support Mission to extend until the end of 2020.
+The newly elected US President Donald Trump made a similar announcement in
+August 2017, indicating a change in the strategy of military engagement, which
+entailed increased air operations in co-ordination with the ANSDF. Furthermore,
+the US Secretary of Defence James Mattis announced the deployment of an additional
+3,000 troops in September, taking the total tally of US forces in Afghanistan
+to 14,000. However, Trump had indicated during election speeches that he was
+not interested in continuing with active US involvement in Afghanistan, making
+Ghani&amp;rsquo;s position even more vulnerable.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>Reconciliation Efforts</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P61"
+>Another significant characteristic of
+the Ghani Government was its resolve to bring the Taliban to the negotiating
+table as a necessary step to put an end to the apparently interminable conflict.
+To that end, government representatives and members of the Taliban had met
+in an informal meeting in Doha, organized by an international NGO, in May
+2015. Although the meeting was unofficial, an important outcome was consensus
+on the reopening of the political representative office of the Taliban in
+Doha, to serve as the venue for peace talks in the future. To keep the momentum
+going, President Ghani also stepped up diplomatic efforts to promote Afghan
+peace and reconciliation with various regional stakeholders, particularly
+Pakistan, given its historically close ties with the Taliban leadership. Stating
+that Pakistan and Afghanistan faced &amp;lsquo;common enemies&amp;rsquo;, Pakistan
+Prime Minister Nawaz Sharif hosted the first official peace talks between
+the Afghan Government and the Taliban in the Pakistani capital, Islamabad,
+in July 2015, in the presence of US and Chinese observers.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P62"
+>The initial optimism around the official
+start of negotiations, however, was short-lived as the Afghan Government&amp;rsquo;s
+announcement in July 2015 of the death of Taliban chief Mullah Omar (he had
+apparently died of tuberculosis in Kabul in April 2013) had created a rift
+within the Taliban leadership over choosing Omar&amp;rsquo;s successor. Although
+Omar&amp;rsquo;s long-time aide Mullah Mohammad Akhtar Mansour was appointed as
+the new leader of the group at the end of July 2015, some members of the Taliban
+opposed his leadership. Indicating a lack of internal consensus on making
+peace with the Afghan Government, Mullah Mansour refused to countenance the
+resumption of peace negotiations and instead called on the Taliban to continue
+its <I
+>jihad</I>. Against a backdrop of stalled negotiations, the temporary
+seizure of the city of Kunduz by the Taliban in September&amp;ndash;October demonstrated
+the deteriorating security situation in northern parts of the country and
+the Taliban&amp;rsquo;s overarching resolve to continue the war. The capture of
+Kunduz was considered the group&amp;rsquo;s most significant advance since being
+forced out of power in 2001 and put an additional strain on Afghanistan&amp;rsquo;s
+relations with Pakistan, as Afghan leaders suspected Pakistani assistance
+in the Taliban&amp;rsquo;s military operation in the north, although the Pakistani
+Government denied this vehemently.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P63"
+>Even as the Afghan Government continued
+in its efforts to reinvigorate the peace process through multilateral initiatives
+such as the Quadrilateral Co-ordination Group, which was established in January
+2015 by Afghanistan, Pakistan, China and the USA to foster effective diplomatic
+relations to promote Afghan peace and reconciliation, it achieved limited
+progress, owing to the Taliban&amp;rsquo;s refusal to join the talks, citing non-fulfilment
+of their fundamental demands&amp;mdash;namely the withdrawal of foreign forces,
+the revocation of international sanctions on the group and the release of
+its prisoners. The assassination of Taliban leader Mullah Mansour in a strike
+by a US unmanned aerial vehicle (drone) in Balochistan, Pakistan, in May 2016
+further undermined the peace process. Mansour's successor, Mullah Hibatullah
+Akhundzada, chose to focus on consolidating his leadership and increasing
+combat operations, instead of participating in the peace process. None the
+less, a significant breakthrough was achieved by the Ghani Government when
+it signed a peace agreement with Hekmatyar&amp;rsquo;s Hizb-i-Islami in September.
+The agreement provided immunity from prosecution for the armed group&amp;rsquo;s
+members for historic acts of violence and allowed its entry into the mainstream
+political and military life of the country. In return, the group agreed to
+recognize the Afghan Constitution and renounce militant activity outright.
+In another significant step forward in the peace process, the Afghan Government
+launched the Kabul Process for Peace and Security Cooperation in June 2017,
+which aimed to consolidate regional and international peace initiatives under
+Afghan leadership. The fact that the conference was convened as planned, even
+in the face of intensified insurgent violence, was a testament to the resolve
+of the political leadership to work towards lasting peace and stability in
+Afghanistan.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>The Peace Process Reinvigorated</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P64"
+>The year 2018 saw an increased momentum
+in support of a peace process between the Government and the Taliban, bolstered
+by calls for peace and security by various Afghan civil society groups as
+well as religious communities. Although violence resumed eventually, the ceasefire
+between government forces and the Taliban that began on 12 June 2018 to mark
+the Islamic festival of Id al-Fitr was seen as another step in the right direction.
+The appointment of US Special Representative for Afghan Reconciliation Zalmay
+Khalilzad in September provided an additional impetus to Afghanistan&amp;rsquo;s
+pursuit of a negotiated settlement to the decades-old conflict. </P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P65"
+>In an effort to demonstrate the seriousness
+of its commitment to bring stability to Afghanistan, the USA had suspended
+US&amp;nbsp;$2,000m. worth of security aid to Pakistan in January 2018, citing
+repeated complaints of inaction on Pakistan's part in dismantling terrorist
+sanctuaries within its borders, particularly those of the Taliban and the
+group&amp;rsquo;s armed guerilla wing, the Haqqani network. In September the USA
+revoked another $300m. in aid to Pakistan for the same reasons. Although the
+decision was initially lauded by Afghans, who for long had held Pakistan responsible
+as the festering ground for militancy in Afghanistan, the measure created
+tensions in Pakistan&amp;rsquo;s relations with Afghanistan and the USA. The suspension
+of aid was ultimately reversed by President Trump, upon a request from Pakistani
+Prime Minister Imran Khan during a state visit to Washington, DC, in July
+2019. Despite Trump&amp;rsquo;s original decision, which can be attributed to
+his general unpredictability in foreign policy formulation, the significance
+of Pakistan as a conduit for sending supplies to US troops stationed in Afghanistan
+was undoubtedly already well known within the US Government. Furthermore,
+it was widely believed that Pakistan would make for an important interlocutor
+in future international peace talks with the Taliban, by virtue of it being
+the only country with significant leverage over the group. Khalilzad occasionally
+chose to ignore Ghani altogether while negotiating with the Taliban leadership
+in Qatar. His main interlocuters, other than the Taliban representatives in
+Doha, were Pakistani diplomats and generals, with the latter still presumably
+retaining some influence on the Quetta Shura and senior Taliban leaders such
+as Mullah Abdul Ghani Baradar. This side-lining of the Kabul regime not only
+helped the Taliban in its re-emergence as an alternative political force,
+it equally and even decisively weakened the Ghani regime and soon stories
+about desertions by Afghan troops and civilian cadres began to make headlines
+in the international media.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P66"
+>Despite months of shuttle diplomacy
+conducted by US Special Envoy Khalilzad between Kabul and the Taliban&amp;rsquo;s
+representative office in Doha, as well as other countries in the region, and
+several multilateral initiatives to promote dialogue on peace, the Taliban
+remained adamant in its unwillingness to engage in direct talks with the Afghan
+Government, which they considered a puppet of the USA. Negotiations between
+Khalilzad and Taliban representatives continued in 2019, until President Trump
+cancelled the talks scheduled for September, following a suicide bombing in
+Kabul in which a US soldier was killed. Talks between the USA and the Taliban
+resumed in December, but a significant reduction in violence over a specified
+period was made a precondition for future negotiations to take place on a
+political settlement. After intense negotiations, on 29 February 2020 the
+USA and the Taliban signed the Agreement for Bringing Peace to Afghanistan.
+Under the agreement, the USA pledged to reduce its troops in Afghanistan to
+8,600 within 135 days of the deal being signed and to withdraw all troops
+by mid-2021. The agreement also committed the Taliban to counter-terrorism
+guarantees, including preventing the use of Afghan soil by any Afghan or foreign
+militant group, particularly for the preparation of attacks against the USA
+and its allies. As the Afghan Government was not party to the US-Taliban agreement,
+it signed a separate Joint Declaration with the USA on the same day, which
+reaffirmed the USA&amp;rsquo;s commitment to providing military and civilian support
+to Afghanistan, in pursuance of mutual security objectives. The Declaration
+also committed the Afghan Government to a number of relevant obligations that
+were stipulated in the US-Taliban deal, which would pave the way for intra-Afghan
+peace talks.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P67"
+>Meanwhile, the protracted feud between
+Ghani and Dr Abdullah continued. Dr Abdullah contested the declared result
+of the September 2019 presidential election, as he had in 2014, and declared
+himself to be President; the two political rivals held parallel swearing-in
+ceremonies in March 2020, which was not only unusual, but also diminished
+the credibility of the Afghan Government as a legitimate political entity.
+Reviving the hopes of many, however, was the power-sharing deal eventually
+signed between the two leaders in May, which signalled the formation of an
+inclusive government, with Ghani as the President and Dr Abdullah as the Chairman
+of the High Council for National Reconciliation, in charge of leading negotiations
+with the Taliban and with the right to appoint one-half of the cabinet. Another
+limitation to intra-Afghan talks was the lack of agreement between the Taliban
+and the Afghan Government over two key issues: the Taliban refused to comply
+with the Government&amp;rsquo;s demand for a comprehensive ceasefire, and the
+Taliban&amp;rsquo;s precondition of releasing about 5,000 of its fighters from
+Afghan prisons before commencing peace negotiations put the Government in
+an invidious position. Further complicating the situation was the presence
+of foreign Islamist militants in Afghanistan and an unwillingness on the part
+of the Taliban to sever ties with many of them, rendering the concept of enduring
+peace in the country a far-fetched proposition.</P></GEN-SECTION><GEN-SECTION
+PRINT-STYLE="COLUMN"
+SLLINK="SLSDOC"
+SLSDOCRF="GEN-SECTREF"
+><HEADING
+>The Second Taliban Regime: Afghanistan at a Crossroads</HEADING><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P68"
+>In the second half of the so-called
+&amp;lsquo;transformational decade&amp;rsquo; (2015&amp;ndash;24), Afghanistan continues
+to find itself confronted with serious challenges. The humanitarian crisis
+in the country, induced by many years of conflict and low economic growth,
+is deteriorating even further. The coronavirus disease (COVID-19) pandemic
+has exacerbated the socioeconomic difficulties faced by the population, such
+as extreme poverty, displacement, the repatriation of refugees from neighbouring
+states and acute food insecurity. By May 2020 some 13.3m. people out of a
+total population of almost 31m. were facing emergency levels of food insecurity,
+with a total of about 3m. women and children suffering from acute malnourishment.
+Just when the country was recovering from the devastation caused by the 2018
+drought, the effects of which lingered into 2019, the pandemic, which spread
+to Afghanistan in early 2020, pushed the already food-insecure Afghan people
+into yet another crisis. The increasingly high number of undocumented returnees,
+as well as documented returning refugees, coming mostly from Iran, also placed
+a strain on the economy, with the Afghan Government incapable of providing
+support to all. The fact that Iran was one of the countries worst hit by the
+pandemic meant that many returning Afghans were potential carriers of the
+virus. In any case, the general lack of contingency planning for health crises
+and the limited capacity of the health care sector to operationalize preparedness,
+owing to a consistent lack of funding, rendered Afghanistan particularly vulnerable
+to the negative consequences of COVID-19.</P><P
+ID="AFGHANISTAN.HISTORY.ED.DF.P69"
+>Furthermore, of particular importance
+is the country&amp;rsquo;s inability to venture down the path of economic self-reliance,
+as the security climate and corresponding humanitarian crises still deem foreign
+aid to be imperative for economic growth and development. Flows of aid, which
+amounted to 100% of gross domestic product (GDP) in 2009, had fallen to 42%
+of GDP by 2020, according to the World Bank, and the COVID-19 pandemic weighed
+heavily on the Afghan economy, leading to a contraction of GDP of around 1.9%
+in 2020, putting much of the population at risk of slipping into poverty.
+An additional blow to the already weak economy was the consistently high level
+of corruption among government officials, despite President Ghani&amp;rsquo;s
+overt commitments to enact policies to tackle graft.</P><P
+>Against this backdrop, the swiftly evolving security situation in 2021
+had a dramatic impact on the country&amp;rsquo;s prospects. In anticipation of
+intra-Afghan peace negotiations and as the US withdrawal of troops continued,
+the Government released thousands of Taliban prisoners in 2020. The much awaited
+peace talks began in Doha in September, with the Afghan government team headed
+by Abdullah Abdullah and the Taliban team led by Mullah Abdul Ghani Baradar.
+In the months that followed, despite assurances from both sides of their commitment
+to a peaceful, negotiated resolution, little progress was made, the many expected
+obstacles to agreement&amp;mdash;among them, the two groups&amp;rsquo; fundamentally
+opposed visions of what a future Afghanistan, its rights, freedoms and values,
+should look like&amp;mdash;seeming often insurmountable. There was also suspicion
+among critics of the Taliban that the halting nature of the talks was attributable
+to a wider strategy of buying time. Meanwhile, casualties mounted: according
+to Abdullah, some 12,000 Afghans had died in the six months following the
+signing of the Agreement for Bringing Peace to Afghanistan. With the pandemic
+appearing to have dampened conflicts elsewhere, Afghanistan had the highest
+number of civilian deaths from explosive devices in the world in 2020, according
+to the charity Action on Armed Violence. Moreover, UNAMA noted a further rise
+in violence following the commencement of the intra-Afghan talks and highlighted
+a disturbing development: in 2020, 43% of civilian deaths were women and children.</P><P
+>Further talks between the Afghan Government and the Taliban delegations
+were held in Moscow, Russia, in March 2021. Regional actors such as China,
+Russia and Pakistan, who were certain to play an important role after the
+US withdrawal, reiterated pleas for a ceasefire. The lack of women&amp;mdash;predictably
+absent from the Taliban team and in small numbers in the government team&amp;mdash;at
+the negotiating table was cause for concern. Widespread doubt greeted the
+Taliban&amp;rsquo;s repeated promises that it intended to respect women&amp;rsquo;s
+rights, and first-hand accounts from areas under Taliban control, where punishment
+for adultery or even rape was said to include flogging, appeared to contradict
+its claims. A bomb attack at a girls&amp;rsquo; secondary school in a Kabul suburb
+in May, which resulted in the deaths of more than 80 people, mainly girls,
+was a reminder of what was at stake; the Taliban denied responsibility for
+the bombing.</P><P
+>The new US President, Joe Biden, extended the deadline for the withdrawal
+of US troops from May to September (later brought forward to the end of August),
+and the other NATO forces were to have departed by this time. Although many
+had warned of likely Taliban gains, few were prepared for the astonishing
+speed of the Taliban&amp;rsquo;s advances in mid-2021. By June it was said to
+control one-quarter of the districts in Afghanistan, barring the urban centres,
+and by July the Taliban had taken hold of more than one-half of the country,
+although this was initially disputed by the Government. Many towns and cities
+were effectively under siege, with Taliban forces controlling the surrounding
+land and transport routes, and urban centres relying solely on air support.
+Certain key border crossings with Iran, Pakistan and Tajikistan were also
+rapidly taken over by the Taliban, making official control untenable. There
+were reports of mass desertions and low morale among the Afghan forces. In
+northern Afghanistan some 300 Afghan soldiers were said to have fled into
+Tajikistan as the Taliban advanced, and many more followed. Meanwhile, the
+decision of US forces to vacate Bagram airbase in the middle of the night,
+neglecting to carry out a formal handover to Afghan forces, reportedly sparked
+outrage in some quarters. US casualties during the long conflict amount to
+2,448 deaths; the civilian death toll was many times this, having surpassed
+100,000 in 2019, according to UNAMA, and it increased at an alarming rate
+in 2021.</P><P
+>Any uncertainty about the Taliban&amp;rsquo;s ability to capture and hold the
+provincial capitals and larger urban centres was dispelled in August, when
+their conquest of Zaranj in Nimroz province marked the beginning of the extraordinary
+final phase of the group&amp;rsquo;s offensive. With heavy fighting in some areas
+and apparently little resistance from the Afghan military in others, city
+after city fell to the Taliban. Provincial capitals capitulated along with
+strategic strongholds such as Kunduz, the site of the Taliban&amp;rsquo;s surrender
+in 2001 and therefore a symbolic victory for the Taliban 20 years later. As
+the onslaught continued and amid fears that Kabul itself could be captured
+within months, the US Government announced the temporary deployment of 3,000
+troops (later increased to 5,000) to secure the withdrawal of diplomatic staff
+from the country. A full Taliban takeover appeared inevitable as it emerged
+that Qandahar, Herat and Lashkar Gah had been captured soon after. A Taliban
+spokesman assured the populace that no one would be harmed, but there were
+reports of those linked to the Ghani administration and NATO forces being
+targeted, and female workers and university students being told to stay at
+home. Some 550,000 Afghans were said to have been displaced by the fighting
+in 2021. In the event, the Taliban&amp;rsquo;s capture of Kabul on 15 August was
+not marked by heavy fighting; President Ghani f<?Pub Caret?>led the country
+and Taliban fighters were able to enter the presidential palace by the end
+of the day, while the employees of numerous foreign embassies, along with
+thousands of Afghans, sought refuge at Hamid Karzai International Airport.
+On 16 August the Taliban declared that the war was over, and stated its commitment
+to a peaceful transfer of power and the formation of a new government. To
+this end, Hamid Karzai was reported to be heading a council of non-Taliban
+Afghan leaders, including Abdullah Abdullah, negotiating with the Taliban.
+The claims of the former Vice-President, Amrullah Saleh, that he was constitutionally
+the Acting President, came to nothing. Ghani, who had relocated to the UAE,
+in an interview claimed to have fled the country to avoid bloodshed, although
+he expressed his intention eventually to return to Afghanistan. Ahmad Masoud&amp;rsquo;s
+initial attempts to resist the Taliban in Panjshir did not succeed, and soon
+the entire country was under Taliban control. Meanwhile, the focus of the
+US, British and other foreign Governments turned to evacuating their citizens
+from the country, using troops to secure the international airport and facilitating
+evacuation through Pakistani cities. In addition, the US Administration froze
+a large portion of the assets of Da Afghan Bank, the Afghan central bank,
+to prevent the Taliban accessing billions of dollars of reserves held in US
+accounts; this decision, which was repeatedly challenged by the Taliban as
+the plight of ordinary Afghans became all the more desperate, seriously exacerbated
+the country&amp;rsquo;s economic situation.</P><P
+>The declaration in August of an Islamic Emirate of Afghanistan, with Hibatullah
+Akhundzada as its Leader, was soon followed by the appointment of an interim
+Government dominated by senior members of the Taliban. Mullah Mohammad Hassan
+Akhund was named as acting Prime Minister and Mullah Baradar as one of three
+acting Deputy Prime Ministers. Mullah Sirajuddin Haqqani, the leader of the
+Haqqani network and subject of UN sanctions, became Minister of Interior Affairs
+and Mullah Mohammad Yaqoob Mujahid, the son of Mullah Omar, was named as Minister
+of Defence. Despite appeals from the international community, which continued
+to withhold official recognition of the regime, the dramatic erosion of women&amp;rsquo;s
+rights under the Taliban gathered pace, most notably in the restriction of
+access to education and employment.</P><P
+>Afghanistan was also on the brink of complete devastation, with the UN
+estimating in January 2022 that around 24.4m. people, more than one-half of
+the population, were in need of humanitarian assistance; Afghanistan had more
+people in a state of emergency food insecurity than anywhere else in the world.
+The sudden halt of development assistance following the Taliban takeover was
+a defining factor, with drought and the effects of the COVID-19 pandemic contributing
+to the crisis. The decision of US President Biden in February to sign an executive
+order setting aside more than US $3,500m., or roughly one-half of the Afghan
+Government&amp;rsquo;s assets frozen in the USA, for &amp;lsquo;ongoing litigation
+by US victims of terrorism&amp;rsquo; was, needless to say, controversial, and
+strongly condemned by the Taliban. The release of the remaining financial
+assets, however, was under negotiation. By June 2022 some 25m. Afghans were
+described by the UN as living in poverty, more than double the number in 2011.
+An earthquake in that month deepened the country&amp;rsquo;s woes, causing an
+estimated 770 deaths.</P><P
+>Concerns about increased activity by the local branch of the militant Islamist
+group Islamic State, the so-called Islamic State Khorasan, were not unfounded,
+with the group claiming responsibility for numerous attacks in 2021 and 2022,
+including a series of attacks on the Shi&amp;rsquo;a minority. In July 2022 al-Qa&amp;lsquo;ida
+leader Ayman al-Zawahiri was killed by a US drone strike on his reported safe
+house in Kabul, confirming the continuation of US engagement and intelligence-gathering
+activities in Afghanistan. Certainly the apprehensions about disparate al-Qa&amp;lsquo;ida
+militants gathering once again in the country and aligning themselves with
+Islamic State or even some Taliban elements persisted in Western countries,
+although in the immediate aftermath the Taliban refused to acknowledge the
+presence or death of Osama Bin Laden&amp;rsquo;s deputy in their capital.</P><P
+>The scale of the Taliban&amp;rsquo;s victory has raised many questions about
+the past and the future: about the goals and failures of the lengthy US-led
+occupation of Afghanistan, the extent of the international community&amp;rsquo;s
+future involvement in the country and, of course, how the Taliban will ultimately
+choose to govern. The potential for extremists and foreign militants to exploit
+the current situation is also of grave concern. As the terrible human cost
+of Afghanistan&amp;rsquo;s many decades of conflict continues to mount, it appears
+that the world&amp;rsquo;s attention has moved on and is, for now, focused elsewhere.
+Nevertheless, Afghanistan&amp;rsquo;s continuing prominence as a geopolitical
+and ideological battleground seems assured; perhaps more importantly, its
+history contains crucial lessons for the global powers and the international
+community. </P></GEN-SECTION></GEN-SECTION></COUNTRY-SURVEY>
