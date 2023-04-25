@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <component name="Hello World Pradeep" extends="Scene"> 
 	<children>
-      <Label id="myLabel" 
-      	text="Hello World! is My first XML Prorgram"
-      	width="1280" 
-      	height="720" 
-      	horizAlign="center"
-      	vertAlign="center"
-      	/>
+      <Label id="myLabel" text="Hello World! is My first XML Prorgram" width="1280" height="720" horizAlign="center" vertAlign="center"/>
+<Label>Thi is My First XML Program in Oxygen XML</Label>
     </children>
 </component>
